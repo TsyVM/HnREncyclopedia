@@ -17,8 +17,8 @@
 
 This is a self-contained, byte-level and runtime-level guide to the file formats, data structures,
 classes, and subsystems of *The Simpsons: Hit & Run* — the open-world driving-and-platforming game
-built by **Radical Entertainment** on their **Pure3D** engine and **RadCore** runtime. It is the
-a self-contained, byte-level and runtime-level reference, and it follows one discipline throughout: understand the
+built by **Radical Entertainment** on their **Pure3D** engine and **RadCore** runtime. It follows one
+discipline throughout: understand the
 game the way its authors did, and change it with confidence — from swapping a single texture, to
 rebuilding a car's handling, to retuning a mission, to tracing a value from the HUD down to the byte
 it was read from on disk.
@@ -108,46 +108,46 @@ Everything downstream depends on Part I. Read C1–C4 in order; the rest of the 
 
 ### Part II — Textures, shaders & geometry
 
-5. **C5 — Textures & Images** (`0x00019000/1/2`): the Texture→Image→Image-Data hierarchy and embedded PNG/BMP payloads.
-6. **C6 — Shaders & Materials** (`0x00010000` + typed params): how a drawable binds textures and render state.
-7. **C7 — Meshes & Primitive Groups** (`0x00011000` family): vertex streams, normals/UVs, colours, and index buffers.
-8. **C8 — Skeletons, Skinning & Locators**: joints, skin weights, and the locator groups that pin gameplay to geometry.
-9. **C9 — Geometry Import/Export**: exporting to OBJ/glTF and rebuilding vertex/index buffers.
+5. [**C5 — Textures & Images**](C5-Textures-Images/C5-Textures-Images.md) (`0x00019000/1/2`): the Texture→Image→Image-Data hierarchy and embedded PNG/BMP payloads.
+6. [**C6 — Shaders & Materials**](C6-Shaders-Materials/C6-Shaders-Materials.md) (`0x00010000` + typed params): how a drawable binds textures and render state.
+7. [**C7 — Meshes & Primitive Groups**](C7-Meshes-Primitive-Groups/C7-Meshes-Primitive-Groups.md) (`0x00011000` family): vertex streams, normals/UVs, colours, and index buffers.
+8. [**C8 — Skeletons, Skinning & Locators**](C8-Skeletons-Locators/C8-Skeletons-Locators.md): joints, skin weights, and the locator groups that pin gameplay to geometry.
+9. [**C9 — Geometry Import/Export**](C9-Geometry-IO/C9-Geometry-IO.md): exporting to OBJ/glTF and rebuilding vertex/index buffers.
 
 ### Part III — The world & scene
 
-10. **C10 — The Scenegraph** (`0x03F0xxxx`): roots, branches, transforms, drawables, and sort order.
-11. **C11 — Collision & Intersect** (`0x00120xxx`/`0x00121xxx`): the collision-volume tree and the Intersect DSG.
-12. **C12 — Level Composition**: terrain (`L*_TERRA.p3d`), world blocks (`b**.p3d`), and static entities.
-13. **C13 — Paths, Fences & Road Data** (`0x03000xxx`): the navigation and barrier geometry cars and NPCs use.
+10. [**C10 — The Scenegraph**](C10-Scenegraph/C10-Scenegraph.md) (`0x03F0xxxx`): roots, branches, transforms, drawables, and sort order.
+11. [**C11 — Collision & Intersect**](C11-Collision-Intersect/C11-Collision-Intersect.md) (`0x00120xxx`/`0x00121xxx`): the collision-volume tree and the Intersect DSG.
+12. [**C12 — Level Composition**](C12-Level-Composition/C12-Level-Composition.md): terrain (`L*_TERRA.p3d`), world blocks (`b**.p3d`), and static entities.
+13. [**C13 — Paths, Fences & Road Data**](C13-Paths-Fences/C13-Paths-Fences.md) (`0x03000xxx`): the navigation and barrier geometry cars and NPCs use.
 
 ### Part IV — Scripting, missions & characters
 
-14. **C14 — MFK Level & Mission Scripts**: the `LoadP3DFile`/`LoadDisposableCar` vocabulary that assembles a level.
-15. **C15 — CON Vehicle & Config Scripts**: the `Set*` handling vocabulary (`scripts/cars/*.con`).
-16. **C16 — Mission Structure & Objectives**: how the seven levels' missions are wired.
-17. **C17 — Choreography & Characters** (`.cho`, `.p3d` chars): NPC scripting and character rigs.
+14. [**C14 — MFK Level & Mission Scripts**](C14-MFK-Scripts/C14-MFK-Scripts.md): the `LoadP3DFile`/`LoadDisposableCar` vocabulary that assembles a level.
+15. [**C15 — CON Vehicle & Config Scripts**](C15-CON-Scripts/C15-CON-Scripts.md): the `Set*` handling vocabulary (`scripts/cars/*.con`).
+16. [**C16 — Mission Structure & Objectives**](C16-Missions-Objectives/C16-Missions-Objectives.md): how the seven levels' missions are wired.
+17. [**C17 — Choreography & Characters**](C17-Choreography-Characters/C17-Choreography-Characters.md) (`.cho`, `.p3d` chars): NPC scripting and character rigs.
 
 ### Part V — Audio & video
 
-18. **C18 — RSD Sound Format**: the `RSD4PCM`/ADPCM sample container.
-19. **C19 — The Audio Archives**: `carsound`, `soundfx`, `ambience`, `dialog`, and the four `music0*` RCFs.
-20. **C20 — Bink Video** (`.rmv`, `BIKi`): the FMV container and playback.
+18. [**C18 — RSD Sound Format**](C18-RSD-Sound/C18-RSD-Sound.md): the `RSD4PCM`/ADPCM sample container.
+19. [**C19 — The Audio Archives**](C19-Audio-Archives/C19-Audio-Archives.md): `carsound`, `soundfx`, `ambience`, `dialog`, and the four `music0*` RCFs.
+20. [**C20 — Bink Video**](C20-Bink-Video/C20-Bink-Video.md) (`.rmv`, `BIKi`): the FMV container and playback.
 
 ### Part VI — Front-end, UI & text
 
-21. **C21 — Scrooby UI** (`.pag` XML, `.scr`, `.prj`): the menu/HUD layout system.
-22. **C22 — Fonts, Glyphs & Localization**: text rendering and string tables.
+21. [**C21 — Scrooby UI**](C21-Scrooby-UI/C21-Scrooby-UI.md) (`.pag` XML, `.scr`, `.prj`): the menu/HUD layout system.
+22. [**C22 — Fonts, Glyphs & Localization**](C22-Fonts-Localization/C22-Fonts-Localization.md): text rendering and string tables.
 29. [**C29 — Maps & the HUD Minimap**](C29-Maps-Minimap/C29-Maps-Minimap.md): the seven per-level HUD maps (`l1hudmap`–`l7hudmap.p3d`), the full-screen map, and mission/objective icons.
 
 ### Part VII — The runtime class system
 
 The book pivots here from *files on disk* to the *running game*, using the RTTI-verified class set.
 
-23. **C23 — The RTTI Class Model**: roles, namespaces, and how the 1,207-class set is organised.
-24. **C24 — Vehicles at Runtime** (`Vehicle`, `VehicleCentral`): from `.con` values to live handling.
-25. **C25 — Characters & AI** (`Character`, `CharacterAi`, `choreo::*`).
-26. **C26 — Missions, Cameras & Physics at Runtime** (`Mission*`, `SuperCam*`, `sim::*`).
+23. [**C23 — The RTTI Class Model**](C23-RTTI-Class-Model/C23-RTTI-Class-Model.md): roles, namespaces, and how the 1,207-class set is organised.
+24. [**C24 — Vehicles at Runtime**](C24-Vehicles-Runtime/C24-Vehicles-Runtime.md) (`Vehicle`, `VehicleCentral`): from `.con` values to live handling.
+25. [**C25 — Characters & AI**](C25-Characters-AI/C25-Characters-AI.md) (`Character`, `CharacterAi`, `choreo::*`).
+26. [**C26 — Missions, Cameras & Physics at Runtime**](C26-Missions-Cameras-Physics/C26-Missions-Cameras-Physics.md) (`Mission*`, `SuperCam*`, `sim::*`).
 
 ### Part VIII — Save data, config & modding
 
