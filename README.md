@@ -1,16 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00599C&height=210&section=header&text=HnR%20Encyclopedia&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=The%20Simpsons%3A%20Hit%20%26%20Run%20%C2%B7%20Engine-Level%20Reference%20%C2%B7%20Byte-Level%20%2B%20RTTI-Verified&descAlignY=58&descSize=16"/>
-
 <img src="hnrencyclopedia-logo.png" alt="The Simpsons: Hit & Run Encyclopedia" width="440">
-
-<br/>
-
-<a href="https://github.com/TsyVM/HnREncyclopedia">
-<img src="https://readme-typing-svg.demolab.com/?lines=Understand+the+game+the+way+its+authors+did.;Byte-level+%2B+RTTI-verified.+Nothing+guessed.;39+chapters%3A+from+one+chunk+header+to+the+running+game.&font=Fira%20Code&center=true&width=680&height=45&color=8A2BE2&vCenter=true&size=20&pause=1800"/>
-</a>
-
-<br/>
 
 [![Chapters](https://img.shields.io/badge/chapters-39-8A2BE2?style=for-the-badge)](#-chapters)
 [![Pages](https://img.shields.io/badge/pages-250%2B-8A2BE2?style=for-the-badge)](#-chapters)
