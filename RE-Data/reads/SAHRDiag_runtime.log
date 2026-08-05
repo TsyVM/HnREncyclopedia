@@ -1,0 +1,5 @@
+SAHRDiag static pass (runtime: live Simpsons.exe)
+image base 0x00400000 size 0x32D000
+.text 0x00401000 (0x1F2000)  .data 0x00641000  .rdata 0x005F3000
+wrote SAHRDiag_strings.csv, SAHRDiag_classes.csv, SAHRDiag_vtables.csv
+live-object scan: 20000 instances across 1228 known vtables
