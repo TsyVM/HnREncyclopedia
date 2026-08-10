@@ -1,0 +1,50 @@
+[
+ {
+  "interior_id": "android",
+  "display_name": "The Android's Dungeon (comic shop)",
+  "level": "level01",
+  "source": "GagSetInterior in scripts/missions"
+ },
+ {
+  "interior_id": "bartroom",
+  "display_name": "Bart's Room (Simpsons house)",
+  "level": "level01",
+  "source": "GagSetInterior in scripts/missions"
+ },
+ {
+  "interior_id": "dmv",
+  "display_name": "DMV",
+  "level": "level01",
+  "source": "GagSetInterior in scripts/missions"
+ },
+ {
+  "interior_id": "kwikemart",
+  "display_name": "Kwik-E-Mart",
+  "level": "level01",
+  "source": "GagSetInterior in scripts/missions"
+ },
+ {
+  "interior_id": "moe1",
+  "display_name": "Moe's Tavern",
+  "level": "level01",
+  "source": "GagSetInterior in scripts/missions"
+ },
+ {
+  "interior_id": "observatory",
+  "display_name": "Observatory",
+  "level": "level01",
+  "source": "GagSetInterior in scripts/missions"
+ },
+ {
+  "interior_id": "simpsonshouse",
+  "display_name": "Simpsons House",
+  "level": "level01",
+  "source": "GagSetInterior in scripts/missions"
+ },
+ {
+  "interior_id": "springfieldelementary",
+  "display_name": "Springfield Elementary",
+  "level": "level01",
+  "source": "GagSetInterior in scripts/missions"
+ }
+]

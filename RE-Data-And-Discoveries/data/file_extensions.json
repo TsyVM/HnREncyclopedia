@@ -1,0 +1,122 @@
+[
+ {
+  "ext": "p3d",
+  "count": 1969
+ },
+ {
+  "ext": "png",
+  "count": 930
+ },
+ {
+  "ext": "mfk",
+  "count": 344
+ },
+ {
+  "ext": "con",
+  "count": 255
+ },
+ {
+  "ext": "pag",
+  "count": 119
+ },
+ {
+  "ext": "scr",
+  "count": 68
+ },
+ {
+  "ext": "rmv",
+  "count": 16
+ },
+ {
+  "ext": "prj",
+  "count": 13
+ },
+ {
+  "ext": "dll",
+  "count": 12
+ },
+ {
+  "ext": "err",
+  "count": 11
+ },
+ {
+  "ext": "rcf",
+  "count": 10
+ },
+ {
+  "ext": "cho",
+  "count": 9
+ },
+ {
+  "ext": "csv",
+  "count": 5
+ },
+ {
+  "ext": "exe",
+  "count": 3
+ },
+ {
+  "ext": "txt",
+  "count": 2
+ },
+ {
+  "ext": "rsd",
+  "count": 2
+ },
+ {
+  "ext": "ini",
+  "count": 2
+ },
+ {
+  "ext": "ico",
+  "count": 2
+ },
+ {
+  "ext": "zip",
+  "count": 1
+ },
+ {
+  "ext": "x",
+  "count": 1
+ },
+ {
+  "ext": "typ",
+  "count": 1
+ },
+ {
+  "ext": "started",
+  "count": 1
+ },
+ {
+  "ext": "s",
+  "count": 1
+ },
+ {
+  "ext": "rtf",
+  "count": 1
+ },
+ {
+  "ext": "pem",
+  "count": 1
+ },
+ {
+  "ext": "json",
+  "count": 1
+ },
+ {
+  "ext": "i",
+  "count": 1
+ },
+ {
+  "ext": "g",
+  "count": 1
+ },
+ {
+  "ext": "f",
+  "count": 1
+ },
+ {
+  "ext": "e",
+  "count": 1
+ }
+]

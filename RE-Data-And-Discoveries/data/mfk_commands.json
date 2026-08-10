@@ -1,0 +1,862 @@
+[
+ {
+  "command": "LoadP3DFile",
+  "occurrences": "1013",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddCollectible",
+  "occurrences": "689",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddObjective",
+  "occurrences": "671",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "CloseObjective",
+  "occurrences": "671",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddStage",
+  "occurrences": "670",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "CloseStage",
+  "occurrences": "670",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddAmbientPcAnimation",
+  "occurrences": "570",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddAmbientNpcAnimation",
+  "occurrences": "547",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetStageMessageIndex",
+  "occurrences": "495",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddAmbientNPCWaypoint",
+  "occurrences": "473",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddPed",
+  "occurrences": "444",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddStageWaypoint",
+  "occurrences": "442",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddCondition",
+  "occurrences": "435",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "CloseCondition",
+  "occurrences": "435",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetHUDIcon",
+  "occurrences": "429",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "GagBegin",
+  "occurrences": "419",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "GagEnd",
+  "occurrences": "419",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "GagSetCycle",
+  "occurrences": "419",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "GagSetPosition",
+  "occurrences": "418",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "GagSetRandom",
+  "occurrences": "418",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "GagSetTrigger",
+  "occurrences": "414",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "GagSetSound",
+  "occurrences": "406",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetConversationCam",
+  "occurrences": "399",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddSpawnPointByLocatorScript",
+  "occurrences": "371",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddBehaviour",
+  "occurrences": "351",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetCollectibleEffect",
+  "occurrences": "337",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddNPC",
+  "occurrences": "318",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "GagSetInterior",
+  "occurrences": "309",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AmbientAnimationRandomize",
+  "occurrences": "264",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetDestination",
+  "occurrences": "216",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddObjectiveNPCWaypoint",
+  "occurrences": "189",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "GagSetCoins",
+  "occurrences": "181",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddStageVehicle",
+  "occurrences": "177",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddToCountdownSequence",
+  "occurrences": "176",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "GagSetPersist",
+  "occurrences": "175",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SuppressDriver",
+  "occurrences": "162",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "CloseMission",
+  "occurrences": "154",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SelectMission",
+  "occurrences": "154",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetDynaLoadData",
+  "occurrences": "154",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "BindReward",
+  "occurrences": "147",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetDialogueInfo",
+  "occurrences": "138",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetCondTargetVehicle",
+  "occurrences": "136",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetMaxTraffic",
+  "occurrences": "136",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "RESET_TO_HERE",
+  "occurrences": "135",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "UsePedGroup",
+  "occurrences": "134",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetCamBestSide",
+  "occurrences": "130",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "LoadDisposableCar",
+  "occurrences": "128",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddAmbientCharacter",
+  "occurrences": "122",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "ShowStageComplete",
+  "occurrences": "120",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetParticleTexture",
+  "occurrences": "119",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "ClosePedGroup",
+  "occurrences": "116",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "CreatePedGroup",
+  "occurrences": "116",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetCondMinHealth",
+  "occurrences": "113",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetDialoguePositions",
+  "occurrences": "107",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetStageTime",
+  "occurrences": "107",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetObjTargetVehicle",
+  "occurrences": "101",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetCondTime",
+  "occurrences": "100",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetTalkToTarget",
+  "occurrences": "100",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "GagSetSparkle",
+  "occurrences": "99",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetMissionResetPlayerInCar",
+  "occurrences": "82",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddNPCCharacterBonusMission",
+  "occurrences": "81",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddTeleportDest",
+  "occurrences": "78",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetHitNRun",
+  "occurrences": "78",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetAnimCamMulticontName",
+  "occurrences": "76",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetAnimatedCameraName",
+  "occurrences": "76",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddStageTime",
+  "occurrences": "74",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetCarAttributes",
+  "occurrences": "74",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetPresentationBitmap",
+  "occurrences": "69",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetMissionResetPlayerOutCar",
+  "occurrences": "68",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddMission",
+  "occurrences": "64",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddTrafficModel",
+  "occurrences": "64",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetStageAIRaceCatchupParams",
+  "occurrences": "64",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetMissionStartCameraName",
+  "occurrences": "61",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetMissionStartMulticontName",
+  "occurrences": "61",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetVehicleAIParams",
+  "occurrences": "61",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "ActivateVehicle",
+  "occurrences": "48",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddBonusMission",
+  "occurrences": "46",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddBonusMissionNPCWaypoint",
+  "occurrences": "45",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetCompletionDialog",
+  "occurrences": "45",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "StartCountdown",
+  "occurrences": "43",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "TurnGotoDialogOff",
+  "occurrences": "43",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "BindCollectibleTo",
+  "occurrences": "36",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "PlacePlayerCar",
+  "occurrences": "36",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddPurchaseCarReward",
+  "occurrences": "32",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "InitLevelPlayerVehicle",
+  "occurrences": "32",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetBonusMissionDialoguePos",
+  "occurrences": "29",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddVehicleSelectInfo",
+  "occurrences": "28",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "ClearAmbientAnimations",
+  "occurrences": "28",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "PutMFPlayerInCar",
+  "occurrences": "28",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetDurationTime",
+  "occurrences": "27",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddPurchaseCarNPCWaypoint",
+  "occurrences": "26",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "DisableHitAndRun",
+  "occurrences": "25",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "StreetRacePropsLoad",
+  "occurrences": "23",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "StreetRacePropsUnload",
+  "occurrences": "23",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "GagSetAnimCollision",
+  "occurrences": "22",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddGagBinding",
+  "occurrences": "21",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "NoTrafficForStage",
+  "occurrences": "21",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetConversationCamNpcName",
+  "occurrences": "21",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetConversationCamPcName",
+  "occurrences": "21",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetRaceLaps",
+  "occurrences": "21",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetNumValidFailureHints",
+  "occurrences": "20",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "PreallocateActors",
+  "occurrences": "19",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetStageMusicAlwaysOn",
+  "occurrences": "18",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "EnableTutorialMode",
+  "occurrences": "17",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetConditionPosition",
+  "occurrences": "17",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetObjDistance",
+  "occurrences": "17",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddCharacter",
+  "occurrences": "16",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddStageCharacter",
+  "occurrences": "16",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "CloseTrafficGroup",
+  "occurrences": "16",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "CreateChaseManager",
+  "occurrences": "16",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "CreateTrafficGroup",
+  "occurrences": "16",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetActorRotationSpeed",
+  "occurrences": "16",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetCoinDrawable",
+  "occurrences": "16",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetFadeOut",
+  "occurrences": "16",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetForcedCar",
+  "occurrences": "16",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetNumChaseCars",
+  "occurrences": "16",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetProjectileStats",
+  "occurrences": "16",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "StageStartMusicEvent",
+  "occurrences": "15",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "RACE",
+  "occurrences": "14",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetHitAndRunDecay",
+  "occurrences": "14",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddStageMusicChange",
+  "occurrences": "13",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddShield",
+  "occurrences": "12",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "GasSound",
+  "occurrences": "12",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetFollowDistances",
+  "occurrences": "12",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetSwapDefaultCarLocator",
+  "occurrences": "12",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetSwapForcedCarLocator",
+  "occurrences": "12",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetSwapPlayerLocator",
+  "occurrences": "12",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SwapInDefaultCar",
+  "occurrences": "12",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "ClearGagBindings",
+  "occurrences": "11",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "GagPlayFMV",
+  "occurrences": "11",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "MustActionTrigger",
+  "occurrences": "10",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetMusicState",
+  "occurrences": "9",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "GagSetIntro",
+  "occurrences": "8",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "GagSetOutro",
+  "occurrences": "8",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetInitialWalk",
+  "occurrences": "8",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetParTime",
+  "occurrences": "8",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetStageAITargetCatchupParams",
+  "occurrences": "8",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddSpawnPoint",
+  "occurrences": "7",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetCoinFee",
+  "occurrences": "7",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetDemoLoopTime",
+  "occurrences": "7",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetRaceEnteryFee",
+  "occurrences": "7",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetTotalGags",
+  "occurrences": "7",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "UseElapsedTime",
+  "occurrences": "7",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "RemoveDriver",
+  "occurrences": "6",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetFMVInfo",
+  "occurrences": "6",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetIrisWipe",
+  "occurrences": "6",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetPostLevelFMV",
+  "occurrences": "6",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetStatepropShadow",
+  "occurrences": "6",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "StayInBlack",
+  "occurrences": "6",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddCollectibleStateProp",
+  "occurrences": "4",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddSafeZone",
+  "occurrences": "4",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "GagSetCameraShake",
+  "occurrences": "4",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "RemoveNPC",
+  "occurrences": "4",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetCharacterToHide",
+  "occurrences": "4",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetObjTargetBoss",
+  "occurrences": "4",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetPickupTarget",
+  "occurrences": "4",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddFlyingActorByLocator",
+  "occurrences": "3",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AllowMissionAbort",
+  "occurrences": "3",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "GoToPsScreenWhenDone",
+  "occurrences": "3",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetLevelOver",
+  "occurrences": "3",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AttachStatePropCollectible",
+  "occurrences": "2",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "Attributes",
+  "occurrences": "2",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "GagCheckCollCards",
+  "occurrences": "2",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "GagCheckMovie",
+  "occurrences": "2",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "GagSetSoundLoadDistances",
+  "occurrences": "2",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AddDriver",
+  "occurrences": "1",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "AllowRockOut",
+  "occurrences": "1",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "Race",
+  "occurrences": "1",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetChaseSpawnRate",
+  "occurrences": "1",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetGameOver",
+  "occurrences": "1",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "SetHitAndRunMeter",
+  "occurrences": "1",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ },
+ {
+  "command": "ShowHUD",
+  "occurrences": "1",
+  "source": "raw occurrences across retail scripts/**/*.mfk (344 files)"
+ }
+]

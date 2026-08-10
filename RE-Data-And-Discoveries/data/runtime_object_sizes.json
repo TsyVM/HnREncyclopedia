@@ -1,0 +1,130 @@
+[
+ {
+  "class": "daSoundResourceData",
+  "sizeof_hex": "0x14",
+  "sizeof_dec": "20",
+  "support": "4999",
+  "instances": "5000",
+  "evidence": "pool-adjacent stride in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "FeTextChildTextBibleString",
+  "sizeof_hex": "0x28",
+  "sizeof_dec": "40",
+  "support": "1067",
+  "instances": "1304",
+  "evidence": "pool-adjacent stride in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tTexture",
+  "sizeof_hex": "0x20",
+  "sizeof_dec": "32",
+  "support": "1047",
+  "instances": "1269",
+  "evidence": "pool-adjacent stride in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "radWeakCallbackWrapper",
+  "sizeof_hex": "0x28",
+  "sizeof_dec": "40",
+  "support": "480",
+  "instances": "500",
+  "evidence": "pool-adjacent stride in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tLinearTable",
+  "sizeof_hex": "0x30",
+  "sizeof_dec": "48",
+  "support": "458",
+  "instances": "617",
+  "evidence": "pool-adjacent stride in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "radObjectListNode",
+  "sizeof_hex": "0x18",
+  "sizeof_dec": "24",
+  "support": "402",
+  "instances": "689",
+  "evidence": "pool-adjacent stride in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "IRadObjectList",
+  "sizeof_hex": "0x30",
+  "sizeof_dec": "48",
+  "support": "201",
+  "instances": "221",
+  "evidence": "pool-adjacent stride in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "FollowCamDataChunk",
+  "sizeof_hex": "0x28",
+  "sizeof_dec": "40",
+  "support": "179",
+  "instances": "180",
+  "evidence": "pool-adjacent stride in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tPrimGroupOptimised",
+  "sizeof_hex": "0x30",
+  "sizeof_dec": "48",
+  "support": "72",
+  "instances": "82",
+  "evidence": "pool-adjacent stride in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "Blinker",
+  "sizeof_hex": "0x18",
+  "sizeof_dec": "24",
+  "support": "63",
+  "instances": "64",
+  "evidence": "pool-adjacent stride in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "FeTextChildHardCodedString",
+  "sizeof_hex": "0x20",
+  "sizeof_dec": "32",
+  "support": "57",
+  "instances": "89",
+  "evidence": "pool-adjacent stride in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "CollectorCard",
+  "sizeof_hex": "0x30",
+  "sizeof_dec": "48",
+  "support": "38",
+  "instances": "49",
+  "evidence": "pool-adjacent stride in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tFloat1Channel",
+  "sizeof_hex": "0x20",
+  "sizeof_dec": "32",
+  "support": "28",
+  "instances": "51",
+  "evidence": "pool-adjacent stride in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "ParticleManager::PAVManagedParticleSystem::?$tPtrDynamicArray",
+  "sizeof_hex": "0x0C",
+  "sizeof_dec": "12",
+  "support": "26",
+  "instances": "27",
+  "evidence": "pool-adjacent stride in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "SimpsonsSoundPlayer",
+  "sizeof_hex": "0x14",
+  "sizeof_dec": "20",
+  "support": "15",
+  "instances": "21",
+  "evidence": "pool-adjacent stride in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "ExternalMemoryObject",
+  "sizeof_hex": "0x28",
+  "sizeof_dec": "40",
+  "support": "12",
+  "instances": "14",
+  "evidence": "pool-adjacent stride in live-object dump (SAHRDiag dynamic run)"
+ }
+]

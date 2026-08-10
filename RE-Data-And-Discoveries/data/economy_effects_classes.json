@@ -1,0 +1,142 @@
+[
+ {
+  "class": "ActionButton::PurchaseCar",
+  "vtable_va": "0x006174EC",
+  "role": "buy a car (C50.3)"
+ },
+ {
+  "class": "ActionButton::PurchaseReward",
+  "vtable_va": "0x0061760C",
+  "role": "buy a reward"
+ },
+ {
+  "class": "ActionButton::PurchaseSkin",
+  "vtable_va": "0x006171BC",
+  "role": "buy a costume"
+ },
+ {
+  "class": "ActionButton::WrenchIcon",
+  "vtable_va": "0x00617148",
+  "role": "car repair (C50.6)"
+ },
+ {
+  "class": "CGuiScreenCardGallery",
+  "vtable_va": "0x0061009C",
+  "role": "card gallery"
+ },
+ {
+  "class": "CGuiScreenPhoneBooth",
+  "vtable_va": "0x0060E020",
+  "role": "story-mission select (C50.4)"
+ },
+ {
+  "class": "CGuiScreenPurchaseRewards",
+  "vtable_va": "0x0060DF2C",
+  "role": "buy rewards screen"
+ },
+ {
+  "class": "CGuiScreenScrapBook",
+  "vtable_va": "0x0060F888",
+  "role": "scrapbook"
+ },
+ {
+  "class": "CGuiScreenScrapBookContents",
+  "vtable_va": "0x0060F764",
+  "role": "scrapbook contents"
+ },
+ {
+  "class": "CGuiScreenScrapBookStats",
+  "vtable_va": "0x0060F698",
+  "role": "scrapbook stats"
+ },
+ {
+  "class": "CGuiScreenSkinGallery",
+  "vtable_va": "0x0060F5FC",
+  "role": "costume/skin gallery"
+ },
+ {
+  "class": "CGuiScreenVehicleGallery",
+  "vtable_va": "0x0060F4C0",
+  "role": "vehicle gallery"
+ },
+ {
+  "class": "CGuiScreenViewCards",
+  "vtable_va": "0x0060DCC4",
+  "role": "view cards"
+ },
+ {
+  "class": "Card",
+  "vtable_va": "0x00614BD4",
+  "role": "a card"
+ },
+ {
+  "class": "CardsDB",
+  "vtable_va": "0x00614B98",
+  "role": "collector-card database"
+ },
+ {
+  "class": "CharacterSheetManager",
+  "vtable_va": "0x0061116C",
+  "role": "player progress/save (C27)"
+ },
+ {
+  "class": "CoinManager",
+  "vtable_va": "0x006077E0",
+  "role": "coin balance + pickups (C50.2)"
+ },
+ {
+  "class": "CollectorCard",
+  "vtable_va": "0x00614B8C",
+  "role": "a collectible card (C50.5)"
+ },
+ {
+  "class": "IGuiScreenRewards",
+  "vtable_va": "0x0060DDAC",
+  "role": "rewards screen base"
+ },
+ {
+  "class": "ParticleSystemDSG",
+  "vtable_va": "0x0060B784",
+  "role": "particle scene node"
+ },
+ {
+  "class": "Projectile",
+  "vtable_va": "0x0061581C",
+  "role": "projectile object (C51.5)"
+ },
+ {
+  "class": "ProjectileDSG",
+  "vtable_va": "0x00615754",
+  "role": "projectile scene node"
+ },
+ {
+  "class": "Reward",
+  "vtable_va": "0x00611230",
+  "role": "a reward instance"
+ },
+ {
+  "class": "RewardsManager",
+  "vtable_va": "0x006111EC",
+  "role": "reward catalogue/unlocks (C50)"
+ },
+ {
+  "class": "tParticlePool",
+  "vtable_va": "0x005FA864",
+  "role": "particle pool (~1000, C51.4)"
+ },
+ {
+  "class": "tParticleSystem",
+  "vtable_va": "0x005FA5A4",
+  "role": "a particle effect (C51.1)"
+ },
+ {
+  "class": "tSpriteEmitter",
+  "vtable_va": "0x005FA784",
+  "role": "sprite emitter"
+ },
+ {
+  "class": "tSpriteParticle",
+  "vtable_va": "0x005FA854",
+  "role": "a sprite particle (C51.3)"
+ }
+]

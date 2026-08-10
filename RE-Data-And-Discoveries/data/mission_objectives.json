@@ -1,0 +1,122 @@
+[
+ {
+  "objective_type": "goto",
+  "occurrences": "191",
+  "confidence": "VERIFIED",
+  "source": "extracted from retail scripts/missions/**/*.mfk (HnREncyclopedia C16.3)"
+ },
+ {
+  "objective_type": "dialogue",
+  "occurrences": "139",
+  "confidence": "VERIFIED",
+  "source": "extracted from retail scripts/missions/**/*.mfk (HnREncyclopedia C16.3)"
+ },
+ {
+  "objective_type": "talkto",
+  "occurrences": "99",
+  "confidence": "VERIFIED",
+  "source": "extracted from retail scripts/missions/**/*.mfk (HnREncyclopedia C16.3)"
+ },
+ {
+  "objective_type": "getin",
+  "occurrences": "48",
+  "confidence": "VERIFIED",
+  "source": "extracted from retail scripts/missions/**/*.mfk (HnREncyclopedia C16.3)"
+ },
+ {
+  "objective_type": "race",
+  "occurrences": "44",
+  "confidence": "VERIFIED",
+  "source": "extracted from retail scripts/missions/**/*.mfk (HnREncyclopedia C16.3)"
+ },
+ {
+  "objective_type": "timer",
+  "occurrences": "27",
+  "confidence": "VERIFIED",
+  "source": "extracted from retail scripts/missions/**/*.mfk (HnREncyclopedia C16.3)"
+ },
+ {
+  "objective_type": "interior",
+  "occurrences": "19",
+  "confidence": "VERIFIED",
+  "source": "extracted from retail scripts/missions/**/*.mfk (HnREncyclopedia C16.3)"
+ },
+ {
+  "objective_type": "losetail",
+  "occurrences": "17",
+  "confidence": "VERIFIED",
+  "source": "extracted from retail scripts/missions/**/*.mfk (HnREncyclopedia C16.3)"
+ },
+ {
+  "objective_type": "delivery",
+  "occurrences": "15",
+  "confidence": "VERIFIED",
+  "source": "extracted from retail scripts/missions/**/*.mfk (HnREncyclopedia C16.3)"
+ },
+ {
+  "objective_type": "destroy",
+  "occurrences": "15",
+  "confidence": "VERIFIED",
+  "source": "extracted from retail scripts/missions/**/*.mfk (HnREncyclopedia C16.3)"
+ },
+ {
+  "objective_type": "dump",
+  "occurrences": "13",
+  "confidence": "VERIFIED",
+  "source": "extracted from retail scripts/missions/**/*.mfk (HnREncyclopedia C16.3)"
+ },
+ {
+  "objective_type": "coins",
+  "occurrences": "7",
+  "confidence": "VERIFIED",
+  "source": "extracted from retail scripts/missions/**/*.mfk (HnREncyclopedia C16.3)"
+ },
+ {
+  "objective_type": "follow",
+  "occurrences": "7",
+  "confidence": "VERIFIED",
+  "source": "extracted from retail scripts/missions/**/*.mfk (HnREncyclopedia C16.3)"
+ },
+ {
+  "objective_type": "buycar",
+  "occurrences": "6",
+  "confidence": "VERIFIED",
+  "source": "extracted from retail scripts/missions/**/*.mfk (HnREncyclopedia C16.3)"
+ },
+ {
+  "objective_type": "fmv",
+  "occurrences": "6",
+  "confidence": "VERIFIED",
+  "source": "extracted from retail scripts/missions/**/*.mfk (HnREncyclopedia C16.3)"
+ },
+ {
+  "objective_type": "gooutside",
+  "occurrences": "4",
+  "confidence": "VERIFIED",
+  "source": "extracted from retail scripts/missions/**/*.mfk (HnREncyclopedia C16.3)"
+ },
+ {
+  "objective_type": "buyskin",
+  "occurrences": "4",
+  "confidence": "VERIFIED",
+  "source": "extracted from retail scripts/missions/**/*.mfk (HnREncyclopedia C16.3)"
+ },
+ {
+  "objective_type": "pickupitem",
+  "occurrences": "4",
+  "confidence": "VERIFIED",
+  "source": "extracted from retail scripts/missions/**/*.mfk (HnREncyclopedia C16.3)"
+ },
+ {
+  "objective_type": "destroyboss",
+  "occurrences": "4",
+  "confidence": "VERIFIED",
+  "source": "extracted from retail scripts/missions/**/*.mfk (HnREncyclopedia C16.3)"
+ },
+ {
+  "objective_type": "dummy",
+  "occurrences": "2",
+  "confidence": "VERIFIED",
+  "source": "extracted from retail scripts/missions/**/*.mfk (HnREncyclopedia C16.3)"
+ }
+]

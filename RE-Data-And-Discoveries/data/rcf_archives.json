@@ -1,0 +1,42 @@
+[
+ {
+  "name": "music02.rcf",
+  "size": 228476928
+ },
+ {
+  "name": "music00.rcf",
+  "size": 228454400
+ },
+ {
+  "name": "music03.rcf",
+  "size": 226461696
+ },
+ {
+  "name": "music01.rcf",
+  "size": 224985088
+ },
+ {
+  "name": "dialog.rcf",
+  "size": 173049856
+ },
+ {
+  "name": "soundfx.rcf",
+  "size": 135251968
+ },
+ {
+  "name": "ambience.rcf",
+  "size": 102510592
+ },
+ {
+  "name": "nis.rcf",
+  "size": 88356864
+ },
+ {
+  "name": "carsound.rcf",
+  "size": 20633600
+ },
+ {
+  "name": "scripts.rcf",
+  "size": 2744320
+ }
+]

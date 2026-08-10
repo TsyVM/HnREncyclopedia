@@ -1,0 +1,554 @@
+[
+ {
+  "class": "tTexture",
+  "offset_hex": "0x20",
+  "member_class": "tShader",
+  "support": "162",
+  "instances": "1269",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tShader",
+  "offset_hex": "0x20",
+  "member_class": "tTexture",
+  "support": "157",
+  "instances": "223",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "FeResourceManager::AliasEntry",
+  "offset_hex": "0x30",
+  "member_class": "FeEntityDummy",
+  "support": "74",
+  "instances": "408",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "FeResourceManager::AliasEntry",
+  "offset_hex": "0x18",
+  "member_class": "FeEntityDummy",
+  "support": "69",
+  "instances": "408",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "FeEntityDummy",
+  "offset_hex": "0x30",
+  "member_class": "FeResourceManager::AliasEntry",
+  "support": "63",
+  "instances": "617",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "FeEntityDummy",
+  "offset_hex": "0x18",
+  "member_class": "FeResourceManager::AliasEntry",
+  "support": "62",
+  "instances": "617",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tSkeleton",
+  "offset_hex": "0x10",
+  "member_class": "tSkeleton::VJoint::?$tArray",
+  "support": "48",
+  "instances": "48",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tBillboardQuadGroup",
+  "offset_hex": "0x18",
+  "member_class": "PAVtBillboardQuad::?$tPtrArray",
+  "support": "26",
+  "instances": "26",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "radObjectListNode",
+  "offset_hex": "0x3C",
+  "member_class": "radBaseObject",
+  "support": "25",
+  "instances": "689",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "radBaseObject",
+  "offset_hex": "0x0C",
+  "member_class": "radObjectListNode",
+  "support": "25",
+  "instances": "1445",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "radBaseObject",
+  "offset_hex": "0x3C",
+  "member_class": "radObjectListNode",
+  "support": "25",
+  "instances": "1445",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "radBaseObject",
+  "offset_hex": "0x24",
+  "member_class": "radObjectListNode",
+  "support": "25",
+  "instances": "1445",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "radObjectListNode",
+  "offset_hex": "0x24",
+  "member_class": "radBaseObject",
+  "support": "24",
+  "instances": "689",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "radObjectListNode",
+  "offset_hex": "0x0C",
+  "member_class": "radBaseObject",
+  "support": "22",
+  "instances": "689",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "radWeakCallbackWrapper",
+  "offset_hex": "0x0C",
+  "member_class": "radBaseObject",
+  "support": "20",
+  "instances": "500",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "radWeakCallbackWrapper",
+  "offset_hex": "0x34",
+  "member_class": "radBaseObject",
+  "support": "19",
+  "instances": "500",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "radBaseObject",
+  "offset_hex": "0x1C",
+  "member_class": "radWeakCallbackWrapper",
+  "support": "19",
+  "instances": "1445",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tSkeleton",
+  "offset_hex": "0x38",
+  "member_class": "tSkeleton::VJoint::?$tArray",
+  "support": "17",
+  "instances": "48",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tSkeleton::VJoint::?$tArray",
+  "offset_hex": "0x18",
+  "member_class": "tSkeleton",
+  "support": "17",
+  "instances": "48",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tCompositeDrawable",
+  "offset_hex": "0x34",
+  "member_class": "tCompositeDrawable::PAVDrawableElement::?$tPtrDynamicArray",
+  "support": "15",
+  "instances": "15",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tCompositeDrawable::DrawablePropElement",
+  "offset_hex": "0x28",
+  "member_class": "tPose",
+  "support": "14",
+  "instances": "77",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tSkeleton",
+  "offset_hex": "0x28",
+  "member_class": "tCompositeDrawable::DrawablePropElement",
+  "support": "11",
+  "instances": "48",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tSkeleton::VJoint::?$tArray",
+  "offset_hex": "0x18",
+  "member_class": "tCompositeDrawable::DrawablePropElement",
+  "support": "11",
+  "instances": "48",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tAnimationGroup",
+  "offset_hex": "0x24",
+  "member_class": "tFloat1Channel",
+  "support": "10",
+  "instances": "36",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tPolySkin",
+  "offset_hex": "0x10",
+  "member_class": "PAVtPrimGroup::?$tPtrArray",
+  "support": "10",
+  "instances": "10",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tPose",
+  "offset_hex": "0x28",
+  "member_class": "tCompositeDrawable::DrawablePropElement",
+  "support": "10",
+  "instances": "38",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tTexture",
+  "offset_hex": "0x14",
+  "member_class": "radBaseObject",
+  "support": "9",
+  "instances": "1269",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tAnimationGroup",
+  "offset_hex": "0x28",
+  "member_class": "tFloat1Channel",
+  "support": "9",
+  "instances": "36",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "PlatformSoundPlayer",
+  "offset_hex": "0x0C",
+  "member_class": "PositionalSoundPlayer",
+  "support": "8",
+  "instances": "8",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "radBaseObject",
+  "offset_hex": "0x0C",
+  "member_class": "tTexture",
+  "support": "8",
+  "instances": "1445",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tAnimationGroup",
+  "offset_hex": "0x24",
+  "member_class": "tVector3DOFChannel",
+  "support": "8",
+  "instances": "36",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tVector3DOFChannel",
+  "offset_hex": "0x28",
+  "member_class": "tCompressedQuaternionChannel",
+  "support": "8",
+  "instances": "9",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tCompositeDrawable::DrawablePoseElement",
+  "offset_hex": "0x20",
+  "member_class": "tTexture",
+  "support": "8",
+  "instances": "39",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tCompositeDrawable::DrawablePropElement",
+  "offset_hex": "0x28",
+  "member_class": "tCompositeDrawable::DrawableEffectElement",
+  "support": "8",
+  "instances": "77",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tAnimationGroup",
+  "offset_hex": "0x20",
+  "member_class": "tEntityChannel",
+  "support": "7",
+  "instances": "36",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "PositionalSoundPlayer",
+  "offset_hex": "0x30",
+  "member_class": "PlatformSoundPlayer",
+  "support": "7",
+  "instances": "64",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tCompositeDrawable::DrawablePoseElement",
+  "offset_hex": "0x20",
+  "member_class": "tShader",
+  "support": "7",
+  "instances": "39",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tCompositeDrawable::DrawablePropElement",
+  "offset_hex": "0x28",
+  "member_class": "tSkeleton",
+  "support": "7",
+  "instances": "77",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tCompositeDrawable::DrawablePropElement",
+  "offset_hex": "0x38",
+  "member_class": "tSkeleton::VJoint::?$tArray",
+  "support": "7",
+  "instances": "77",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tCompositeDrawable::PAVDrawableElement::?$tPtrDynamicArray",
+  "offset_hex": "0x34",
+  "member_class": "Reward",
+  "support": "6",
+  "instances": "15",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "NISPlayerGroup",
+  "offset_hex": "0x04",
+  "member_class": "PositionalSoundPlayer",
+  "support": "6",
+  "instances": "6",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "CollectorCard",
+  "offset_hex": "0x34",
+  "member_class": "IRadObjectList",
+  "support": "6",
+  "instances": "49",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tEntityTable",
+  "offset_hex": "0x20",
+  "member_class": "tTexture",
+  "support": "6",
+  "instances": "16",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "radBaseObject",
+  "offset_hex": "0x2C",
+  "member_class": "tTexture",
+  "support": "6",
+  "instances": "1445",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tTexture",
+  "offset_hex": "0x34",
+  "member_class": "radBaseObject",
+  "support": "6",
+  "instances": "1269",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "GuiMenuItemText",
+  "offset_hex": "0x18",
+  "member_class": "ImageSlider",
+  "support": "6",
+  "instances": "6",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tTexture",
+  "offset_hex": "0x20",
+  "member_class": "tCompositeDrawable::DrawablePoseElement",
+  "support": "6",
+  "instances": "1269",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tAnimationMemoryBlock",
+  "offset_hex": "0x20",
+  "member_class": "tParticlePool",
+  "support": "6",
+  "instances": "34",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tPose",
+  "offset_hex": "0x28",
+  "member_class": "tSkeleton",
+  "support": "6",
+  "instances": "38",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tPose",
+  "offset_hex": "0x38",
+  "member_class": "tSkeleton::VJoint::?$tArray",
+  "support": "6",
+  "instances": "38",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "PositionalSoundPlayer",
+  "offset_hex": "0x30",
+  "member_class": "TrafficSoundPlayer",
+  "support": "5",
+  "instances": "64",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "TrafficSoundPlayer",
+  "offset_hex": "0x08",
+  "member_class": "PositionalSoundPlayer",
+  "support": "5",
+  "instances": "5",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "TrafficSoundPlayer",
+  "offset_hex": "0x3C",
+  "member_class": "PositionalSoundPlayer",
+  "support": "5",
+  "instances": "5",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "AIVehicleSoundPlayer",
+  "offset_hex": "0x08",
+  "member_class": "PositionalSoundPlayer",
+  "support": "5",
+  "instances": "5",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "AIVehicleSoundPlayer",
+  "offset_hex": "0x3C",
+  "member_class": "PositionalSoundPlayer",
+  "support": "5",
+  "instances": "5",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "PositionalSoundPlayer",
+  "offset_hex": "0x30",
+  "member_class": "AnimObjSoundPlayer",
+  "support": "5",
+  "instances": "64",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "AnimObjSoundPlayer",
+  "offset_hex": "0x0C",
+  "member_class": "PositionalSoundPlayer",
+  "support": "5",
+  "instances": "5",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "FeTextChildTextBibleString",
+  "offset_hex": "0x18",
+  "member_class": "radBaseObject",
+  "support": "5",
+  "instances": "1304",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tAnimationMemoryBlock",
+  "offset_hex": "0x20",
+  "member_class": "tCompositeDrawable::DrawablePoseElement",
+  "support": "5",
+  "instances": "34",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tShader",
+  "offset_hex": "0x20",
+  "member_class": "tCompositeDrawable::DrawablePoseElement",
+  "support": "5",
+  "instances": "223",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tAnimationMemoryBlock",
+  "offset_hex": "0x20",
+  "member_class": "tShader",
+  "support": "5",
+  "instances": "34",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tTexture",
+  "offset_hex": "0x20",
+  "member_class": "tAnimationMemoryBlock",
+  "support": "5",
+  "instances": "1269",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tSkeleton",
+  "offset_hex": "0x28",
+  "member_class": "tPose",
+  "support": "5",
+  "instances": "48",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tSkeleton::VJoint::?$tArray",
+  "offset_hex": "0x18",
+  "member_class": "tPose",
+  "support": "5",
+  "instances": "48",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tSkeleton",
+  "offset_hex": "0x28",
+  "member_class": "tParticleArray",
+  "support": "5",
+  "instances": "48",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tSkeleton::VJoint::?$tArray",
+  "offset_hex": "0x18",
+  "member_class": "tParticleArray",
+  "support": "5",
+  "instances": "48",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "tCompositeDrawable::DrawableEffectElement",
+  "offset_hex": "0x28",
+  "member_class": "tCompositeDrawable::DrawablePropElement",
+  "support": "5",
+  "instances": "11",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "sim::PhysicsJoint0D",
+  "offset_hex": "0x20",
+  "member_class": "sim::PAVPhysicsJoint::?$TList",
+  "support": "5",
+  "instances": "5",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ },
+ {
+  "class": "sim::PAVPhysicsJoint::?$TList",
+  "offset_hex": "0x30",
+  "member_class": "sim::SymMatrix",
+  "support": "5",
+  "instances": "5",
+  "evidence": "embedded member/base vtable in live-object dump (SAHRDiag dynamic run)"
+ }
+]

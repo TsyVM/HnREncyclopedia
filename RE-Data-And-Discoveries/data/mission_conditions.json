@@ -1,0 +1,44 @@
+[
+ {
+  "condition_type": "timeout",
+  "occurrences": "169",
+  "confidence": "VERIFIED",
+  "source": "extracted from retail scripts/missions/**/*.mfk (HnREncyclopedia C16.4)"
+ },
+ {
+  "condition_type": "damage",
+  "occurrences": "117",
+  "confidence": "VERIFIED",
+  "source": "extracted from retail scripts/missions/**/*.mfk (HnREncyclopedia C16.4)"
+ },
+ {
+  "condition_type": "outofvehicle",
+  "occurrences": "100",
+  "confidence": "VERIFIED",
+  "source": "extracted from retail scripts/missions/**/*.mfk (HnREncyclopedia C16.4)"
+ },
+ {
+  "condition_type": "position",
+  "occurrences": "17",
+  "confidence": "VERIFIED",
+  "source": "extracted from retail scripts/missions/**/*.mfk (HnREncyclopedia C16.4)"
+ },
+ {
+  "condition_type": "followdistance",
+  "occurrences": "12",
+  "confidence": "VERIFIED",
+  "source": "extracted from retail scripts/missions/**/*.mfk (HnREncyclopedia C16.4)"
+ },
+ {
+  "condition_type": "race",
+  "occurrences": "10",
+  "confidence": "VERIFIED",
+  "source": "extracted from retail scripts/missions/**/*.mfk (HnREncyclopedia C16.4)"
+ },
+ {
+  "condition_type": "keepbarrel",
+  "occurrences": "10",
+  "confidence": "VERIFIED",
+  "source": "extracted from retail scripts/missions/**/*.mfk (HnREncyclopedia C16.4)"
+ }
+]

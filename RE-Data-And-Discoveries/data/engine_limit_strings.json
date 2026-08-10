@@ -1,0 +1,44 @@
+[
+ {
+  "string": "Degenerate locomotion, direction count is less than 1."
+ },
+ {
+  "string": "Degenerate locomotion, velocity count is less than 2."
+ },
+ {
+  "string": "Degenerate locomotion, velocity count of %d is less than 2."
+ },
+ {
+  "string": "Pixel format for texture is not supported, "
+ },
+ {
+  "string": "See leveli.mfk to increase the max allowed for this model"
+ },
+ {
+  "string": "Static heap full - requested:%d.\tavailable:%d.\toverflow:%d."
+ },
+ {
+  "string": "Too many animations required for locomotion."
+ },
+ {
+  "string": "Too many animations required to build this locomotion."
+ },
+ {
+  "string": "Too many transitions required to build this locomotion."
+ },
+ {
+  "string": "Tried to add too many PCs, not supported right now. Check level scrips for multiple AddCharacter calls."
+ },
+ {
+  "string": "Width too large to process image data; rowbytes will overflow."
+ },
+ {
+  "string": "Win32 Occlusion not supported"
+ },
+ {
+  "string": "too many length or distance symbols"
+ },
+ {
+  "string": "we already have %d of max %d instances allowed."
+ }
+]

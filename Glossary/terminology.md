@@ -95,3 +95,27 @@ recognises a live class instance. ✅ (mechanism), ⏳ (per-class vtable address
 The companion C++20 modding SDK (`../DonutsSDK`): an offline data library (P3D/CON/RSD/RCF parsers) plus
 a header-only runtime layer generated from the RTTI class set. This encyclopedia and the SDK share the
 same verified data.
+
+---
+
+## Managers — the runtime subsystem owners
+
+A **manager** is a long-lived **singleton** object that owns, updates, and gates access to exactly
+one subsystem of the running game. There are **43 confirmed managers** (RTTI-verified), one per
+domain — e.g. `ChaseManager` (police pursuit), `PedestrianManager` (crowd), `RoadManager` (road
+network), `TrafficManager` (traffic), `MissionManager` (missions). They all share one lifecycle —
+**create → tick (each frame) → own their objects → destroy** — and are reached through a global
+accessor.
+
+- **What they are / how / why:** [C49 — The Manager Layer](../C49-The-Manager-Layer/C49-The-Manager-Layer.md).
+- **The categorized list of all 43:** [Legend/managers.md](../Legend/managers.md).
+- **How to hook one:** [C49.5](../C49-The-Manager-Layer/05-hooking.md) — hook the manager's
+  `Update()` (change a whole subsystem each frame) or a specific method, via DonutsSDK + VanHooks.
+- **What breaks if you hook wrong:** [C49.6](../C49-The-Manager-Layer/06-improper-hooking.md) —
+  skipping the original `Update()` freezes the subsystem; a wrong vtable slot crashes; a guessed
+  member offset corrupts the owned-object list; wrong thread/timing races the frame loop.
+
+> There is **no `ChaosManager`** — the pursuit/"chaos" manager is **`ChaseManager`** (`0x006077FC`).
+
+**The seven domains:** World & AI (7), Navigation & World (4), Gameplay & Mission (10), Rendering &
+UI (5), Audio (6), Physics & Collision (3), Engine & Resource (8).

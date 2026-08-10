@@ -1,0 +1,3006 @@
+[
+ {
+  "texture_name": "ad_billboard.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "ad_floor.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "air_cond.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "ant_yellow_A.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "ant_yellow_b.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "ant_yellow_B.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "ant_yellow_C.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "ant_yellow_c.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "apu_vBackDam.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "apu_vHoodDam.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "apu_vInt.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "apucuted.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "areacode_686.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "areacode_939.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "arrowCar.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "arrowCarGlow.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "arrowDestroy.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "arrowDestroyGlow.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "arrowNeutral.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "arrowNeutralGlow.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "asphalt_norm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "aztec ceiling_lights.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "aztec_colums.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Aztecsigndesign1.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Aztecsigndesign2.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "backpack.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "ball_room_background.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "BareTree.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "base.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "bbman_vDoorDNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "bbman_vDoorPNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "bbman_vTrimB.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "bbman_vTrimC.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "bbman_vWheel.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "beam.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Bear.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "BigleafR.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Bl_metal_wrhse_D.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "blueglow.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "bluestarglow.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "boat.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "BoatSign.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "bone.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "bone.tga",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "bookb_vDoorDNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "bookb_vDoorPNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "BottomA.bmp1",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "boulder_32_texture_0",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "boulder_32_texture_1",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "boulder_48_texture_0",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "boulder_48_texture_1",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "boulder_48_texture_2",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "boulder_48_texture_3",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Bridge_a.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Bridge_b.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Bridge_c.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Brown_siding_dirty_A.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Brown_siding_dirty_B.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Brown_siding_dirty_C.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Brown_siding_dirty_E.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "bullfighting.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "burninterior_sky.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Burns_background.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Burns_interior_a.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Burns_interior_b.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Burns_interior_c.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Burns_interior_e.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Burns_interior_f.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Burns_interior_g.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Burns_interior_i.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Burns_interior_k.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Burns_interior_l.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "burns_sign_billboard.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "burns_vDoorDNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "burns_vDoorPNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "burns_vWheel.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "BurnsofficeA.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "BurnsofficeB.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "BurnsofficeC.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "BurnsofficeD.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "bushb_billboard2.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "button W.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "buzzcola.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Caf_tray.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Camp_KrustyDoor1.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Camp_KrustyDoor4.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Camp_KrustySign1.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Camp_KrustyTotem.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Camp_KrustyWood1.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Camp_KrustyWood2.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Camp_KrustyWood4.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "car_wrecked_blue.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cardboardBox.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "carhom_vBackNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "carhom_vDoorDDam.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "carhom_vDoorPDam.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "carhom_vHoodNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "carped23.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "casino_sign_glow.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cBlbartDoorDNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cBlbartDoorPNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cBoneBackDam.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cBoneHoodDam.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cColaBackDam.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cColaHoodDam.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cCubeBackDam.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cCubeHoodDam.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cCuratorBackNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cCuratorDoorDDam.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cCuratorDoorPDam.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cCuratorHoodNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cCuratorRoof.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cDuffBackDam.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cDuffHoodDam.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cemetary.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cFire_vDoorDNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cFire_vDoorPNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cFire_vWheel.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "CH_BlankWall.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "chainsaw.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cHears_sideB.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cHears_sideC.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "chevron_blue.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "chip_big.tga",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "chruchSign.bmp.1",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "chruchSign.bmp.2",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "chruchSign.bmp.3",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "chruchSign.bmp.4",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "chruchSign.bmp.5",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "chruchSign.bmp.6",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "chruchSign.bmp.7",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "chruchSign.bmp.8",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "chruchSign.bmp.9",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "churchDr.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "ClatRoof.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cletu_vCrate.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cletu_vDoorDNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cletu_vDoorPNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cletu_vWheel.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cLimoBackDam.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cLimoHoodDam.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cloud1_alpha.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cloud_smokealpha.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cMilkBackDam.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cMilkHoodDam.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cNerdBackDam.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cNerdHoodDam.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "coin_box.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "coinlogo.BMP",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cola.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "colapipe.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "com_blue.BMP",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "com_blue.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "com_purp.BMP",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "com_purple_a.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "com_purple_b.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "com_purple_c.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "com_purple_d.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "com_stucco_a.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "com_stucco_b.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "com_stucco_c.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "com_stucco_d.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "comic_vDoorDNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "comic_vDoorPNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "comic_vWheel.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "compactA.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "concrete.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "controlE.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Cops Never Sleep.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cPoliceDoorDNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cPoliceDoorPNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "crate_lasers.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cratebit.tga",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "crossingbit2.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "crow.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cVanBackNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cVanDoorDDam.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cVanDoorPDam.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cVanHoodNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "CW_wallA.BMP",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "CW_wallC.BMP",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "cypress_tree.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "damn.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "dash.tga",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "DaveyJones_a.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "DaveyJones_c.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "DaveyJones_e.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "DaveyJones_f.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "DaveyJones_g.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "dd_jar_label.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "deck.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "DeliNewsSign.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "dentures.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "DMV_busA.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "DMV_busB.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "dock.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Dock_railing.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "dockWood.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "dollaryellow.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "door.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Door.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "doors_casino.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "driveway.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "duff.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Duff_Blimp_A.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Duff_Blimp_B.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Duff_Blimp_C.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "duff_cge.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "dumpster.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Dumpster.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Eat deer.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "eggs.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "elect_vDoorDNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "elect_vDoorPNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "elect_vWheel.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "evergreenter.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "EverS_fx.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "exclamation3.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "explRing.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "eyeglass.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "famil_vDoorDNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "famil_vDoorPNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "famil_vWheel.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "FE_ Wall.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "FE_ Wood.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "FE_Cartn.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "FE_Crpet.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "FE_crusty_talker.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "FE_fence_red.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "FE_Fireplace.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "FE_Phone.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "FE_Pic_F.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "FE_SofaF.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "FE_Sofastain.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "FE_VCRB2.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "fence_wood_b.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "fern.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "ffield.bmp.1",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "ffield.bmp.2",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "ffield.bmp.3",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "ffield.bmp.4",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "fin_back.tga",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "fire_alarm_lever.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "fire_hydrant.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "fireSeq3.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "firetruck_ladder.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "firetruck_windshield.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "fish.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "fish.tga",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "fish_flipper.tga",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "flag.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "flowersA.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "foam.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "foam.tga",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "FoliageA.BMP",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Foliageb.BMP",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "foot.tga",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "football.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "ForLeaseSign.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "frink_vDoorDNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "frink_vDoorPNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "gag_quicksplat_2.tga",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "garbage_iron.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "garbage_vAll.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "gasStationGarage.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "gasStationWindow.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "GGG family video.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "girl_curtain.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "glass_sunset.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "globexpieces.tga",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Glow.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "glow_add.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "glow_stadium.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "glowwindow_H.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "gold.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "goo.bmp1",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "gramp_vDoorDNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "gramp_vDoorPNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "gramp_vWheel.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "gramR_vDoorDNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "gramR_vDoorPNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "gramR_vWheel.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "grey.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "gry_found_light_cool.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "hair.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "halo.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "HalowLibrarySign.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "hand.tga",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "handrail_wht.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Hart.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "hay_bail.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "head.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "hedge_thorns.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "heltershelter_base_b.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "heltershelter_base_c.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Hermans_sign.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Hermans_window_a.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Hermans_window_b.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Hermans_window_c.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Highrez_pipe.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "hole.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Homer_tararium_a.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "homer_vDoorDNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "homer_vDoorPNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "homer_vWheel.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "honor_vDoorDNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "honor_vDoorPNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "honor_vWheel.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "horn.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "horn_pil.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "hospital.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "hospital_rotating_sign.bmp.1",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "hospital_rotating_sign.bmp.2",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "hospital_rotating_sign.bmp.3",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "hospital_rotating_sign.bmp.4",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "hospital_rotating_sign.bmp.5",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "hospital_rotating_sign.bmp.6",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "hospital_rotating_sign.bmp.7",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "hospital_rotating_sign.bmp.8",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "hospital_rotating_sign.bmp.9",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "HospTrim.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "HospWinA.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "HospWinB.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "houseTop.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "husk.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_and_moulding.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_and_poochieA.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_and_poochieB.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_and_pricetag.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_and_saxbeach.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_and_sidewalk.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_and_sign.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_and_till.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_and_wooddark.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_br_balls.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_br_coins.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_br_comic.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_br_phone.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_br_wdmed.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_dmv_brickred.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_dmv_busfront.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_dmv_buslabel.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_dmv_buswheel.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_dmv_decalhilight.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_dmv_door.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_dmv_exit.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_dmv_misc.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_ele_door.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_ele_drawings.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_ele_exit.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_ele_firebell.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_ele_flag.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_ele_ftn-sign.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_ele_portrait.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_ele_wall.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_halkwik_skeleton.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_halkwik_skelribs.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_halsh_cobweb.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_kwik_atm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_kwik_decalsquare.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_kwik_donutsb.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_kwik_ganesha.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_kwik_ham.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_kwik_nutsgum.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_kwik_vidgame.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_kwik_vidname.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_moe_barstool.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_moe_decalsquare.bmp1",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_moe_drunkbar.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_moe_lovesign.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_moe_lovesign_fx1.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_moe_mens.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_moe_poolfelt.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_moe_poster01.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_moe_poster02.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_moe_static.bmp.1",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_moe_static.bmp.2",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_moe_static.bmp.3",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_moe_static.bmp.4",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_moe_wall.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_moe_wallback.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_moe_wooddark.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_obv_concrete.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_obv_dome.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_obv_door.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_obv_frinkiac.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_obv_scratchy.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_obv_wall.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_obv_wooddark.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_sh_album.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_sh_babychair.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_sh_carpetmap.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_sh_couch.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_sh_floor.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_sh_lampshade.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_sh_newspaper.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_sh_phone.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_sh_tvmap.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "int_sh_vcr_b.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "jackpotparty.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "JavaDoor.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "JavaSign.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "JavaWall.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "jeepHoodNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "kickwave.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "kingtoots_window.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "krust_vDoorDNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "krust_vDoorPNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "krusty_fence.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "krusty_fries.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "krusty_glass.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Krusty_globe.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "krusty_meal_logo.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Krusty_plack.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "krustyPoster.BMP",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "krustyPoster.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "kudd.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "kzmb.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "l1_backfade2.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "l1_BACKMOUNTAINS.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "l1_treebig_billboard.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "l1_treeevermed_billboard.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "l2r3river.bmp.10",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "l2r3river.bmp.11",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "l2r3river.bmp.12",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "l2r3river.bmp.13",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "l2r3river.bmp.14",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "l2r3river.bmp.15",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "l2r3river.bmp.16",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "l3_Cloudmove.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "l4_BACKMOUNTAINS.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "l7_backcloud.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "l7_Cliff.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "L7krust_roof.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "L7krust_sign.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "lampiron.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "lard_lad.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "LardDuct.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "lardlad_glow.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "LardVent.BMP",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "lasergun.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "laundry_basket_n_clothes.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "leaf.tga",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "leaves_small.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "legit_sign_billiards.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "lemonade.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "lexicon_glow.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "LibraryWallC.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "lightbug.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Lighthouse_B.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Lighthouse_D.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Lighthouse_E.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "lisa_vStacey.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "logo.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "lumberanim_butt1.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "mail_spiders.tga",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Malariasign_glow.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "MalibyStacyRoofA.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "MalibyStacyWallC.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "MalibyStacyWallE.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "marge_vDoorDNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "marge_vDoorPNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "marge_vWheel.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "MeatPawnShopSign.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "metal_plates.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Metal_roof_green.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "metalbit.tga",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "milk_spatter.tga",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "minisign.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "minivanA.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "mist.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "mistbase.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "moe_vBackDam.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "moe_vHoodDam.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "moe_vInt.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "monitor2.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "monorail_railBlu.BMP",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "monorail_railGrn.BMP",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "MOON.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "movie_marquee.bmp.10",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "movie_marquee.bmp.11",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "movie_marquee.bmp.12",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "movie_marquee.bmp.13",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "movie_marquee.bmp.14",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "movie_marquee.bmp.15",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "movie_marquee.bmp.16",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "movie_marquee.bmp.17",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "movie_marquee.bmp.18",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "movie_marquee.bmp.19",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "movie_marquee.bmp.20",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "movie_marquee.bmp.21",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "movie_marquee.bmp.22",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "movie_marquee.bmp.23",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "movie_marquee.bmp.24",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "movie_marquee.bmp.25",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "movie_marquee.bmp.26",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "movie_marquee.bmp.27",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "movie_marquee.bmp.28",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "movie_marquee.bmp.29",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "movie_marquee.bmp.30",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "mrplo_vDoorDNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "mrplo_vDoorPNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "MuffinsSmall.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "mumu.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "nail.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "name.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Nelsons_roof.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "new_lex_glow.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "newspark.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Newsroom_A22.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "noiseland_door_a.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "noiseland_door_b.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "noiseland_door_c.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "noiseland_wall_a.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "noiseland_wall_b.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "noiseland_wall_c.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "nucgrate.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Oak_leaf.tga",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Oak_splinter.tga",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "OakL.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "OakS.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "observatoryWall3.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "old_canopy_A.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "old_canopy_D.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "old_georgbrick_A.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "old_georgbrick_B.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "old_georgbrick_C.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "old_georgbrick_D.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "old_georgbrick_E.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "old_storefront_A.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "old_storefront_B.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "old_storefront_C.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "old_wall.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "opt_blue_No_beer.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "opt_yellow_a.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "opt_yellow_b.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "opt_yellow_c.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "paste_bucket.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "path.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "path_sticks_dark.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "phone_booth.bmp1",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "picnic_table.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "pig_hair.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "pin1.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "pin2.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "pin3.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "pin4.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "pin5.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "pin6.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Pink_wrhse_B.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "PlaceForCodeSign.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "PlasmaCenter.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "plowk_vDoorDNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "plowk_vDoorPNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "pocket W.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "police_block.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "poop.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Power_window.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "powerbox.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "powerplant_sign_bug_glow.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "powerplantconditions.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "powerplantsigns_l7.bmp.1",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "powerplantsigns_l7.bmp.2",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "powerplantsigns_l7.bmp.3",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "powerplantsigns_l7.bmp.4",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "powerplantsigns_l7.bmp.5",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "powerplantsigns_l7.bmp.6",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "present1.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "present2.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "present3.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "pumpglow.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "pumpkin_bits.tga",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "purple_A.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "purple_trailer_B.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "purple_trailer_D.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Pwerplnt_cog.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Pwrplnt_controls.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Pwrplnt_room.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Pwrplnt_towers_b.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Pwrplnt_towers_c.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "RainsticDoor.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "RainsticSign.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "rat2.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "rd1_norm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "rd2_norm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "rd2_parking3.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "rd_Dirt_trim.BMP",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "red_barn.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "red_glow.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "redwhite.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Ret_sIGN.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Ret_winA.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Ret_Wood.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "revrest_sign.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "revrest_trim.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "ring.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "riverbed.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "robot_head_glass.tga",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "robot_middle.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "rock_tan_top.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "RockWall.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "rope.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "RoundHouseWindow.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "sand.tga",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Sandbags.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "School_prisonwin.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "SchoolBascet.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "SchoolLadder.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "scorp_vDoorDNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "scorp_vDoorPNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "scratch2.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "scratch2_r45.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "scratch2_r45hole.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "scratch2_red.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "scratchhalf2.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "SF_downs.BMP",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "shield_1.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "shipGlow.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "sidewlk.bmp1",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "sidewlkA.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Sign.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "silent alarm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Simpson_house_A1.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "skeleton.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "skid.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "skin.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "skinn_vDoorDNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "skinn_vDoorPNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "skinn_vWheel.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "slot.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "smith_vDoorDNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "smith_vDoorPNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "smith_vTrunk.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "smith_vWheel.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "SMk_Sign.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "SMk_Wall.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "snake_tattoo.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "snake_vDoorDNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "snake_vDoorPNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "snake_vWheel.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "SpagettiSign.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "stadium_name.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "stadium_sign.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "stinkingfish.BMP",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Stonecutters_columnA.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Stonecutters_columnB.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "StopSign.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "straight.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "streetlampC.bmp1",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "streetlampGreenA.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "sun2.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "SUVA.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "sweater_trim.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Tea_wall.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Tent.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "TH_trimD.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "tire.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "tire_red.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "tirefire.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "tomacco_ball.tga",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "tomacco_sign.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "tooth_powder.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "tr_trainGft2.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "trailerpark_sign.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "treeline_oak.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "truckasaurus.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "ttFender.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "ttWindsheild.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Tunnel_Fence.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "tv_glow2.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "tv_glow_back.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "twig.tga",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "varnish_side.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "vase.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "vehicle_semi.BMP",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Vent.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "vent.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "VetsDoor.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "VetsSign.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "VetsWall.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "votetruckAll.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Wall.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "wally_awning.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "wally_sign_right.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "wally_window.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "wash.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "wasparc2.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "water.bmp.10",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "water.bmp.11",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "water.bmp.12",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "water.bmp.13",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "water.bmp.14",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "water.bmp.15",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "water.bmp.16",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "water.bmp.17",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "water.bmp.18",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "water.bmp.19",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "water.bmp.20",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "water.bmp.21",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "water.bmp.22",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "water.bmp.23",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "water.bmp.24",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "water.bmp.25",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "water.bmp.26",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "water.bmp.27",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "water.bmp.28",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "water.bmp.29",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "wflagframe.tga.1",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "wflagframe.tga.2",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "wflagframe.tga.3",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "wflagframe.tga.4",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "wflagframe.tga.5",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "wflagframe.tga.6",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "wflagframe.tga.7",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "wflagframe.tga.8",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "wiggu_vDoorDNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "wiggu_vDoorPNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "wiggu_vWheel.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "wiggum_A.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "wiggum_B.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "wiggum_C.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "wiggum_D.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "wiggum_F.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "WiiliesShackDoor.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "willi_vDoorDNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "willi_vDoorPNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "willi_vTireA.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "willi_vunder.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "willi_vWheel.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "WindowRight.bmp1",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "witchcar.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "Wood.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "woodbits.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "WorldButtonA.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "WorldButtonB.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "wrf_purple_A.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "wrf_purple_C.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "WrS_Stucco_A.BMP",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "WrS_Stucco_B.BMP",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "WrS_Stucco_C.BMP",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "WrS_Stucco_D.BMP",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "yellow_brick.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "yellow_brick_Windows.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "z5_table.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "zombi_vDoorDNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "zombi_vDoorPNorm.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "zombi_vFront.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "zombi_vSkull.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "zombi_vTredA.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "zombi_vWheel.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ },
+ {
+  "texture_name": "zombieCaffe_sign.bmp",
+  "source": "extracted from 0x00019000 Texture chunks in retail .p3d (C5.1)"
+ }
+]

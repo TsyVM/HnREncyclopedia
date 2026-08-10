@@ -1,0 +1,44 @@
+[
+ {
+  "token": "ATTACK_PLAYER"
+ },
+ {
+  "token": "GetOutCar"
+ },
+ {
+  "token": "Kick"
+ },
+ {
+  "token": "Locomotion"
+ },
+ {
+  "token": "UFO_ATTACK_ALL"
+ },
+ {
+  "token": "Wasp_Attack"
+ },
+ {
+  "token": "getin"
+ },
+ {
+  "token": "incar"
+ },
+ {
+  "token": "jump_kick"
+ },
+ {
+  "token": "kickwave"
+ },
+ {
+  "token": "locomotion"
+ },
+ {
+  "token": "locomotion4"
+ },
+ {
+  "token": "locomotion8"
+ },
+ {
+  "token": "wasp_attack"
+ }
+]

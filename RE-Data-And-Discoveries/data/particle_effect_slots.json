@@ -1,0 +1,9 @@
+[
+ {"slot":0,"texture":"scratch2.bmp","effect":"sparkles","trigger":"ambient/pickup"},
+ {"slot":1,"texture":"spark4.bmp","effect":"sparks","trigger":"vehicle hits something"},
+ {"slot":2,"texture":"cloud.tga","effect":"dust cloud","trigger":"running/jumping on foot"},
+ {"slot":3,"texture":"cloud.tga","effect":"leaves","trigger":"hitting shrubs/trees"},
+ {"slot":4,"texture":"star.tga","effect":"stars","trigger":"hitting a static object"},
+ {"slot":5,"texture":"cloud.tga","effect":"paint chips","trigger":"vehicle is damaged"},
+ {"slot":6,"texture":"halo.bmp","effect":"shockwave ring","trigger":"shock-wave fx"}
+]

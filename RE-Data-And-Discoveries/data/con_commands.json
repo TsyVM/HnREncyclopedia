@@ -1,0 +1,202 @@
+[
+ {
+  "command": "SetBrakeScale",
+  "occurrences": "90",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetCMOffsetX",
+  "occurrences": "90",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetCMOffsetY",
+  "occurrences": "90",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetCMOffsetZ",
+  "occurrences": "90",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetDamperC",
+  "occurrences": "90",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetEBrakeEffect",
+  "occurrences": "90",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetGasScale",
+  "occurrences": "90",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetHighSpeedSteeringDrop",
+  "occurrences": "90",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetMass",
+  "occurrences": "90",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetMaxWheelTurnAngle",
+  "occurrences": "90",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetNormalSteering",
+  "occurrences": "90",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetSlipGasScale",
+  "occurrences": "90",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetSlipSteering",
+  "occurrences": "90",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetSpringK",
+  "occurrences": "90",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetSuspensionLimit",
+  "occurrences": "90",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetTireGrip",
+  "occurrences": "90",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetTopSpeedKmh",
+  "occurrences": "90",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetHitPoints",
+  "occurrences": "89",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetCharactersVisible",
+  "occurrences": "88",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetBurnoutRange",
+  "occurrences": "87",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetDonutTorque",
+  "occurrences": "87",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetGamblingOdds",
+  "occurrences": "87",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetMaxSpeedBurstTime",
+  "occurrences": "87",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetSlipEffectNoEBrake",
+  "occurrences": "86",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetSlipSteeringNoEBrake",
+  "occurrences": "86",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetWheelieOffsetY",
+  "occurrences": "86",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetWheelieOffsetZ",
+  "occurrences": "86",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetWheelieRange",
+  "occurrences": "86",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetShadowAdjustments",
+  "occurrences": "85",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetWeebleOffset",
+  "occurrences": "83",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetSuspensionYOffset",
+  "occurrences": "79",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetDriver",
+  "occurrences": "55",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetHasDoors",
+  "occurrences": "55",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetIrisTransition",
+  "occurrences": "36",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetShininess",
+  "occurrences": "33",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetCharacterScale",
+  "occurrences": "30",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetHighRoof",
+  "occurrences": "28",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetGasScaleSpeedThreshold",
+  "occurrences": "17",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetHighSpeedGasScale",
+  "occurrences": "17",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ },
+ {
+  "command": "SetAllowSeatSlide",
+  "occurrences": "4",
+  "source": "raw occurrences across retail scripts/cars/*.con (255 files); Set* handling vocabulary"
+ }
+]

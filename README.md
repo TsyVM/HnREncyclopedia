@@ -1,6 +1,16 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00599C&height=210&section=header&text=HnR%20Encyclopedia&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=The%20Simpsons%3A%20Hit%20%26%20Run%20%C2%B7%20Engine-Level%20Reference%20%C2%B7%20Byte-Level%20%2B%20RTTI-Verified&descAlignY=58&descSize=16"/>
+
 <img src="hnrencyclopedia-logo.png" alt="The Simpsons: Hit & Run Encyclopedia" width="440">
+
+<br/>
+
+<a href="https://github.com/TsyVM/HnREncyclopedia">
+<img src="https://readme-typing-svg.demolab.com/?lines=Understand+the+game+the+way+its+authors+did.;Byte-level+%2B+RTTI-verified.+Nothing+guessed.;39+chapters%3A+from+one+chunk+header+to+the+running+game.&font=Fira%20Code&center=true&width=680&height=45&color=8A2BE2&vCenter=true&size=20&pause=1800"/>
+</a>
+
+<br/>
 
 [![Chapters](https://img.shields.io/badge/chapters-39-8A2BE2?style=for-the-badge)](#-chapters)
 [![Pages](https://img.shields.io/badge/pages-250%2B-8A2BE2?style=for-the-badge)](#-chapters)
@@ -162,6 +172,18 @@ Member offsets, function addresses, and singleton pointers that neither base has
 | **C37** | [Options: Display, Audio, Controls & Graphics Settings](C37-Options-Display-Audio-Settings/C37-Options-Display-Audio-Settings.md) | the in-game Options menu — the 13 confirmed settings screens (`CGuiScreenDisplay`/`Sound`/`Controller`/`Language`), every control's `simpsons.ini` key, and why there's no separate graphics-quality menu on PC |
 | **C38** | [Extending the Menu System](C38-Extending-The-Menu-System/C38-Extending-The-Menu-System.md) | the five-layer UI stack (`CGuiSystem`→`CGuiManager`→`CGuiScreen`→`CGuiMenu`→`GuiMenuItem`) and how to add your **own** menu/screen to the internal game menu via DonutsSDK + VanHooks |
 | **C39** | [Engine Limits: Maximums, Pools & Exceeding Them](C39-Engine-Limits/C39-Engine-Limits.md) | the three-tier limit taxonomy (script-configurable `SetMaxTraffic`/per-model caps · pool-bounded particles ~1000 / sounds ~5000 · hard `Static heap full`/PC caps), how to raise each safely, and the full add-content pipeline |
+| **C40** | [Screen Transitions, Fades & the Interior "Black Box"](C40-Screen-Transitions-Fades/C40-Screen-Transitions-Fades.md) | the `Fader` enter/exit black-box, the `EVENT_ENTER/EXIT_INTERIOR_*` protocol, letterbox/iris wipe, and the `GuiSFX` transition sequencer |
+| **C41** | [Interiors](C41-Interiors/C41-Interiors.md) | the `InteriorManager` + entrance/exit locators, the enter/leave flow, the verified interior list (Kwik-E-Mart, Moe's, …), and gag/`level.mfk` declaration |
+| **C42** | [Character Actions, Attacks & Animation](C42-Character-Actions-Animation/C42-Character-Actions-Animation.md) | attacks (`KickAction`/`AttackBehaviour`), vehicle enter/exit (`CharacterAi::GetIn/InCar/GetOut`), the `ActionButton::*` family, locomotion sets, and the animation players |
+| **C43** | [Time of Day, Lighting & Shadows](C43-Time-Of-Day-Lighting/C43-Time-Of-Day-Lighting.md) | why day/sunset/night is **baked art** (no time-of-day switch), the sky dome, baked vertex lighting, `camlight.p3d`, the per-vehicle `SetShadowAdjustments`, and how to re-time a level |
+| **C44** | [Level Loading & the Init Pipeline](C44-Level-Loading-Init-Pipeline/C44-Level-Loading-Init-Pipeline.md) | what `leveli.mfk` (level **init**) sets up — player+car, police, `PreallocateActors`, coins — and the art→init→gameplay load order |
+| **C45** | [Pedestrians & Ped Groups](C45-Pedestrians-Ped-Groups/C45-Pedestrians-Ped-Groups.md) | the crowd: weighted **ped groups** (`CreatePedGroup`/`AddPed`), ambient named NPCs (Apu/Lisa), wander waypoints, and peds at runtime |
+| **C46** | [Traffic](C46-Traffic/C46-Traffic.md) | **traffic groups** (`CreateTrafficGroup`/`AddTrafficModel`), spawning onto the road network, `TrafficVehicle`/`TrafficLocomotion`, and `SetMaxTraffic` |
+| **C47** | [Spawn Points, Waypoints & Behaviours](C47-Spawn-Points-Waypoints-Behaviours/C47-Spawn-Points-Waypoints-Behaviours.md) | locator-driven spawns (`AddSpawnPointByLocatorScript` — the wasps), waypoint routes, and `AddBehaviour` jobs |
+| **C48** | [Conversations, Dialogue & Bonus Encounters](C48-Conversations-Dialogue-Bonus/C48-Conversations-Dialogue-Bonus.md) | the two-shot conversation camera, dialogue gesture animations, and how bonus missions/street races (`AddNPCCharacterBonusMission`) are staged |
+| **C49** | [The Manager Layer](C49-The-Manager-Layer/C49-The-Manager-Layer.md) | the **43 manager singletons** (`ChaseManager`, `PedestrianManager`, `RoadManager`, …) — what a manager is, how/why they work, the categorized catalogue, and how to hook one (and what breaks if you hook wrong) |
+| **C50** | [Rewards & the Economy Loop](C50-Rewards-Economy/C50-Rewards-Economy.md) | earn→spend→collect→progress: coins (`CoinManager`), Purchase Centres (buy cars from Gil, skins, rewards), the phone-booth mission select, collector cards & the scrapbook, the wrench/repair |
+| **C51** | [Particles & Projectiles](C51-Particles-Projectiles/C51-Particles-Projectiles.md) | the Pure3D particle system, the seven named effect slots (`SetParticleTexture`: sparks/dust/stars/shockwave — from the devs' own comments), sprite particles, the ~1000 pool, and projectiles (`SetProjectileStats`, the wasp ray) |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00599C&height=3&section=header"/>
 
@@ -178,6 +200,9 @@ A companion to the chapters: the exhaustive, categorized index of the whole game
 | [🚗 Vehicles](Legend/vehicles.md) | 90 | [🖼️ Texture names](Legend/textures.md) | 751 |
 | [📦 Objects](Legend/objects.md) | — | [🎯 Missions](Legend/missions.md) | — |
 | [🗺️ Levels & Maps](Legend/levels-maps.md) | — | [🏛️ Classes](Legend/classes.md) | 1,207 |
+| [🎬 Transitions/Interiors/Actions](Legend/transitions-interiors-actions.md) | 41 | [🚪 Interiors](Legend/interiors.md) | 8 |
+| [🎁 Gags](Legend/gags.md) | 367 | [⌨️ Script Commands](Legend/script-commands.md) | 202 |
+| [⚡ Events](Legend/events.md) | 6 | | |
 
 </div>
 
@@ -185,7 +210,7 @@ A companion to the chapters: the exhaustive, categorized index of the whole game
 
 ## 📈 Status & Open Items
 
-> ✅ **This edition is complete** — **all 39 chapters** (C1–C39) are written to full depth (a hub plus 5–9 deep-dive pages each), plus the 10-file **Legend** master index. Chapters **C37** (Options / settings), **C38** (Extending the Menu System), and **C39** (Engine Limits & exceeding them) extend the modding coverage, grounded in the **SAHRDiag** static + live-capture evidence. Every internal link resolves; no scaffolds remain.
+> ✅ **This edition is complete** — **all 51 chapters** (C1–C51), a 24-table **RE-Data** JSON backbone, are written to full depth (a hub plus 5–9 deep-dive pages each), plus the 10-file **Legend** master index. Chapters **C37** (Options / settings), **C38** (Extending the Menu System), and **C39** (Engine Limits & exceeding them) extend the modding coverage, grounded in the **SAHRDiag** static + live-capture evidence. Every internal link resolves; no scaffolds remain.
 
 > 🔎 **Open items — mostly closed.** Of the three long-standing ⏳ items: **member offsets are recovered** — 1,917 verified offsets across 694 of the 1,207 classes (`DonutsSDK/data/member_offsets.csv`, C23.1); the **NIS "format" is resolved** — not a bespoke format but a composition of decoded ones (RSD audio + Pure3D + choreo + scripts, C17.4). The one genuinely-open item is the **P3DZ codec** — now *identified* as Radical's `p3dcompress v1.0.0 (with ATG 2.0)` and characterized as LZSS-family, but not yet bit-exact (C1.9). **Sky/atmosphere has no code system** — verified to be art (C33.3).
 
@@ -197,6 +222,12 @@ The game's content structure gets first-class, dedicated coverage:
 - **Missions** — [C16 (Mission Structure & Objectives)](C16-Missions-Objectives/C16-Missions-Objectives.md): the `m{N}i`/`m{N}l`/`m{N}sd` script split, objectives, and rewards. Note that **all 28 compressed `P3DZ` files are `level05`'s mission/camera/race assets** ([C1.9](C1-Pure3D-Container-Model/09-compressed-p3dz.md)) — a concrete verified reason the mission pipeline needs its own chapter.
 - **Maps** — [C29 (Maps & the HUD Minimap)](C29-Maps-Minimap/C29-Maps-Minimap.md): the seven per-level HUD maps, the full-screen map, and mission icons.
 - **Paths / road network** — [C13 (Paths, Fences & Road Data)](C13-Paths-Fences/C13-Paths-Fences.md): the navigation graph cars and NPCs drive on.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00599C&height=3&section=header"/>
+
+## 🗄️ RE-Data & Discoveries
+
+The machine-readable backbone: **[RE-Data-And-Discoveries/](RE-Data-And-Discoveries/README.md)** ships **26 JSON tables** of every dumped dataset — the class model (1,131 vtables, 1,917 offsets, runtime sizes & composition), the 179-entry Pure3D chunk table, the **full 202-command script vocabulary**, **367 gags**, the interior list, the transition/animation class map, the `EVENT_*` protocol, and the engine's own limit strings. Each is indexed with row counts and provenance in [`data/README.md`](RE-Data-And-Discoveries/data/README.md), tagged ✅/🟡/⏳, and reproducible on a retail copy.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00599C&height=3&section=header"/>
 

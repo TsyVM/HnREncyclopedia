@@ -1,0 +1,82 @@
+[
+ {
+  "trigger": "ActionButton::EnterInterior (press at InteriorEntranceLocator)",
+  "fires": "EVENT_ENTER_INTERIOR_TRANSITION_START",
+  "then": "Fader raises the black box \u2192 InteriorManager swaps world\u2192interior at InteriorOrigin",
+  "ends_with": "EVENT_ENTER_INTERIOR_TRANSITION_END \u2192 fade lifts",
+  "confidence": "verified",
+  "chapter": "C40/C41"
+ },
+ {
+  "trigger": "reach InteriorExit / LeaveInteriorCondition met",
+  "fires": "EVENT_EXIT_INTERIOR_START",
+  "then": "Fader raises \u2192 InteriorManager swaps interior\u2192street",
+  "ends_with": "EVENT_EXIT_INTERIOR_END \u2192 fade lifts",
+  "confidence": "verified",
+  "chapter": "C40/C41"
+ },
+ {
+  "trigger": "SetIrisWipe (script) / GuiSFX::IrisWipeOpen",
+  "fires": "CGuiScreenIrisWipe close/open",
+  "then": "iris circle animates",
+  "ends_with": "EVENT_GUI_IRIS_WIPE_CLOSED / EVENT_GUI_IRIS_WIPE_OPEN",
+  "confidence": "verified",
+  "chapter": "C40"
+ },
+ {
+  "trigger": "press action near a car (ActionButton::GetInCar)",
+  "fires": "CharacterAi::GetIn (anim 'getin')",
+  "then": "CharacterAi::InCar (anim 'incar') \u2014 control passes to Vehicle",
+  "ends_with": "driving; exit via CharacterAi::GetOut ('GetOutCar')",
+  "confidence": "verified",
+  "chapter": "C42"
+ },
+ {
+  "trigger": "attack input",
+  "fires": "KickAction (anim 'jump_kick'/'kickwave')",
+  "then": "model swaps to kick pose; hit applied at hit-frame",
+  "ends_with": "smashes gags/props, knocks NPCs; returns to prior state",
+  "confidence": "verified",
+  "chapter": "C42/C32"
+ },
+ {
+  "trigger": "enemy AI enters attack state",
+  "fires": "AttackBehaviour / UFOAttackBehaviour / Wasp_Attack",
+  "then": "plays attack animation, applies damage/knockback",
+  "ends_with": "returns to prior AI state",
+  "confidence": "verified",
+  "chapter": "C42/C31"
+ },
+ {
+  "trigger": "touch a gag trigger (GagSetTrigger 'touch', radius)",
+  "fires": "the gag's NIS/animation (GagBegin block)",
+  "then": "plays gag sound, optional camera shake / FMV, awards coins (GagSetCoins)",
+  "ends_with": "gag cycles or persists (GagSetCycle/Persist)",
+  "confidence": "verified",
+  "chapter": "C41.4/C32"
+ },
+ {
+  "trigger": "Hit & Run meter fills",
+  "fires": "police escalation (ChaseManager/ChaseAI)",
+  "then": "cop cars spawn and pursue; wasp cameras",
+  "ends_with": "bust or decay (SetHitAndRunDecay)",
+  "confidence": "verified",
+  "chapter": "C31"
+ },
+ {
+  "trigger": "mission objective complete (MissionObjective)",
+  "fires": "stage advance / reward",
+  "then": "next stage or GuiSFX mission verb (RestartCurrentMission/AbortCurrentMission/ResumeGame)",
+  "ends_with": "mission success/over screen",
+  "confidence": "verified",
+  "chapter": "C16/C40"
+ },
+ {
+  "trigger": "level load (GameFlow LoadingContext)",
+  "fires": "level art load (world P3D, sky dome, camlight)",
+  "then": "baked lighting + sky determine the fixed time-of-day look",
+  "ends_with": "GameplayContext",
+  "confidence": "verified",
+  "chapter": "C43/C30"
+ }
+]

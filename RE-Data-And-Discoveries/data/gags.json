@@ -1,0 +1,2571 @@
+[
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_s5.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s5",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_s_f1.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s_f1",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_s_f2.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "NED5002.wav & NED0201.wav",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_s1.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s1",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_s2.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s2",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_s3.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s3",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_s4.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s4",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_s_m1.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s_m1",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_s_m2.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s_m2",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_s_h1.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "mmcheese.wav",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_k_k1.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_k1",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_k_h1.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_h1",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_k_m1.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_m1",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_k_sr.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_sr",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_k_n1.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_n1",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_k_n2.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_n2",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_k_js.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_js",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_sc_1.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_1",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_sc_2.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_2",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_sc_3.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_3",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_sc_4.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_4",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_sc_5.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_5",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_bbq.p3d",
+  "interior": null,
+  "sound": "gag_bbq",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_gas.p3d",
+  "interior": null,
+  "sound": "gag_gas",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_shel.p3d",
+  "interior": null,
+  "sound": "gag_shel",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_swng.p3d",
+  "interior": null,
+  "sound": "gag_swng",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_swg2.p3d",
+  "interior": null,
+  "sound": "gag_swng",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_crow.p3d",
+  "interior": null,
+  "sound": "gag_crows",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_sqsh.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_sqsh",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_jasp.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_jasp",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_atm.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_atm",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_tv.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_tv",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_azte.p3d",
+  "interior": null,
+  "sound": "gag_azte",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_melt.p3d",
+  "interior": null,
+  "sound": "gag_melt",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_fire.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_fire",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_sknr.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sknr",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_mgr.p3d",
+  "interior": null,
+  "sound": "gag_mgr",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_tele.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_loot",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/level.mfk",
+  "p3d": "gag_alm2.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_alm2",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level02/level.mfk",
+  "p3d": "gag_jar.p3d",
+  "interior": "moe1",
+  "sound": "gag_jar",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level02/level.mfk",
+  "p3d": "gag_flm.p3d",
+  "interior": "moe1",
+  "sound": "gag_flm",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level02/level.mfk",
+  "p3d": "gag_duff.p3d",
+  "interior": "moe1",
+  "sound": "gag_???",
+  "coins": null
+ },
+ {
+  "file": "missions/level02/level.mfk",
+  "p3d": "gag_love.p3d",
+  "interior": "moe1",
+  "sound": "gag_love",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level02/level.mfk",
+  "p3d": "gag_slot.p3d",
+  "interior": "moe1",
+  "sound": "gag_slot",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level02/level.mfk",
+  "p3d": "gag_cata.p3d",
+  "interior": null,
+  "sound": "gag_cata",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level02/level.mfk",
+  "p3d": "gag_tony.p3d",
+  "interior": null,
+  "sound": "gag_tony",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level02/level.mfk",
+  "p3d": "gag_bomb.p3d",
+  "interior": null,
+  "sound": "gag_bomb",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level02/level.mfk",
+  "p3d": "gag_milk.p3d",
+  "interior": null,
+  "sound": "gag_milk",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level02/level.mfk",
+  "p3d": "gag_car.p3d",
+  "interior": null,
+  "sound": "gag_car",
+  "coins": "5, -1"
+ },
+ {
+  "file": "missions/level02/level.mfk",
+  "p3d": "gag_mol2.p3d",
+  "interior": "dmv",
+  "sound": "gag_mol2",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level02/level.mfk",
+  "p3d": "gag_smk.p3d",
+  "interior": "dmv",
+  "sound": "gag_smk",
+  "coins": null
+ },
+ {
+  "file": "missions/level02/level.mfk",
+  "p3d": "l2_dump.p3d",
+  "interior": null,
+  "sound": "gag_lvl2_dumpster",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level03/level.mfk",
+  "p3d": "gag0601.p3d",
+  "interior": "Android",
+  "sound": "DMV_gag_willie_chaes_afterpig",
+  "coins": null
+ },
+ {
+  "file": "missions/level03/level.mfk",
+  "p3d": "gag_will.p3d",
+  "interior": "Observatory",
+  "sound": "gag_will",
+  "coins": null
+ },
+ {
+  "file": "missions/level03/level.mfk",
+  "p3d": "gag_ralf.p3d",
+  "interior": "Observatory",
+  "sound": "gag_sc_2",
+  "coins": null
+ },
+ {
+  "file": "missions/level03/level.mfk",
+  "p3d": "gag_beem.p3d",
+  "interior": "Observatory",
+  "sound": "gag_beem",
+  "coins": null
+ },
+ {
+  "file": "missions/level03/level.mfk",
+  "p3d": "gag_buly.p3d",
+  "interior": "Observatory",
+  "sound": "gag_buly",
+  "coins": null
+ },
+ {
+  "file": "missions/level03/level.mfk",
+  "p3d": "gag_racm.p3d",
+  "interior": "Android",
+  "sound": "gag_racm",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level03/level.mfk",
+  "p3d": "gag_clnk.p3d",
+  "interior": "Android",
+  "sound": "gag_clnk",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level03/level.mfk",
+  "p3d": "gag_ismv.p3d",
+  "interior": "Android",
+  "sound": null,
+  "coins": null
+ },
+ {
+  "file": "missions/level03/level.mfk",
+  "p3d": "gag_ismv.p3d",
+  "interior": null,
+  "sound": null,
+  "coins": null
+ },
+ {
+  "file": "missions/level03/level.mfk",
+  "p3d": "gag_blow.p3d",
+  "interior": "Android",
+  "sound": "gag_blow",
+  "coins": null
+ },
+ {
+  "file": "missions/level03/level.mfk",
+  "p3d": "gag_flag.p3d",
+  "interior": null,
+  "sound": "gag_flag",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level03/level.mfk",
+  "p3d": "gag_pig.p3d",
+  "interior": null,
+  "sound": "gag_pig",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level03/level.mfk",
+  "p3d": "gag_alrm.p3d",
+  "interior": "Observatory",
+  "sound": "gag_alrm",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level03/level.mfk",
+  "p3d": "gag_matt.p3d",
+  "interior": "Observatory",
+  "sound": "gag_matt",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level03/level.mfk",
+  "p3d": "gag_perp.p3d",
+  "interior": "Observatory",
+  "sound": "gag_perp",
+  "coins": "1, 1"
+ },
+ {
+  "file": "missions/level03/level.mfk",
+  "p3d": "gag_mole.p3d",
+  "interior": null,
+  "sound": null,
+  "coins": null
+ },
+ {
+  "file": "missions/level03/level.mfk",
+  "p3d": "gag_pant.p3d",
+  "interior": null,
+  "sound": "gag_pant",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level03/level.mfk",
+  "p3d": "gag_kids.p3d",
+  "interior": null,
+  "sound": "gag_kids",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level03/level.mfk",
+  "p3d": "gag_tele.p3d",
+  "interior": "Observatory",
+  "sound": "gag_tele",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level03/level.mfk",
+  "p3d": "l3_dump.p3d",
+  "interior": null,
+  "sound": "gag_lvl6_dumpster",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_s5.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s5",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_s_f1.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s_f1",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_s_f2.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s_f2",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_s1.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s1",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_s2.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s2",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_s3.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s3",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_s4.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s4",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_s_m1.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s_m1",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_s_m2.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s_m2",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_s_h1.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s_h1",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_k_k1.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_k1",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_k_h1.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_h1",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_k_m1.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_m1",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_k_sr.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_sr",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_k_n1.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_n1",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_k_n2.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_n2",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_k_js.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_js",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_sc_1.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_1",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_sc_2.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_2",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_sc_3.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_3",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_sc_4.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_4",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_sc_5.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_5",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "l04_bbq.p3d",
+  "interior": null,
+  "sound": "gag_bbq",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "l04_gas.p3d",
+  "interior": null,
+  "sound": "gag_gas",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_shel.p3d",
+  "interior": null,
+  "sound": "gag_shel",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "l04_swng.p3d",
+  "interior": null,
+  "sound": "gag_swng",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_sqsh.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_sqsh",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_jasp.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_jasp",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_atm.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_atm",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_tv.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_tv",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "l04_azte.p3d",
+  "interior": null,
+  "sound": "gag_azte",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_melt.p3d",
+  "interior": null,
+  "sound": "gag_melt",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_fire.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_fire",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_sknr.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sknr",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_burn.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_burn",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "l04_mgr.p3d",
+  "interior": null,
+  "sound": "gag_mgr",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_lamp.p3d",
+  "interior": "bartroom",
+  "sound": "gag_lamp",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_tele.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_loot",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/level.mfk",
+  "p3d": "gag_alm2.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_alm2",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level05/level.mfk",
+  "p3d": "gag_jar.p3d",
+  "interior": "moe1",
+  "sound": "gag_picklejar",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level05/level.mfk",
+  "p3d": "gag_flm.p3d",
+  "interior": "moe1",
+  "sound": "gag_flm",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level05/level.mfk",
+  "p3d": "gag_duff.p3d",
+  "interior": "moe1",
+  "sound": "gag_???",
+  "coins": null
+ },
+ {
+  "file": "missions/level05/level.mfk",
+  "p3d": "gag_love.p3d",
+  "interior": "moe1",
+  "sound": "gag_love",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level05/level.mfk",
+  "p3d": "gag_slot.p3d",
+  "interior": "moe1",
+  "sound": "gag_slot",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level05/level.mfk",
+  "p3d": "l05_cata.p3d",
+  "interior": null,
+  "sound": "gag_cata",
+  "coins": null
+ },
+ {
+  "file": "missions/level05/level.mfk",
+  "p3d": "l05_tony.p3d",
+  "interior": null,
+  "sound": "gag_tony",
+  "coins": null
+ },
+ {
+  "file": "missions/level05/level.mfk",
+  "p3d": "l05_bomb.p3d",
+  "interior": null,
+  "sound": null,
+  "coins": null
+ },
+ {
+  "file": "missions/level05/level.mfk",
+  "p3d": "l05_milk.p3d",
+  "interior": null,
+  "sound": "gag_milk",
+  "coins": null
+ },
+ {
+  "file": "missions/level05/level.mfk",
+  "p3d": "l05_car.p3d",
+  "interior": null,
+  "sound": "gag_car",
+  "coins": "5, 5"
+ },
+ {
+  "file": "missions/level05/level.mfk",
+  "p3d": "gag_mol2.p3d",
+  "interior": "dmv",
+  "sound": "gag_mol2",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level05/level.mfk",
+  "p3d": "gag_smk.p3d",
+  "interior": "dmv",
+  "sound": "gag_smk",
+  "coins": null
+ },
+ {
+  "file": "missions/level05/level.mfk",
+  "p3d": "l5_dump.p3d",
+  "interior": null,
+  "sound": "gag_lvl2_dumpster",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level06/level.mfk",
+  "p3d": "gag_racm.p3d",
+  "interior": "Android",
+  "sound": "gag_racm",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level06/level.mfk",
+  "p3d": "gag_clnk.p3d",
+  "interior": "Android",
+  "sound": "gag_clnk",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level06/level.mfk",
+  "p3d": "gag_blow.p3d",
+  "interior": "Android",
+  "sound": "gag_blow",
+  "coins": null
+ },
+ {
+  "file": "missions/level06/level.mfk",
+  "p3d": "l06_flag.p3d",
+  "interior": null,
+  "sound": "gag_flag",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level06/level.mfk",
+  "p3d": "l06_pig.p3d",
+  "interior": null,
+  "sound": "gag_pig",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level06/level.mfk",
+  "p3d": "gag_alrm.p3d",
+  "interior": "Observatory",
+  "sound": "gag_alrm",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level06/level.mfk",
+  "p3d": "gag_matt.p3d",
+  "interior": "Observatory",
+  "sound": "gag_matt",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level06/level.mfk",
+  "p3d": "gag_perp.p3d",
+  "interior": "Observatory",
+  "sound": "gag_perp",
+  "coins": "1, 1"
+ },
+ {
+  "file": "missions/level06/level.mfk",
+  "p3d": "gag_mole.p3d",
+  "interior": null,
+  "sound": null,
+  "coins": null
+ },
+ {
+  "file": "missions/level06/level.mfk",
+  "p3d": "gag_will.p3d",
+  "interior": "Observatory",
+  "sound": "gag_will",
+  "coins": null
+ },
+ {
+  "file": "missions/level06/level.mfk",
+  "p3d": "gag_ralf.p3d",
+  "interior": "Observatory",
+  "sound": null,
+  "coins": null
+ },
+ {
+  "file": "missions/level06/level.mfk",
+  "p3d": "gag_beem.p3d",
+  "interior": "Observatory",
+  "sound": null,
+  "coins": null
+ },
+ {
+  "file": "missions/level06/level.mfk",
+  "p3d": "gag_buly.p3d",
+  "interior": "Observatory",
+  "sound": "gag_buly",
+  "coins": null
+ },
+ {
+  "file": "missions/level06/level.mfk",
+  "p3d": "l06_pant.p3d",
+  "interior": null,
+  "sound": "gag_pant",
+  "coins": "5, 4.3"
+ },
+ {
+  "file": "missions/level06/level.mfk",
+  "p3d": "gag_kids.p3d",
+  "interior": null,
+  "sound": "gag_kids",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level06/level.mfk",
+  "p3d": "gag_tele.p3d",
+  "interior": "Observatory",
+  "sound": "gag_tele",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level06/level.mfk",
+  "p3d": "l6_dump.p3d",
+  "interior": null,
+  "sound": "gag_lvl6_dumpster",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_s5.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s5",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_s_f1.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s_f1",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_s_f2.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "NED5002.wav & NED0201.wav",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_s1.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s1",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_s2.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s2",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_s3.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s3",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_s4.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s4",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_s_m1.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s_m1",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_s_m2.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s_m2",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_s_h1.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s_h1",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_k_k1.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_k1",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_k_h1.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_h1",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_k_m1.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_m1",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_k_sr.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_sr",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_k_n1.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_n1",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_k_n2.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_n2",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_k_js.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_js",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_sc_1.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_1",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_sc_2.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_2",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_sc_3.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_3",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_sc_4.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_4",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_sc_5.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_5",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_burn.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_burn",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_bats.p3d",
+  "interior": null,
+  "sound": "gag_bats",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "l07_gas.p3d",
+  "interior": null,
+  "sound": "gag_gas",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "l07_swng.p3d",
+  "interior": null,
+  "sound": "gag_swng",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "l07_swg2.p3d",
+  "interior": null,
+  "sound": "gag_swng",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_sqsh.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_sqsh",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_jasp.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_jasp",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_atm.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_atm",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_tv.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_tv",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "l07_azte.p3d",
+  "interior": null,
+  "sound": "gag_azte",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_fire.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_fire",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_sknr.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sknr",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_burn.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_willieburn",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "l07_mgr.p3d",
+  "interior": null,
+  "sound": "gag_mgr",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_tele.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_loot",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_alm2.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_alm2",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_lamp.p3d",
+  "interior": "bartroom",
+  "sound": "gag_lamp",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_bed.p3d",
+  "interior": "bartroom",
+  "sound": "gag_bed",
+  "coins": "1,1"
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "gag_bat2.p3d",
+  "interior": null,
+  "sound": "gag_bat2",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/level.mfk",
+  "p3d": "l07_shel.p3d",
+  "interior": null,
+  "sound": "gag_shel",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_s5.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s5",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_s_f1.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s_f1",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_s_f2.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "NED5002.wav & NED0201.wav",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_s1.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s1",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_s2.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s2",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_s3.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s3",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_s4.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s4",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_s_m1.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s_m1",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_s_m2.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s_m2",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_s_h1.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "mmcheese.wav",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_k_k1.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_k1",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_k_h1.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_h1",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_k_m1.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_m1",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_k_sr.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_sr",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_k_n1.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_n1",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_k_n2.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_n2",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_k_js.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_js",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_sc_1.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_1",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_sc_2.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_2",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_sc_3.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_3",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_sc_4.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_4",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_sc_5.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_5",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_burn.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_burn",
+  "coins": null
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_bbq.p3d",
+  "interior": null,
+  "sound": "gag_bbq",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_gas.p3d",
+  "interior": null,
+  "sound": "gag_gas",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_shel.p3d",
+  "interior": null,
+  "sound": "gag_shel",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_swng.p3d",
+  "interior": null,
+  "sound": "gag_swng",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_swg2.p3d",
+  "interior": null,
+  "sound": "gag_swng",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_crow.p3d",
+  "interior": null,
+  "sound": "gag_crows",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_sqsh.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_sqsh",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_jasp.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_jasp",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_atm.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_atm",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_tv.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_tv",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_azte.p3d",
+  "interior": null,
+  "sound": "gag_azte",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_melt.p3d",
+  "interior": null,
+  "sound": "gag_melt",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_fire.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_fire",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_sknr.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sknr",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_mgr.p3d",
+  "interior": null,
+  "sound": "gag_mgr",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_tele.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_loot",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level01/demo.mfk",
+  "p3d": "gag_alm2.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_alm2",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level02/demo.mfk",
+  "p3d": "gag_jar.p3d",
+  "interior": "moe1",
+  "sound": "gag_jar",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level02/demo.mfk",
+  "p3d": "gag_flm.p3d",
+  "interior": "moe1",
+  "sound": "gag_flm",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level02/demo.mfk",
+  "p3d": "gag_duff.p3d",
+  "interior": "moe1",
+  "sound": "gag_???",
+  "coins": null
+ },
+ {
+  "file": "missions/level02/demo.mfk",
+  "p3d": "gag_love.p3d",
+  "interior": "moe1",
+  "sound": "gag_love",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level02/demo.mfk",
+  "p3d": "gag_slot.p3d",
+  "interior": "moe1",
+  "sound": "gag_slot",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level02/demo.mfk",
+  "p3d": "gag_cata.p3d",
+  "interior": null,
+  "sound": "gag_cata",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level02/demo.mfk",
+  "p3d": "gag_tony.p3d",
+  "interior": null,
+  "sound": "gag_tony",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level02/demo.mfk",
+  "p3d": "gag_bomb.p3d",
+  "interior": null,
+  "sound": "gag_bomb",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level02/demo.mfk",
+  "p3d": "gag_milk.p3d",
+  "interior": null,
+  "sound": "gag_milk",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level02/demo.mfk",
+  "p3d": "gag_car.p3d",
+  "interior": null,
+  "sound": "gag_car",
+  "coins": "5, -1"
+ },
+ {
+  "file": "missions/level02/demo.mfk",
+  "p3d": "gag_mol2.p3d",
+  "interior": "dmv",
+  "sound": "gag_mol2",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level02/demo.mfk",
+  "p3d": "gag_smk.p3d",
+  "interior": "dmv",
+  "sound": "gag_smk",
+  "coins": null
+ },
+ {
+  "file": "missions/level02/demo.mfk",
+  "p3d": "l2_dump.p3d",
+  "interior": null,
+  "sound": "gag_lvl2_dumpster",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level03/demo.mfk",
+  "p3d": "gag_will.p3d",
+  "interior": "Observatory",
+  "sound": "WIL0501A.wav",
+  "coins": null
+ },
+ {
+  "file": "missions/level03/demo.mfk",
+  "p3d": "gag_ralf.p3d",
+  "interior": "Observatory",
+  "sound": "RLP2101A.wav",
+  "coins": null
+ },
+ {
+  "file": "missions/level03/demo.mfk",
+  "p3d": "gag_beem.p3d",
+  "interior": "Observatory",
+  "sound": "BUM7002.wav",
+  "coins": null
+ },
+ {
+  "file": "missions/level03/demo.mfk",
+  "p3d": "gag_buly.p3d",
+  "interior": "Observatory",
+  "sound": "MIL2201.wav",
+  "coins": null
+ },
+ {
+  "file": "missions/level03/demo.mfk",
+  "p3d": "gag_racm.p3d",
+  "interior": "Android",
+  "sound": "gag_racm",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level03/demo.mfk",
+  "p3d": "gag_clnk.p3d",
+  "interior": "Android",
+  "sound": "gag_clnk",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level03/demo.mfk",
+  "p3d": "gag_ismv.p3d",
+  "interior": "Android",
+  "sound": null,
+  "coins": null
+ },
+ {
+  "file": "missions/level03/demo.mfk",
+  "p3d": "gag_ismv.p3d",
+  "interior": null,
+  "sound": null,
+  "coins": null
+ },
+ {
+  "file": "missions/level03/demo.mfk",
+  "p3d": "gag_blow.p3d",
+  "interior": "Android",
+  "sound": "gag_blow",
+  "coins": null
+ },
+ {
+  "file": "missions/level03/demo.mfk",
+  "p3d": "gag_flag.p3d",
+  "interior": null,
+  "sound": "gag_flag",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level03/demo.mfk",
+  "p3d": "gag_pig.p3d",
+  "interior": null,
+  "sound": "gag_lisa_saying_EW",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level03/demo.mfk",
+  "p3d": "gag_alrm.p3d",
+  "interior": "Observatory",
+  "sound": "gag_alrm",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level03/demo.mfk",
+  "p3d": "gag_matt.p3d",
+  "interior": "Observatory",
+  "sound": "gag_matt",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level03/demo.mfk",
+  "p3d": "gag_perp.p3d",
+  "interior": "Observatory",
+  "sound": "gag_perp",
+  "coins": "1, 1"
+ },
+ {
+  "file": "missions/level03/demo.mfk",
+  "p3d": "gag_mole.p3d",
+  "interior": null,
+  "sound": null,
+  "coins": null
+ },
+ {
+  "file": "missions/level03/demo.mfk",
+  "p3d": "gag_pant.p3d",
+  "interior": null,
+  "sound": "gag_pant",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level03/demo.mfk",
+  "p3d": "gag_kids.p3d",
+  "interior": null,
+  "sound": "gag_kids",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level03/demo.mfk",
+  "p3d": "gag_tele.p3d",
+  "interior": "Observatory",
+  "sound": "gag_tele",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level03/demo.mfk",
+  "p3d": "l3_dump.p3d",
+  "interior": null,
+  "sound": "gag_lvl6_dumpster",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_s5.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s5",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_s_f1.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s_f1",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_s_f2.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s_f2",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_s1.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s1",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_s2.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s2",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_s3.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s3",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_s4.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s4",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_s_m1.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s_m1",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_s_m2.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s_m2",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_s_h1.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s_h1",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_k_k1.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_k1",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_k_h1.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_h1",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_k_m1.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_m1",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_k_sr.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_sr",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_k_n1.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_n1",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_k_n2.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_n2",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_k_js.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_js",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_sc_1.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_1",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_sc_2.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_2",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_sc_3.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_3",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_sc_4.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_4",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_sc_5.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_5",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_burn.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_burn",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "l04_bbq.p3d",
+  "interior": null,
+  "sound": "gag_bbq",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "l04_gas.p3d",
+  "interior": null,
+  "sound": "gag_gas",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_shel.p3d",
+  "interior": null,
+  "sound": "gag_shel",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "l04_swng.p3d",
+  "interior": null,
+  "sound": "gag_swng",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_sqsh.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_sqsh",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_jasp.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_jasp",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_atm.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_atm",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_tv.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_tv",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "l04_azte.p3d",
+  "interior": null,
+  "sound": "gag_azte",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_melt.p3d",
+  "interior": null,
+  "sound": "gag_melt",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_fire.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_fire",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_sknr.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sknr",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_burn.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_burn",
+  "coins": null
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "l04_mgr.p3d",
+  "interior": null,
+  "sound": "gag_mgr",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_lamp.p3d",
+  "interior": "bartroom",
+  "sound": "gag_lamp",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_tele.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_loot",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level04/demo.mfk",
+  "p3d": "gag_alm2.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_alm2",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level05/demo.mfk",
+  "p3d": "gag_jar.p3d",
+  "interior": "moe1",
+  "sound": "gag_picklejar",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level05/demo.mfk",
+  "p3d": "gag_flm.p3d",
+  "interior": "moe1",
+  "sound": "gag_flm",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level05/demo.mfk",
+  "p3d": "gag_duff.p3d",
+  "interior": "moe1",
+  "sound": "gag_???",
+  "coins": null
+ },
+ {
+  "file": "missions/level05/demo.mfk",
+  "p3d": "gag_love.p3d",
+  "interior": "moe1",
+  "sound": "gag_love",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level05/demo.mfk",
+  "p3d": "gag_slot.p3d",
+  "interior": "moe1",
+  "sound": "gag_slot",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level05/demo.mfk",
+  "p3d": "l05_cata.p3d",
+  "interior": null,
+  "sound": "gag_cata",
+  "coins": null
+ },
+ {
+  "file": "missions/level05/demo.mfk",
+  "p3d": "l05_tony.p3d",
+  "interior": null,
+  "sound": "gag_tony",
+  "coins": null
+ },
+ {
+  "file": "missions/level05/demo.mfk",
+  "p3d": "l05_bomb.p3d",
+  "interior": null,
+  "sound": null,
+  "coins": null
+ },
+ {
+  "file": "missions/level05/demo.mfk",
+  "p3d": "l05_milk.p3d",
+  "interior": null,
+  "sound": "gag_milk",
+  "coins": null
+ },
+ {
+  "file": "missions/level05/demo.mfk",
+  "p3d": "l05_car.p3d",
+  "interior": null,
+  "sound": "gag_car",
+  "coins": "5, 5"
+ },
+ {
+  "file": "missions/level05/demo.mfk",
+  "p3d": "gag_mol2.p3d",
+  "interior": "dmv",
+  "sound": "gag_mol2",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level05/demo.mfk",
+  "p3d": "gag_smk.p3d",
+  "interior": "dmv",
+  "sound": "gag_smk",
+  "coins": null
+ },
+ {
+  "file": "missions/level05/demo.mfk",
+  "p3d": "l5_dump.p3d",
+  "interior": null,
+  "sound": "gag_lvl6_dumpster",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level06/demo.mfk",
+  "p3d": "gag_racm.p3d",
+  "interior": "Android",
+  "sound": "gag_racm",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level06/demo.mfk",
+  "p3d": "gag_clnk.p3d",
+  "interior": "Android",
+  "sound": "gag_clnk",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level06/demo.mfk",
+  "p3d": "gag_blow.p3d",
+  "interior": "Android",
+  "sound": "gag_blow",
+  "coins": null
+ },
+ {
+  "file": "missions/level06/demo.mfk",
+  "p3d": "l06_flag.p3d",
+  "interior": null,
+  "sound": "gag_flag",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level06/demo.mfk",
+  "p3d": "l06_pig.p3d",
+  "interior": null,
+  "sound": "gag_pig",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level06/demo.mfk",
+  "p3d": "gag_alrm.p3d",
+  "interior": "Observatory",
+  "sound": "gag_alrm",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level06/demo.mfk",
+  "p3d": "gag_matt.p3d",
+  "interior": "Observatory",
+  "sound": "gag_matt",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level06/demo.mfk",
+  "p3d": "gag_perp.p3d",
+  "interior": "Observatory",
+  "sound": "gag_perp",
+  "coins": "1, 1"
+ },
+ {
+  "file": "missions/level06/demo.mfk",
+  "p3d": "gag_mole.p3d",
+  "interior": null,
+  "sound": null,
+  "coins": null
+ },
+ {
+  "file": "missions/level06/demo.mfk",
+  "p3d": "gag_will.p3d",
+  "interior": "Observatory",
+  "sound": "gag_will",
+  "coins": null
+ },
+ {
+  "file": "missions/level06/demo.mfk",
+  "p3d": "gag_ralf.p3d",
+  "interior": "Observatory",
+  "sound": null,
+  "coins": null
+ },
+ {
+  "file": "missions/level06/demo.mfk",
+  "p3d": "gag_beem.p3d",
+  "interior": "Observatory",
+  "sound": null,
+  "coins": null
+ },
+ {
+  "file": "missions/level06/demo.mfk",
+  "p3d": "gag_buly.p3d",
+  "interior": "Observatory",
+  "sound": null,
+  "coins": null
+ },
+ {
+  "file": "missions/level06/demo.mfk",
+  "p3d": "l06_pant.p3d",
+  "interior": null,
+  "sound": "gag_pant",
+  "coins": "5, 4.3"
+ },
+ {
+  "file": "missions/level06/demo.mfk",
+  "p3d": "gag_kids.p3d",
+  "interior": null,
+  "sound": "gag_kids",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level06/demo.mfk",
+  "p3d": "gag_tele.p3d",
+  "interior": "Observatory",
+  "sound": "gag_tele",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level06/demo.mfk",
+  "p3d": "l6_dump.p3d",
+  "interior": null,
+  "sound": "gag_lvl6_dumpster",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_s5.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s5",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_s_f1.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s_f1",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_s_f2.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "NED5002.wav & NED0201.wav",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_s1.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s1",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_s2.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s2",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_s3.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s3",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_s4.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s4",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_s_m1.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s_m1",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_s_m2.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s_m2",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_s_h1.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_s_h1",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_k_k1.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_k1",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_k_h1.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_h1",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_k_m1.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_m1",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_k_sr.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_sr",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_k_n1.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_n1",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_k_n2.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_n2",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_k_js.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_k_js",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_sc_1.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_1",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_sc_2.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_2",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_sc_3.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_3",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_sc_4.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_4",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_sc_5.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sc_5",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_burn.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_burn",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_bats.p3d",
+  "interior": null,
+  "sound": "gag_bats",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "l07_gas.p3d",
+  "interior": null,
+  "sound": "gag_gas",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "l07_swng.p3d",
+  "interior": null,
+  "sound": "gag_swng",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "l07_swg2.p3d",
+  "interior": null,
+  "sound": "gag_swng",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_sqsh.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_sqsh",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_jasp.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_jasp",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_atm.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_atm",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_tv.p3d",
+  "interior": "SimpsonsHouse",
+  "sound": "gag_tv",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "l07_azte.p3d",
+  "interior": null,
+  "sound": "gag_azte",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_fire.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_fire",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_sknr.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_sknr",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_burn.p3d",
+  "interior": "SpringfieldElementary",
+  "sound": "gag_willieburn",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "l07_mgr.p3d",
+  "interior": null,
+  "sound": "gag_mgr",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_tele.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_loot",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_alm2.p3d",
+  "interior": "KwikEMart",
+  "sound": "gag_alm2",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_lamp.p3d",
+  "interior": "bartroom",
+  "sound": "gag_lamp",
+  "coins": "1, -1"
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_bed.p3d",
+  "interior": "bartroom",
+  "sound": "gag_bed",
+  "coins": "1,1"
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "gag_bat2.p3d",
+  "interior": null,
+  "sound": "gag_bat2",
+  "coins": null
+ },
+ {
+  "file": "missions/level07/demo.mfk",
+  "p3d": "l07_shel.p3d",
+  "interior": null,
+  "sound": "gag_shel",
+  "coins": "1, -1"
+ }
+]

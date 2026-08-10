@@ -1,0 +1,170 @@
+[
+ {
+  "tag": "SHMD",
+  "chunk_id": "0x00011003",
+  "value_type": "int",
+  "meaning": "shade mode",
+  "confidence": "VERIFIED_TAG",
+  "source": "decoded from retail .p3d shader chunks (HnREncyclopedia C6.2)"
+ },
+ {
+  "tag": "FIMD",
+  "chunk_id": "0x00011003",
+  "value_type": "int",
+  "meaning": "fill mode",
+  "confidence": "VERIFIED_TAG",
+  "source": "decoded from retail .p3d"
+ },
+ {
+  "tag": "BLMD",
+  "chunk_id": "0x00011003",
+  "value_type": "int",
+  "meaning": "blend mode",
+  "confidence": "VERIFIED_TAG",
+  "source": "decoded from retail .p3d"
+ },
+ {
+  "tag": "UVMD",
+  "chunk_id": "0x00011003",
+  "value_type": "int",
+  "meaning": "UV/texture-address mode",
+  "confidence": "VERIFIED_TAG",
+  "source": "decoded from retail .p3d"
+ },
+ {
+  "tag": "ACMP",
+  "chunk_id": "0x00011003",
+  "value_type": "int",
+  "meaning": "alpha-compare function",
+  "confidence": "VERIFIED_TAG",
+  "source": "decoded from retail .p3d"
+ },
+ {
+  "tag": "ATST",
+  "chunk_id": "0x00011003",
+  "value_type": "int",
+  "meaning": "alpha test enable",
+  "confidence": "VERIFIED_TAG",
+  "source": "decoded from retail .p3d"
+ },
+ {
+  "tag": "2SID",
+  "chunk_id": "0x00011003",
+  "value_type": "int",
+  "meaning": "two-sided (backface cull)",
+  "confidence": "VERIFIED_TAG",
+  "source": "decoded from retail .p3d"
+ },
+ {
+  "tag": "MMIN",
+  "chunk_id": "0x00011003",
+  "value_type": "int",
+  "meaning": "mip min",
+  "confidence": "VERIFIED_TAG",
+  "source": "decoded from retail .p3d"
+ },
+ {
+  "tag": "MMAX",
+  "chunk_id": "0x00011003",
+  "value_type": "int",
+  "meaning": "mip max",
+  "confidence": "VERIFIED_TAG",
+  "source": "decoded from retail .p3d"
+ },
+ {
+  "tag": "MMEX",
+  "chunk_id": "0x00011003",
+  "value_type": "int",
+  "meaning": "mip (ex)",
+  "confidence": "VERIFIED_TAG",
+  "source": "decoded from retail .p3d"
+ },
+ {
+  "tag": "PLMD",
+  "chunk_id": "0x00011003",
+  "value_type": "int",
+  "meaning": "polygon/light mode",
+  "confidence": "VERIFIED_TAG",
+  "source": "decoded from retail .p3d"
+ },
+ {
+  "tag": "SHIN",
+  "chunk_id": "0x00011004",
+  "value_type": "float",
+  "meaning": "shininess (specular exponent)",
+  "confidence": "VERIFIED_TAG",
+  "source": "decoded from retail .p3d"
+ },
+ {
+  "tag": "MSHP",
+  "chunk_id": "0x00011004",
+  "value_type": "float",
+  "meaning": "material specular power",
+  "confidence": "VERIFIED_TAG",
+  "source": "decoded from retail .p3d"
+ },
+ {
+  "tag": "ACTH",
+  "chunk_id": "0x00011004",
+  "value_type": "float",
+  "meaning": "alpha threshold",
+  "confidence": "VERIFIED_TAG",
+  "source": "decoded from retail .p3d"
+ },
+ {
+  "tag": "DIFF",
+  "chunk_id": "0x00011005",
+  "value_type": "rgba",
+  "meaning": "diffuse colour",
+  "confidence": "VERIFIED_TAG",
+  "source": "decoded from retail .p3d"
+ },
+ {
+  "tag": "SPEC",
+  "chunk_id": "0x00011005",
+  "value_type": "rgba",
+  "meaning": "specular colour",
+  "confidence": "VERIFIED_TAG",
+  "source": "decoded from retail .p3d"
+ },
+ {
+  "tag": "AMBI",
+  "chunk_id": "0x00011005",
+  "value_type": "rgba",
+  "meaning": "ambient colour",
+  "confidence": "VERIFIED_TAG",
+  "source": "decoded from retail .p3d"
+ },
+ {
+  "tag": "EMIS",
+  "chunk_id": "0x00011005",
+  "value_type": "rgba",
+  "meaning": "emissive colour",
+  "confidence": "VERIFIED_TAG",
+  "source": "decoded from retail .p3d"
+ },
+ {
+  "tag": "TEX",
+  "chunk_id": "0x00011002",
+  "value_type": "texname",
+  "meaning": "base/diffuse texture slot",
+  "confidence": "VERIFIED_TAG",
+  "source": "decoded from retail .p3d"
+ },
+ {
+  "tag": "REFL",
+  "chunk_id": "0x00011002",
+  "value_type": "texname",
+  "meaning": "reflection texture slot",
+  "confidence": "VERIFIED_TAG",
+  "source": "decoded from retail .p3d"
+ },
+ {
+  "tag": "ENVB",
+  "chunk_id": "0x00011005",
+  "value_type": "rgba",
+  "meaning": "environment blend",
+  "confidence": "VERIFIED_TAG",
+  "source": "decoded from retail .p3d"
+ }
+]

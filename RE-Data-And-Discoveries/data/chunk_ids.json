@@ -1,0 +1,1434 @@
+[
+ {
+  "chunk_id_hex": "0x00002200",
+  "role": "leaf",
+  "occurrences": "990",
+  "name_confidence": "REASONED",
+  "name": "FrameController",
+  "source": "parsed retail .p3d; name inferred"
+ },
+ {
+  "chunk_id_hex": "0x00002380",
+  "role": "leaf",
+  "occurrences": "83",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00004500",
+  "role": "container",
+  "occurrences": "1591",
+  "name_confidence": "REASONED",
+  "name": "AnimationGroup",
+  "source": "parsed retail .p3d; name inferred"
+ },
+ {
+  "chunk_id_hex": "0x00004501",
+  "role": "container",
+  "occurrences": "22671",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00004503",
+  "role": "leaf",
+  "occurrences": "22671",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00004504",
+  "role": "leaf",
+  "occurrences": "22671",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00004512",
+  "role": "container",
+  "occurrences": "1541",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00004513",
+  "role": "container",
+  "occurrences": "1541",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00004514",
+  "role": "container",
+  "occurrences": "1541",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00004515",
+  "role": "container",
+  "occurrences": "634",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00004516",
+  "role": "container",
+  "occurrences": "7798",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00004517",
+  "role": "container",
+  "occurrences": "1541",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00004518",
+  "role": "container",
+  "occurrences": "804",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00004519",
+  "role": "leaf",
+  "occurrences": "9236",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x000048A0",
+  "role": "container",
+  "occurrences": "1474",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x000048A1",
+  "role": "leaf",
+  "occurrences": "1474",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00007000",
+  "role": "leaf",
+  "occurrences": "848",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00007030",
+  "role": "container",
+  "occurrences": "145",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00007031",
+  "role": "leaf",
+  "occurrences": "870",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00007032",
+  "role": "leaf",
+  "occurrences": "1315",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00010000",
+  "role": "container",
+  "occurrences": "14825",
+  "name_confidence": "VERIFIED",
+  "name": "Mesh",
+  "source": "parsed retail .p3d; name decoded from bytes (HnREncyclopedia C5-C13)"
+ },
+ {
+  "chunk_id_hex": "0x00010001",
+  "role": "container",
+  "occurrences": "634",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00010002",
+  "role": "container",
+  "occurrences": "20191",
+  "name_confidence": "VERIFIED",
+  "name": "PrimitiveGroup",
+  "source": "parsed retail .p3d; name decoded from bytes (HnREncyclopedia C5-C13)"
+ },
+ {
+  "chunk_id_hex": "0x00010003",
+  "role": "leaf",
+  "occurrences": "24212",
+  "name_confidence": "REASONED",
+  "name": "MeshBBox",
+  "source": "parsed retail .p3d; name inferred"
+ },
+ {
+  "chunk_id_hex": "0x00010004",
+  "role": "leaf",
+  "occurrences": "24212",
+  "name_confidence": "REASONED",
+  "name": "MeshBBox2",
+  "source": "parsed retail .p3d; name inferred"
+ },
+ {
+  "chunk_id_hex": "0x00010005",
+  "role": "leaf",
+  "occurrences": "20191",
+  "name_confidence": "VERIFIED",
+  "name": "VertexPositions",
+  "source": "parsed retail .p3d; name decoded from bytes (HnREncyclopedia C5-C13)"
+ },
+ {
+  "chunk_id_hex": "0x00010006",
+  "role": "leaf",
+  "occurrences": "5108",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00010007",
+  "role": "leaf",
+  "occurrences": "20191",
+  "name_confidence": "REASONED",
+  "name": "UVStream",
+  "source": "parsed retail .p3d; name inferred"
+ },
+ {
+  "chunk_id_hex": "0x00010008",
+  "role": "leaf",
+  "occurrences": "15083",
+  "name_confidence": "VERIFIED",
+  "name": "VertexColours",
+  "source": "parsed retail .p3d; name decoded from bytes (HnREncyclopedia C5-C13)"
+ },
+ {
+  "chunk_id_hex": "0x0001000A",
+  "role": "leaf",
+  "occurrences": "17987",
+  "name_confidence": "VERIFIED",
+  "name": "IndexBuffer",
+  "source": "parsed retail .p3d; name decoded from bytes (HnREncyclopedia C5-C13)"
+ },
+ {
+  "chunk_id_hex": "0x0001000B",
+  "role": "leaf",
+  "occurrences": "1466",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x0001000C",
+  "role": "leaf",
+  "occurrences": "766",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x0001000D",
+  "role": "leaf",
+  "occurrences": "1466",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x0001000E",
+  "role": "leaf",
+  "occurrences": "20",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00010010",
+  "role": "leaf",
+  "occurrences": "5108",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00010011",
+  "role": "leaf",
+  "occurrences": "14213",
+  "name_confidence": "REASONED",
+  "name": "PrimitiveFlag",
+  "source": "parsed retail .p3d; name inferred"
+ },
+ {
+  "chunk_id_hex": "0x00010017",
+  "role": "leaf",
+  "occurrences": "14823",
+  "name_confidence": "REASONED",
+  "name": "MeshHeader",
+  "source": "parsed retail .p3d; name inferred"
+ },
+ {
+  "chunk_id_hex": "0x00010018",
+  "role": "container",
+  "occurrences": "20",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00011000",
+  "role": "container",
+  "occurrences": "14182",
+  "name_confidence": "VERIFIED",
+  "name": "Shader",
+  "source": "parsed retail .p3d; name decoded from bytes (HnREncyclopedia C5-C13)"
+ },
+ {
+  "chunk_id_hex": "0x00011002",
+  "role": "leaf",
+  "occurrences": "14339",
+  "name_confidence": "VERIFIED",
+  "name": "ShaderTextureParam",
+  "source": "parsed retail .p3d; name decoded from bytes (HnREncyclopedia C5-C13)"
+ },
+ {
+  "chunk_id_hex": "0x00011003",
+  "role": "leaf",
+  "occurrences": "224971",
+  "name_confidence": "VERIFIED",
+  "name": "ShaderIntParam",
+  "source": "parsed retail .p3d; name decoded from bytes (HnREncyclopedia C5-C13)"
+ },
+ {
+  "chunk_id_hex": "0x00011004",
+  "role": "leaf",
+  "occurrences": "55937",
+  "name_confidence": "VERIFIED",
+  "name": "ShaderFloatParam",
+  "source": "parsed retail .p3d; name decoded from bytes (HnREncyclopedia C5-C13)"
+ },
+ {
+  "chunk_id_hex": "0x00011005",
+  "role": "leaf",
+  "occurrences": "69562",
+  "name_confidence": "VERIFIED",
+  "name": "ShaderColourParam",
+  "source": "parsed retail .p3d; name decoded from bytes (HnREncyclopedia C5-C13)"
+ },
+ {
+  "chunk_id_hex": "0x00012000",
+  "role": "container",
+  "occurrences": "687",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00012001",
+  "role": "leaf",
+  "occurrences": "687",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00013000",
+  "role": "container",
+  "occurrences": "356",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00013001",
+  "role": "leaf",
+  "occurrences": "306",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00013002",
+  "role": "leaf",
+  "occurrences": "356",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00013004",
+  "role": "leaf",
+  "occurrences": "356",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00013008",
+  "role": "leaf",
+  "occurrences": "35",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00014000",
+  "role": "leaf",
+  "occurrences": "611",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00015800",
+  "role": "container",
+  "occurrences": "869",
+  "name_confidence": "VERIFIED",
+  "name": "LocatorGroup",
+  "source": "parsed retail .p3d; name decoded from bytes (HnREncyclopedia C5-C13)"
+ },
+ {
+  "chunk_id_hex": "0x00015801",
+  "role": "leaf",
+  "occurrences": "869",
+  "name_confidence": "REASONED",
+  "name": "Locator",
+  "source": "parsed retail .p3d; name inferred"
+ },
+ {
+  "chunk_id_hex": "0x00015805",
+  "role": "container",
+  "occurrences": "3185",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00015806",
+  "role": "container",
+  "occurrences": "3185",
+  "name_confidence": "REASONED",
+  "name": "LocatorEntry",
+  "source": "parsed retail .p3d; name inferred"
+ },
+ {
+  "chunk_id_hex": "0x00015808",
+  "role": "container",
+  "occurrences": "3088",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00015809",
+  "role": "container",
+  "occurrences": "3185",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x0001580A",
+  "role": "container",
+  "occurrences": "3185",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x0001580B",
+  "role": "leaf",
+  "occurrences": "869",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00017001",
+  "role": "container",
+  "occurrences": "3240",
+  "name_confidence": "REASONED",
+  "name": "SkinData",
+  "source": "parsed retail .p3d; name inferred"
+ },
+ {
+  "chunk_id_hex": "0x00017002",
+  "role": "container",
+  "occurrences": "2477",
+  "name_confidence": "VERIFIED",
+  "name": "Skin",
+  "source": "parsed retail .p3d; name decoded from bytes (HnREncyclopedia C5-C13)"
+ },
+ {
+  "chunk_id_hex": "0x00017003",
+  "role": "leaf",
+  "occurrences": "3240",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00017004",
+  "role": "leaf",
+  "occurrences": "3240",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00018000",
+  "role": "container",
+  "occurrences": "26",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00018001",
+  "role": "leaf",
+  "occurrences": "156",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00018002",
+  "role": "container",
+  "occurrences": "321",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00018003",
+  "role": "container",
+  "occurrences": "350",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00018004",
+  "role": "container",
+  "occurrences": "560",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00018006",
+  "role": "leaf",
+  "occurrences": "1292",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00018007",
+  "role": "container",
+  "occurrences": "1517",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00018008",
+  "role": "leaf",
+  "occurrences": "56",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00018009",
+  "role": "leaf",
+  "occurrences": "141",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x0001800B",
+  "role": "leaf",
+  "occurrences": "7024",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x0001800C",
+  "role": "leaf",
+  "occurrences": "572",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x0001800D",
+  "role": "container",
+  "occurrences": "2",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x0001800E",
+  "role": "leaf",
+  "occurrences": "10",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00018100",
+  "role": "leaf",
+  "occurrences": "2118",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00018101",
+  "role": "leaf",
+  "occurrences": "74",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00018104",
+  "role": "leaf",
+  "occurrences": "303",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00018105",
+  "role": "leaf",
+  "occurrences": "195",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00019000",
+  "role": "container",
+  "occurrences": "10312",
+  "name_confidence": "VERIFIED",
+  "name": "Texture",
+  "source": "parsed retail .p3d; name decoded from bytes (HnREncyclopedia C5-C13)"
+ },
+ {
+  "chunk_id_hex": "0x00019001",
+  "role": "container",
+  "occurrences": "20748",
+  "name_confidence": "VERIFIED",
+  "name": "Image",
+  "source": "parsed retail .p3d; name decoded from bytes (HnREncyclopedia C5-C13)"
+ },
+ {
+  "chunk_id_hex": "0x00019002",
+  "role": "leaf",
+  "occurrences": "20748",
+  "name_confidence": "VERIFIED",
+  "name": "ImageData",
+  "source": "parsed retail .p3d; name decoded from bytes (HnREncyclopedia C5-C13)"
+ },
+ {
+  "chunk_id_hex": "0x00019005",
+  "role": "container",
+  "occurrences": "1604",
+  "name_confidence": "REASONED",
+  "name": "ImageMip",
+  "source": "parsed retail .p3d; name inferred"
+ },
+ {
+  "chunk_id_hex": "0x00020000",
+  "role": "container",
+  "occurrences": "488",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00020001",
+  "role": "leaf",
+  "occurrences": "503",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00020002",
+  "role": "container",
+  "occurrences": "488",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00021000",
+  "role": "leaf",
+  "occurrences": "20",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00021001",
+  "role": "container",
+  "occurrences": "20",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00021002",
+  "role": "leaf",
+  "occurrences": "20",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00022000",
+  "role": "container",
+  "occurrences": "39",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00022001",
+  "role": "leaf",
+  "occurrences": "39",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00120100",
+  "role": "container",
+  "occurrences": "1154",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00120101",
+  "role": "container",
+  "occurrences": "1154",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00120102",
+  "role": "container",
+  "occurrences": "1154",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00120103",
+  "role": "container",
+  "occurrences": "18603",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00120104",
+  "role": "container",
+  "occurrences": "226",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00120107",
+  "role": "container",
+  "occurrences": "13674",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00120109",
+  "role": "leaf",
+  "occurrences": "15",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x0012010A",
+  "role": "leaf",
+  "occurrences": "13674",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00121000",
+  "role": "container",
+  "occurrences": "13170",
+  "name_confidence": "VERIFIED",
+  "name": "CollisionObject",
+  "source": "parsed retail .p3d; name decoded from bytes (HnREncyclopedia C5-C13)"
+ },
+ {
+  "chunk_id_hex": "0x00121001",
+  "role": "container",
+  "occurrences": "46316",
+  "name_confidence": "VERIFIED",
+  "name": "CollisionVolume",
+  "source": "parsed retail .p3d; name decoded from bytes (HnREncyclopedia C5-C13)"
+ },
+ {
+  "chunk_id_hex": "0x00121002",
+  "role": "container",
+  "occurrences": "13170",
+  "name_confidence": "REASONED",
+  "name": "CollisionBBoxOwner",
+  "source": "parsed retail .p3d; name inferred"
+ },
+ {
+  "chunk_id_hex": "0x00121004",
+  "role": "leaf",
+  "occurrences": "13166",
+  "name_confidence": "REASONED",
+  "name": "CollisionBBox",
+  "source": "parsed retail .p3d; name inferred"
+ },
+ {
+  "chunk_id_hex": "0x00121006",
+  "role": "leaf",
+  "occurrences": "4",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00121100",
+  "role": "container",
+  "occurrences": "67434",
+  "name_confidence": "VERIFIED",
+  "name": "CollisionVector",
+  "source": "parsed retail .p3d; name decoded from bytes (HnREncyclopedia C5-C13)"
+ },
+ {
+  "chunk_id_hex": "0x00121101",
+  "role": "container",
+  "occurrences": "1219",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00121102",
+  "role": "container",
+  "occurrences": "913",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00121103",
+  "role": "container",
+  "occurrences": "1723",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00121104",
+  "role": "container",
+  "occurrences": "18578",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00121105",
+  "role": "container",
+  "occurrences": "11675",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00121107",
+  "role": "container",
+  "occurrences": "269",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00121108",
+  "role": "leaf",
+  "occurrences": "2578",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00121109",
+  "role": "container",
+  "occurrences": "4929",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x0012110E",
+  "role": "container",
+  "occurrences": "14533",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00121110",
+  "role": "leaf",
+  "occurrences": "147655",
+  "name_confidence": "REASONED",
+  "name": "CollisionVectorList",
+  "source": "parsed retail .p3d; name inferred"
+ },
+ {
+  "chunk_id_hex": "0x00121111",
+  "role": "container",
+  "occurrences": "26382",
+  "name_confidence": "REASONED",
+  "name": "CollisionBVH",
+  "source": "parsed retail .p3d; name inferred"
+ },
+ {
+  "chunk_id_hex": "0x00121200",
+  "role": "leaf",
+  "occurrences": "4716",
+  "name_confidence": "REASONED",
+  "name": "IntersectDSG",
+  "source": "parsed retail .p3d; name inferred"
+ },
+ {
+  "chunk_id_hex": "0x00121201",
+  "role": "leaf",
+  "occurrences": "4",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00121202",
+  "role": "container",
+  "occurrences": "2",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00121203",
+  "role": "leaf",
+  "occurrences": "4",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00121301",
+  "role": "leaf",
+  "occurrences": "139",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x00121304",
+  "role": "container",
+  "occurrences": "139",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x03000000",
+  "role": "leaf",
+  "occurrences": "10311",
+  "name_confidence": "VERIFIED",
+  "name": "Fence",
+  "source": "parsed retail .p3d; name decoded from bytes (HnREncyclopedia C5-C13)"
+ },
+ {
+  "chunk_id_hex": "0x03000002",
+  "role": "leaf",
+  "occurrences": "6805",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x03000003",
+  "role": "container",
+  "occurrences": "763",
+  "name_confidence": "VERIFIED",
+  "name": "RoadNetwork",
+  "source": "parsed retail .p3d; name decoded from bytes (HnREncyclopedia C5-C13)"
+ },
+ {
+  "chunk_id_hex": "0x03000004",
+  "role": "leaf",
+  "occurrences": "448",
+  "name_confidence": "VERIFIED",
+  "name": "IntersectionNode",
+  "source": "parsed retail .p3d; name decoded from bytes (HnREncyclopedia C5-C13)"
+ },
+ {
+  "chunk_id_hex": "0x03000005",
+  "role": "container",
+  "occurrences": "6209",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x03000006",
+  "role": "leaf",
+  "occurrences": "3734",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x03000007",
+  "role": "container",
+  "occurrences": "129",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x03000008",
+  "role": "container",
+  "occurrences": "944",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x03000009",
+  "role": "leaf",
+  "occurrences": "6544",
+  "name_confidence": "VERIFIED",
+  "name": "PathSegment",
+  "source": "parsed retail .p3d; name decoded from bytes (HnREncyclopedia C5-C13)"
+ },
+ {
+  "chunk_id_hex": "0x0300000A",
+  "role": "leaf",
+  "occurrences": "129",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x0300000B",
+  "role": "leaf",
+  "occurrences": "605",
+  "name_confidence": "REASONED",
+  "name": "Path",
+  "source": "parsed retail .p3d; name inferred"
+ },
+ {
+  "chunk_id_hex": "0x0300000C",
+  "role": "leaf",
+  "occurrences": "1667",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x0300000E",
+  "role": "leaf",
+  "occurrences": "5020",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x03000100",
+  "role": "leaf",
+  "occurrences": "175",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x03000110",
+  "role": "container",
+  "occurrences": "16",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x03000600",
+  "role": "leaf",
+  "occurrences": "3413",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x03000602",
+  "role": "leaf",
+  "occurrences": "1",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x03001000",
+  "role": "container",
+  "occurrences": "207",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x03001001",
+  "role": "container",
+  "occurrences": "63",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x03F00000",
+  "role": "container",
+  "occurrences": "7157",
+  "name_confidence": "VERIFIED",
+  "name": "Scenegraph",
+  "source": "parsed retail .p3d; name decoded from bytes (HnREncyclopedia C5-C13)"
+ },
+ {
+  "chunk_id_hex": "0x03F00001",
+  "role": "container",
+  "occurrences": "2579",
+  "name_confidence": "VERIFIED",
+  "name": "ScenegraphRoot",
+  "source": "parsed retail .p3d; name decoded from bytes (HnREncyclopedia C5-C13)"
+ },
+ {
+  "chunk_id_hex": "0x03F00002",
+  "role": "container",
+  "occurrences": "415",
+  "name_confidence": "REASONED",
+  "name": "ScenegraphBranch",
+  "source": "parsed retail .p3d; name inferred"
+ },
+ {
+  "chunk_id_hex": "0x03F00003",
+  "role": "container",
+  "occurrences": "8755",
+  "name_confidence": "VERIFIED",
+  "name": "ScenegraphTransform",
+  "source": "parsed retail .p3d; name decoded from bytes (HnREncyclopedia C5-C13)"
+ },
+ {
+  "chunk_id_hex": "0x03F00004",
+  "role": "container",
+  "occurrences": "21",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x03F00005",
+  "role": "container",
+  "occurrences": "19103",
+  "name_confidence": "VERIFIED",
+  "name": "ScenegraphDrawable",
+  "source": "parsed retail .p3d; name decoded from bytes (HnREncyclopedia C5-C13)"
+ },
+ {
+  "chunk_id_hex": "0x03F00006",
+  "role": "leaf",
+  "occurrences": "19103",
+  "name_confidence": "REASONED",
+  "name": "ScenegraphDrawableData",
+  "source": "parsed retail .p3d; name inferred"
+ },
+ {
+  "chunk_id_hex": "0x03F00007",
+  "role": "container",
+  "occurrences": "10311",
+  "name_confidence": "REASONED",
+  "name": "ScenegraphSortOrder",
+  "source": "parsed retail .p3d; name inferred"
+ },
+ {
+  "chunk_id_hex": "0x03F00008",
+  "role": "container",
+  "occurrences": "136",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x03F00009",
+  "role": "container",
+  "occurrences": "85",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x03F0000A",
+  "role": "container",
+  "occurrences": "187",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x03F0000B",
+  "role": "container",
+  "occurrences": "17",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x03F0000C",
+  "role": "container",
+  "occurrences": "216",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x03F0000D",
+  "role": "container",
+  "occurrences": "12",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x03F0000E",
+  "role": "container",
+  "occurrences": "267",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x03F0000F",
+  "role": "container",
+  "occurrences": "10",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x03F00010",
+  "role": "container",
+  "occurrences": "257",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x07010000",
+  "role": "container",
+  "occurrences": "3791",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x07010001",
+  "role": "container",
+  "occurrences": "15577",
+  "name_confidence": "VERIFIED",
+  "name": "Frame",
+  "source": "parsed retail .p3d; name decoded from bytes (HnREncyclopedia C5-C13)"
+ },
+ {
+  "chunk_id_hex": "0x07010002",
+  "role": "container",
+  "occurrences": "790",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x07010003",
+  "role": "container",
+  "occurrences": "1669",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x07010004",
+  "role": "container",
+  "occurrences": "11210",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x07010006",
+  "role": "leaf",
+  "occurrences": "1908",
+  "name_confidence": "REASONED",
+  "name": "FrameSub",
+  "source": "parsed retail .p3d; name inferred"
+ },
+ {
+  "chunk_id_hex": "0x07010007",
+  "role": "leaf",
+  "occurrences": "48968",
+  "name_confidence": "REASONED",
+  "name": "FrameData",
+  "source": "parsed retail .p3d; name inferred"
+ },
+ {
+  "chunk_id_hex": "0x07010021",
+  "role": "container",
+  "occurrences": "1949",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x07010022",
+  "role": "leaf",
+  "occurrences": "1949",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x07010023",
+  "role": "leaf",
+  "occurrences": "3791",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x07011000",
+  "role": "container",
+  "occurrences": "880",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x07011001",
+  "role": "leaf",
+  "occurrences": "1791",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x07011002",
+  "role": "leaf",
+  "occurrences": "1791",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x07011020",
+  "role": "container",
+  "occurrences": "1376",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x08020000",
+  "role": "container",
+  "occurrences": "290",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x08020001",
+  "role": "container",
+  "occurrences": "984",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x08020002",
+  "role": "leaf",
+  "occurrences": "5656",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x08020003",
+  "role": "leaf",
+  "occurrences": "3422",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x08020004",
+  "role": "leaf",
+  "occurrences": "1019",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ },
+ {
+  "chunk_id_hex": "0x08020005",
+  "role": "leaf",
+  "occurrences": "1344",
+  "name_confidence": "OPEN",
+  "name": "",
+  "source": "parsed retail .p3d; payload not yet decoded"
+ }
+]

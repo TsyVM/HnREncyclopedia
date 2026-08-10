@@ -1,0 +1,722 @@
+[
+ {
+  "con_id": "IStruck",
+  "name": "Itchy Scratchy Movie Truck (AI)",
+  "top_speed_kmh": "120.0",
+  "mass": "2500.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "SUVA",
+  "name": "SUV A (traffic vehicle)",
+  "top_speed_kmh": "120.0",
+  "mass": "2300.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "ambul",
+  "name": "Ambulance (Traffic AI)",
+  "top_speed_kmh": "130.0",
+  "mass": "2500.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "apu_v",
+  "name": "Apu's Longhorn",
+  "top_speed_kmh": "145.0",
+  "mass": "1500.0",
+  "driver": "apu",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "atv_v",
+  "name": "All Terrain Vehicle (ATV)",
+  "top_speed_kmh": "125.0",
+  "mass": "500.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "bart_v",
+  "name": "Bart Ferrini",
+  "top_speed_kmh": "150.0",
+  "mass": "1300.0",
+  "driver": "bart",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "bbman_v",
+  "name": "Bumblebee Man's El Camino",
+  "top_speed_kmh": "150.0",
+  "mass": "1500.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "bookb_v",
+  "name": "Lovejoy's Book Burning Van",
+  "top_speed_kmh": "130.0",
+  "mass": "2500.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "burns_v",
+  "name": "Burns - '36 Stutz Bearcat",
+  "top_speed_kmh": "145.0",
+  "mass": "1500.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "burnsarm",
+  "name": "Burns Armoured Truck (Traffic AI)",
+  "top_speed_kmh": "130.0",
+  "mass": "4000.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "cArmor",
+  "name": "Armored Truck",
+  "top_speed_kmh": "130.0",
+  "mass": "4000.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "cBlbart",
+  "name": "Black Ferrini (Chase)",
+  "top_speed_kmh": "160.0",
+  "mass": "1300.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "cBone",
+  "name": "Bone Truck",
+  "top_speed_kmh": "115.0",
+  "mass": "2500.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "cCellA",
+  "name": "Cell Phone Car A",
+  "top_speed_kmh": "120.0",
+  "mass": "1500.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "cCellB",
+  "name": "Cell Phone Car B",
+  "top_speed_kmh": "120.0",
+  "mass": "1500.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "cCellC",
+  "name": "Cell Phone Car C",
+  "top_speed_kmh": "120.0",
+  "mass": "1500.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "cCellD",
+  "name": "Cell Phone Car D",
+  "top_speed_kmh": "120.0",
+  "mass": "1500.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "cCola",
+  "name": "Cola Truck",
+  "top_speed_kmh": "140.0",
+  "mass": "4000.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "cCube",
+  "name": "Cube Van",
+  "top_speed_kmh": "115.0",
+  "mass": "2500.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "cCurator",
+  "name": "Curator",
+  "top_speed_kmh": "135.0",
+  "mass": "1500.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "cDonut",
+  "name": "Donut Truck",
+  "top_speed_kmh": "115.0",
+  "mass": "2000.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "cDuff",
+  "name": "Duff Truck",
+  "top_speed_kmh": "115.0",
+  "mass": "2500.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "cFire_v",
+  "name": "Fire Truck",
+  "top_speed_kmh": "140.0",
+  "mass": "4000.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "cHears",
+  "name": "Flame Hearse (chase)",
+  "top_speed_kmh": "160.0",
+  "mass": "2000.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "cKlimo",
+  "name": "Krusty's Limo",
+  "top_speed_kmh": "135.0",
+  "mass": "2500.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "cLimo",
+  "name": "Chase Limo",
+  "top_speed_kmh": "125.0",
+  "mass": "2500.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "cMilk",
+  "name": "Milk Truck",
+  "top_speed_kmh": "115.0",
+  "mass": "2000.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "cNerd",
+  "name": "Nerd car",
+  "top_speed_kmh": "125.0",
+  "mass": "1000.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "cNonup",
+  "name": "Nonuplets Minivan",
+  "top_speed_kmh": "115.0",
+  "mass": "2000.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "cPolice",
+  "name": "AI Police Car",
+  "top_speed_kmh": "155.0",
+  "mass": "2000.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "cSedan",
+  "name": "Chase Sedan",
+  "top_speed_kmh": "150.0",
+  "mass": "1800.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "cVan",
+  "name": "Surveillance Van",
+  "top_speed_kmh": "125.0",
+  "mass": "2000.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "carhom_v",
+  "name": "The Car Built For Homer (tm)",
+  "top_speed_kmh": "160.0",
+  "mass": "2000.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "cletu_v",
+  "name": "Cletus pickup truck",
+  "top_speed_kmh": "120.0",
+  "mass": "2000.0",
+  "driver": "cletus",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "coffin",
+  "name": "Coffin Car (Halloween Level)",
+  "top_speed_kmh": "135.0",
+  "mass": "1000.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "comic_v",
+  "name": "Comic Book Guy - Gremlin",
+  "top_speed_kmh": "135.0",
+  "mass": "1200.0",
+  "driver": "cbg",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "compactA",
+  "name": "CompactA Traffic Car",
+  "top_speed_kmh": "125.0",
+  "mass": "1000.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "dune_v",
+  "name": "Radio Controlled Dune Buggy",
+  "top_speed_kmh": "110.0",
+  "mass": "300.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "elect_v",
+  "name": "Lisa Electaurus",
+  "top_speed_kmh": "130.0",
+  "mass": "1500.0",
+  "driver": "lisa",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "famil_v",
+  "name": "Simpsons Family Sedan",
+  "top_speed_kmh": "120.0",
+  "mass": "1500.0",
+  "driver": "homer",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "fishtruc",
+  "name": "Fish Truck (Traffic AI)",
+  "top_speed_kmh": "120.0",
+  "mass": "2000.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "fone_v",
+  "name": "Open Wheel Race Car",
+  "top_speed_kmh": "200.0",
+  "mass": "800.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "frink_v",
+  "name": "Frink's Hovercar",
+  "top_speed_kmh": "155.0",
+  "mass": "1500.0",
+  "driver": "frink",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "garbage",
+  "name": "Garbage Truck (Traffic AI)",
+  "top_speed_kmh": "115.0",
+  "mass": "4000.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "glastruc",
+  "name": "Glass Truck",
+  "top_speed_kmh": "125.0",
+  "mass": "2000.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "gramR_v",
+  "name": "Gramps WWII Jeep (w/V1 rocket baby!)",
+  "top_speed_kmh": "175.0",
+  "mass": "2000.0",
+  "driver": "grandpa",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "gramp_v",
+  "name": "Gramps WWII Jeep",
+  "top_speed_kmh": "125.0",
+  "mass": "2000.0",
+  "driver": "grandpa",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "hallo",
+  "name": "Hallo (Halloween Level)",
+  "top_speed_kmh": "130.0",
+  "mass": "2000.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "hbike_v",
+  "name": "Hover Bike",
+  "top_speed_kmh": "180.0",
+  "mass": "1000.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "homer_v",
+  "name": "Homer's Barracuda",
+  "top_speed_kmh": "165.0",
+  "mass": "1500.0",
+  "driver": "homer",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "honor_v",
+  "name": "Bart's Honor Roller",
+  "top_speed_kmh": "125.0",
+  "mass": "1200.0",
+  "driver": "bart",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "huskA",
+  "name": "Charred Husk (traffic vehicle)",
+  "top_speed_kmh": "20.0",
+  "mass": "250.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "hype_v",
+  "name": "Planet Hype 50's Car",
+  "top_speed_kmh": "150.0",
+  "mass": "2000.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "icecream",
+  "name": "Ice Cream Truck (Traffic AI)",
+  "top_speed_kmh": "120.0",
+  "mass": "2000.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "knigh_v",
+  "name": "Knight Boat",
+  "top_speed_kmh": "150.0",
+  "mass": "1500.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "krust_v",
+  "name": "Krusty's Clown Car",
+  "top_speed_kmh": "140.0",
+  "mass": "1200.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "lisa_v",
+  "name": "Lisa's Vette",
+  "top_speed_kmh": "135.0",
+  "mass": "1000.0",
+  "driver": "lisa",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "marge_v",
+  "name": "Marge's Canyonero",
+  "top_speed_kmh": "135.0",
+  "mass": "3000.0",
+  "driver": "marge",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "minivanA",
+  "name": "Minivan (traffic vehicle)",
+  "top_speed_kmh": "125.0",
+  "mass": "2000.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "moe_v",
+  "name": "Moe's Sedan",
+  "top_speed_kmh": "130.0",
+  "mass": "1500.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "mono_v",
+  "name": "Monorail chunk",
+  "top_speed_kmh": "120.0",
+  "mass": "2000.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "mrplo_v",
+  "name": "Homer's Mr. Plow",
+  "top_speed_kmh": "130.0",
+  "mass": "2500.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "nuctruck",
+  "name": "Nuclear Waste Truck",
+  "top_speed_kmh": "130.0",
+  "mass": "2500.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "oblit_v",
+  "name": "Obliteratatron Big Wheel Truck",
+  "top_speed_kmh": "110.0",
+  "mass": "4000.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "otto_v",
+  "name": "Otto School Bus (cooool dude!)",
+  "top_speed_kmh": "130.0",
+  "mass": "3500.0",
+  "driver": "otto",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "pickupA",
+  "name": "Pickup truck (traffic vehicle)",
+  "top_speed_kmh": "125.0",
+  "mass": "1800.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "pizza",
+  "name": "Pizza Truck (Traffic AI)",
+  "top_speed_kmh": "135.0",
+  "mass": "1800.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "plowk_v",
+  "name": "Barney's Plow King",
+  "top_speed_kmh": "125.0",
+  "mass": "4000.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "redbrick",
+  "name": "Red Brick v2.0",
+  "top_speed_kmh": "135.0",
+  "mass": "1000.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "rocke_v",
+  "name": "Speed Rocket",
+  "top_speed_kmh": "250.0",
+  "mass": "800.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "schoolbu",
+  "name": "Mini School Bus (Traffic AI)",
+  "top_speed_kmh": "120.0",
+  "mass": "2500.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "scorp_v",
+  "name": "GLobex Super Villian Car",
+  "top_speed_kmh": "160.0",
+  "mass": "1500.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "sedanA",
+  "name": "Sedan A (traffic vehicle)",
+  "top_speed_kmh": "125.0",
+  "mass": "1500.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "sedanB",
+  "name": "Sedan B (traffic vehicle)",
+  "top_speed_kmh": "130.0",
+  "mass": "1500.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "ship",
+  "name": "Ship (Halloween Level)",
+  "top_speed_kmh": "125.0",
+  "mass": "1000.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "skinn_m1",
+  "name": "skinner",
+  "top_speed_kmh": "80.0",
+  "mass": "1500.0",
+  "driver": "skinner",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "skinn_v",
+  "name": "Skinner's Sedan",
+  "top_speed_kmh": "130.0",
+  "mass": "1500.0",
+  "driver": "skinner",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "smith_v",
+  "name": "Burns Limo (with Smithers)",
+  "top_speed_kmh": "160.0",
+  "mass": "3500.0",
+  "driver": "smithers",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "snake_v",
+  "name": "Snake's \"lil Bandit",
+  "top_speed_kmh": "160.0",
+  "mass": "1500.0",
+  "driver": "snake",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "sportsA",
+  "name": "Sports Car A (traffic vehicle)",
+  "top_speed_kmh": "135.0",
+  "mass": "1500.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "sportsB",
+  "name": "Sports Car B (traffic vehicle)",
+  "top_speed_kmh": "135.0",
+  "mass": "1500.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "taxiA",
+  "name": "Taxi (traffic vehicle)",
+  "top_speed_kmh": "135.0",
+  "mass": "1500.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "test",
+  "name": "ferra.con",
+  "top_speed_kmh": "200.0",
+  "mass": "8000.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "tt",
+  "name": "cuda.con",
+  "top_speed_kmh": "220.0",
+  "mass": "1000.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "votetruc",
+  "name": "Vote Quimby Truck (Traffic AI)",
+  "top_speed_kmh": "120.0",
+  "mass": "2500.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "wagonA",
+  "name": "Station Wagon (traffic vehicle)",
+  "top_speed_kmh": "120.0",
+  "mass": "1800.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "wiggu_v",
+  "name": "Wiggum's Police Car",
+  "top_speed_kmh": "155.0",
+  "mass": "2000.0",
+  "driver": "wiggum",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "willi_v",
+  "name": "Willie's Tractor",
+  "top_speed_kmh": "140.0",
+  "mass": "2000.0",
+  "driver": "none",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "witchcar",
+  "name": "Witchcar (Halloween Level)",
+  "top_speed_kmh": "130.0",
+  "mass": "250.0",
+  "driver": "",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ },
+ {
+  "con_id": "zombi_v",
+  "name": "Zombie Speed Buggy",
+  "top_speed_kmh": "160.0",
+  "mass": "1750.0",
+  "driver": "zmale1",
+  "source": "extracted from scripts/cars/*.con (HnREncyclopedia C15/Legend)"
+ }
+]

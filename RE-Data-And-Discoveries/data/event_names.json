@@ -1,0 +1,20 @@
+[
+ {
+  "event": "EVENT_ENTER_INTERIOR_TRANSITION_END"
+ },
+ {
+  "event": "EVENT_ENTER_INTERIOR_TRANSITION_START"
+ },
+ {
+  "event": "EVENT_EXIT_INTERIOR_END"
+ },
+ {
+  "event": "EVENT_EXIT_INTERIOR_START"
+ },
+ {
+  "event": "EVENT_GUI_IRIS_WIPE_CLOSED"
+ },
+ {
+  "event": "EVENT_GUI_IRIS_WIPE_OPEN"
+ }
+]

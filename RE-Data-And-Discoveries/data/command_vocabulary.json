@@ -1,0 +1,2656 @@
+[
+ {
+  "command": "LoadP3DFile",
+  "occurrences": 974,
+  "example_files": [
+   "missions/level01/bm1l.mfk",
+   "missions/level01/d1l.mfk",
+   "missions/level01/demo.mfk",
+   "missions/level01/gr1l.mfk",
+   "missions/level01/level.mfk",
+   "missions/level01/m0l.mfk",
+   "missions/level01/m0sdl.mfk",
+   "ss.mfk"
+  ]
+ },
+ {
+  "command": "AddCollectible",
+  "occurrences": 635,
+  "example_files": [
+   "missions/level01/bm1i.mfk",
+   "missions/level01/d1i.mfk",
+   "missions/level01/gr1i.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m4i.mfk",
+   "missions/level01/m6i.mfk",
+   "missions/level01/m7i.mfk",
+   "missions/level01/sr1i.mfk"
+  ]
+ },
+ {
+  "command": "AddStage",
+  "occurrences": 611,
+  "example_files": [
+   "missions/level01/bm1i.mfk",
+   "missions/level01/d1i.mfk",
+   "missions/level01/gr1i.mfk",
+   "missions/level01/m0i.mfk",
+   "missions/level01/m0sdi.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2i.mfk"
+  ]
+ },
+ {
+  "command": "AddObjective",
+  "occurrences": 611,
+  "example_files": [
+   "missions/level01/bm1i.mfk",
+   "missions/level01/d1i.mfk",
+   "missions/level01/gr1i.mfk",
+   "missions/level01/m0i.mfk",
+   "missions/level01/m0sdi.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2i.mfk"
+  ]
+ },
+ {
+  "command": "CloseObjective",
+  "occurrences": 611,
+  "example_files": [
+   "missions/level01/bm1i.mfk",
+   "missions/level01/d1i.mfk",
+   "missions/level01/gr1i.mfk",
+   "missions/level01/m0i.mfk",
+   "missions/level01/m0sdi.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2i.mfk"
+  ]
+ },
+ {
+  "command": "CloseStage",
+  "occurrences": 611,
+  "example_files": [
+   "missions/level01/bm1i.mfk",
+   "missions/level01/d1i.mfk",
+   "missions/level01/gr1i.mfk",
+   "missions/level01/m0i.mfk",
+   "missions/level01/m0sdi.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2i.mfk"
+  ]
+ },
+ {
+  "command": "AddAmbientNPCWaypoint",
+  "occurrences": 472,
+  "example_files": [
+   "missions/level01/demoi.mfk",
+   "missions/level01/leveli.mfk",
+   "missions/level02/demoi.mfk",
+   "missions/level02/e3leveli.mfk",
+   "missions/level02/leveli.mfk",
+   "missions/level03/demoi.mfk",
+   "missions/level03/leveli.mfk",
+   "missions/level04/demoi.mfk"
+  ]
+ },
+ {
+  "command": "SetStageMessageIndex",
+  "occurrences": 449,
+  "example_files": [
+   "missions/level01/bm1i.mfk",
+   "missions/level01/d1i.mfk",
+   "missions/level01/gr1i.mfk",
+   "missions/level01/m0i.mfk",
+   "missions/level01/m0sdi.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2i.mfk"
+  ]
+ },
+ {
+  "command": "AddAmbientPcAnimation",
+  "occurrences": 438,
+  "example_files": [
+   "missions/level01/leveli.mfk",
+   "missions/level01/m0i.mfk",
+   "missions/level01/m0sdi.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2i.mfk",
+   "missions/level01/m2sdi.mfk",
+   "missions/level01/m3sdi.mfk"
+  ]
+ },
+ {
+  "command": "AddPed",
+  "occurrences": 437,
+  "example_files": [
+   "missions/level01/demoi.mfk",
+   "missions/level01/leveli.mfk",
+   "missions/level02/demoi.mfk",
+   "missions/level02/e3leveli.mfk",
+   "missions/level02/leveli.mfk",
+   "missions/level03/demoi.mfk",
+   "missions/level03/leveli.mfk",
+   "missions/level04/demoi.mfk"
+  ]
+ },
+ {
+  "command": "AddAmbientNpcAnimation",
+  "occurrences": 436,
+  "example_files": [
+   "missions/level01/leveli.mfk",
+   "missions/level01/m0i.mfk",
+   "missions/level01/m0sdi.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2i.mfk",
+   "missions/level01/m2sdi.mfk",
+   "missions/level01/m3sdi.mfk"
+  ]
+ },
+ {
+  "command": "AddCondition",
+  "occurrences": 408,
+  "example_files": [
+   "missions/level01/bm1i.mfk",
+   "missions/level01/gr1i.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m2i.mfk",
+   "missions/level01/m3i.mfk",
+   "missions/level01/m4i.mfk",
+   "missions/level01/m5i.mfk",
+   "missions/level01/m6i.mfk"
+  ]
+ },
+ {
+  "command": "CloseCondition",
+  "occurrences": 408,
+  "example_files": [
+   "missions/level01/bm1i.mfk",
+   "missions/level01/gr1i.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m2i.mfk",
+   "missions/level01/m3i.mfk",
+   "missions/level01/m4i.mfk",
+   "missions/level01/m5i.mfk",
+   "missions/level01/m6i.mfk"
+  ]
+ },
+ {
+  "command": "SetHUDIcon",
+  "occurrences": 397,
+  "example_files": [
+   "missions/level01/bm1i.mfk",
+   "missions/level01/gr1i.mfk",
+   "missions/level01/m0i.mfk",
+   "missions/level01/m0sdi.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2i.mfk",
+   "missions/level01/m2sdi.mfk"
+  ]
+ },
+ {
+  "command": "AddStageWaypoint",
+  "occurrences": 388,
+  "example_files": [
+   "missions/level01/d1i.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m3i.mfk",
+   "missions/level01/m5i.mfk",
+   "missions/level01/m6i.mfk",
+   "missions/level01/m7i.mfk",
+   "missions/level01/sr2i.mfk",
+   "missions/level01/sr3i.mfk"
+  ]
+ },
+ {
+  "command": "GagBegin",
+  "occurrences": 373,
+  "example_files": [
+   "missions/level01/demo.mfk",
+   "missions/level01/level.mfk",
+   "missions/level02/demo.mfk",
+   "missions/level02/e3level.mfk",
+   "missions/level02/level.mfk",
+   "missions/level03/demo.mfk",
+   "missions/level03/level.mfk",
+   "missions/level04/demo.mfk"
+  ]
+ },
+ {
+  "command": "GagSetCycle",
+  "occurrences": 373,
+  "example_files": [
+   "missions/level01/demo.mfk",
+   "missions/level01/level.mfk",
+   "missions/level02/demo.mfk",
+   "missions/level02/e3level.mfk",
+   "missions/level02/level.mfk",
+   "missions/level03/demo.mfk",
+   "missions/level03/level.mfk",
+   "missions/level04/demo.mfk"
+  ]
+ },
+ {
+  "command": "GagEnd",
+  "occurrences": 373,
+  "example_files": [
+   "missions/level01/demo.mfk",
+   "missions/level01/level.mfk",
+   "missions/level02/demo.mfk",
+   "missions/level02/e3level.mfk",
+   "missions/level02/level.mfk",
+   "missions/level03/demo.mfk",
+   "missions/level03/level.mfk",
+   "missions/level04/demo.mfk"
+  ]
+ },
+ {
+  "command": "GagSetPosition",
+  "occurrences": 372,
+  "example_files": [
+   "missions/level01/demo.mfk",
+   "missions/level01/level.mfk",
+   "missions/level02/demo.mfk",
+   "missions/level02/e3level.mfk",
+   "missions/level02/level.mfk",
+   "missions/level03/demo.mfk",
+   "missions/level03/level.mfk",
+   "missions/level04/demo.mfk"
+  ]
+ },
+ {
+  "command": "GagSetRandom",
+  "occurrences": 372,
+  "example_files": [
+   "missions/level01/demo.mfk",
+   "missions/level01/level.mfk",
+   "missions/level02/demo.mfk",
+   "missions/level02/e3level.mfk",
+   "missions/level02/level.mfk",
+   "missions/level03/demo.mfk",
+   "missions/level03/level.mfk",
+   "missions/level04/demo.mfk"
+  ]
+ },
+ {
+  "command": "GagSetTrigger",
+  "occurrences": 369,
+  "example_files": [
+   "missions/level01/demo.mfk",
+   "missions/level01/level.mfk",
+   "missions/level02/demo.mfk",
+   "missions/level02/e3level.mfk",
+   "missions/level02/level.mfk",
+   "missions/level03/demo.mfk",
+   "missions/level03/level.mfk",
+   "missions/level04/demo.mfk"
+  ]
+ },
+ {
+  "command": "SetConversationCam",
+  "occurrences": 342,
+  "example_files": [
+   "missions/level01/leveli.mfk",
+   "missions/level01/m0sdi.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2sdi.mfk",
+   "missions/level01/m3sdi.mfk",
+   "missions/level01/m5i.mfk",
+   "missions/level01/m6i.mfk",
+   "missions/level01/m6sdi.mfk"
+  ]
+ },
+ {
+  "command": "GagSetSound",
+  "occurrences": 338,
+  "example_files": [
+   "missions/level01/demo.mfk",
+   "missions/level01/level.mfk",
+   "missions/level02/demo.mfk",
+   "missions/level02/e3level.mfk",
+   "missions/level02/level.mfk",
+   "missions/level03/demo.mfk",
+   "missions/level03/level.mfk",
+   "missions/level04/demo.mfk"
+  ]
+ },
+ {
+  "command": "AddSpawnPointByLocatorScript",
+  "occurrences": 321,
+  "example_files": [
+   "missions/level01/demoi.mfk",
+   "missions/level01/leveli.mfk",
+   "missions/level02/demoi.mfk",
+   "missions/level02/e3leveli.mfk",
+   "missions/level02/leveli.mfk",
+   "missions/level03/demoi.mfk",
+   "missions/level03/leveli.mfk",
+   "missions/level04/demoi.mfk"
+  ]
+ },
+ {
+  "command": "AddBehaviour",
+  "occurrences": 321,
+  "example_files": [
+   "missions/level01/demoi.mfk",
+   "missions/level01/leveli.mfk",
+   "missions/level02/demoi.mfk",
+   "missions/level02/e3leveli.mfk",
+   "missions/level02/leveli.mfk",
+   "missions/level03/demoi.mfk",
+   "missions/level03/leveli.mfk",
+   "missions/level04/demoi.mfk"
+  ]
+ },
+ {
+  "command": "SetCollectibleEffect",
+  "occurrences": 301,
+  "example_files": [
+   "missions/level01/bm1i.mfk",
+   "missions/level01/gr1i.mfk",
+   "missions/level01/m0i.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2i.mfk",
+   "missions/level01/m2sdi.mfk",
+   "missions/level01/m3i.mfk",
+   "missions/level01/m3sdi.mfk"
+  ]
+ },
+ {
+  "command": "AddNPC",
+  "occurrences": 294,
+  "example_files": [
+   "missions/level01/bm1i.mfk",
+   "missions/level01/m0sdi.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2i.mfk",
+   "missions/level01/m2sdi.mfk",
+   "missions/level01/m3i.mfk",
+   "missions/level01/m3sdi.mfk"
+  ]
+ },
+ {
+  "command": "GagSetInterior",
+  "occurrences": 282,
+  "example_files": [
+   "missions/level01/demo.mfk",
+   "missions/level01/level.mfk",
+   "missions/level02/demo.mfk",
+   "missions/level02/e3level.mfk",
+   "missions/level02/level.mfk",
+   "missions/level03/demo.mfk",
+   "missions/level03/level.mfk",
+   "missions/level04/demo.mfk"
+  ]
+ },
+ {
+  "command": "SetMaxWheelTurnAngle",
+  "occurrences": 267,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SetMass",
+  "occurrences": 255,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SetGasScale",
+  "occurrences": 255,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SetSlipGasScale",
+  "occurrences": 255,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SetBrakeScale",
+  "occurrences": 255,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SetHighSpeedSteeringDrop",
+  "occurrences": 255,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SetTireGrip",
+  "occurrences": 255,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SetNormalSteering",
+  "occurrences": 255,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SetSlipSteering",
+  "occurrences": 255,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SetEBrakeEffect",
+  "occurrences": 255,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SetCMOffsetX",
+  "occurrences": 255,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SetCMOffsetY",
+  "occurrences": 255,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SetCMOffsetZ",
+  "occurrences": 255,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SetSuspensionLimit",
+  "occurrences": 255,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SetSpringK",
+  "occurrences": 255,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SetDamperC",
+  "occurrences": 255,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SetTopSpeedKmh",
+  "occurrences": 254,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SetHitPoints",
+  "occurrences": 254,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SetSlipSteeringNoEBrake",
+  "occurrences": 251,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SetSlipEffectNoEBrake",
+  "occurrences": 251,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SetSuspensionYOffset",
+  "occurrences": 244,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "AmbientAnimationRandomize",
+  "occurrences": 198,
+  "example_files": [
+   "missions/level01/m0i.mfk",
+   "missions/level01/m0sdi.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2i.mfk",
+   "missions/level01/m2sdi.mfk",
+   "missions/level01/m3sdi.mfk",
+   "missions/level01/m4i.mfk"
+  ]
+ },
+ {
+  "command": "SetDestination",
+  "occurrences": 187,
+  "example_files": [
+   "missions/level01/bm1i.mfk",
+   "missions/level01/m0i.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2i.mfk",
+   "missions/level01/m2sdi.mfk",
+   "missions/level01/m3i.mfk",
+   "missions/level01/m3sdi.mfk"
+  ]
+ },
+ {
+  "command": "AddObjectiveNPCWaypoint",
+  "occurrences": 180,
+  "example_files": [
+   "missions/level01/bm1i.mfk",
+   "missions/level01/m0sdi.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2i.mfk",
+   "missions/level01/m2sdi.mfk",
+   "missions/level01/m3sdi.mfk",
+   "missions/level01/m6sdi.mfk"
+  ]
+ },
+ {
+  "command": "GagSetCoins",
+  "occurrences": 176,
+  "example_files": [
+   "missions/level01/demo.mfk",
+   "missions/level01/level.mfk",
+   "missions/level02/demo.mfk",
+   "missions/level02/e3level.mfk",
+   "missions/level02/level.mfk",
+   "missions/level03/demo.mfk",
+   "missions/level03/level.mfk",
+   "missions/level04/demo.mfk"
+  ]
+ },
+ {
+  "command": "AddToCountdownSequence",
+  "occurrences": 175,
+  "example_files": [
+   "missions/level01/gr1i.mfk",
+   "missions/level01/m6i.mfk",
+   "missions/level01/sr1i.mfk",
+   "missions/level01/sr2i.mfk",
+   "missions/level01/sr3i.mfk",
+   "missions/level02/gr1i.mfk",
+   "missions/level02/m3i.mfk",
+   "missions/level02/m4i.mfk"
+  ]
+ },
+ {
+  "command": "GagSetPersist",
+  "occurrences": 172,
+  "example_files": [
+   "missions/level01/demo.mfk",
+   "missions/level01/level.mfk",
+   "missions/level02/demo.mfk",
+   "missions/level02/level.mfk",
+   "missions/level03/demo.mfk",
+   "missions/level03/level.mfk",
+   "missions/level04/demo.mfk",
+   "missions/level04/level.mfk"
+  ]
+ },
+ {
+  "command": "SetShadowAdjustments",
+  "occurrences": 162,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SelectMission",
+  "occurrences": 154,
+  "example_files": [
+   "missions/level01/bm1i.mfk",
+   "missions/level01/d1i.mfk",
+   "missions/level01/gr1i.mfk",
+   "missions/level01/m0i.mfk",
+   "missions/level01/m0sdi.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2i.mfk"
+  ]
+ },
+ {
+  "command": "CloseMission",
+  "occurrences": 154,
+  "example_files": [
+   "missions/level01/bm1i.mfk",
+   "missions/level01/d1i.mfk",
+   "missions/level01/gr1i.mfk",
+   "missions/level01/m0i.mfk",
+   "missions/level01/m0sdi.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2i.mfk"
+  ]
+ },
+ {
+  "command": "SetDynaLoadData",
+  "occurrences": 146,
+  "example_files": [
+   "missions/level01/bm1i.mfk",
+   "missions/level01/d1i.mfk",
+   "missions/level01/gr1i.mfk",
+   "missions/level01/m0i.mfk",
+   "missions/level01/m0sdi.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2i.mfk"
+  ]
+ },
+ {
+  "command": "SuppressDriver",
+  "occurrences": 137,
+  "example_files": [
+   "missions/level01/level.mfk",
+   "missions/level02/level.mfk",
+   "missions/level03/level.mfk",
+   "missions/level04/level.mfk",
+   "missions/level05/level.mfk",
+   "missions/level06/level.mfk",
+   "missions/level07/level.mfk"
+  ]
+ },
+ {
+  "command": "UsePedGroup",
+  "occurrences": 134,
+  "example_files": [
+   "missions/level01/bm1i.mfk",
+   "missions/level01/gr1i.mfk",
+   "missions/level01/m0i.mfk",
+   "missions/level01/m0sdi.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2i.mfk",
+   "missions/level01/m2sdi.mfk"
+  ]
+ },
+ {
+  "command": "AddStageVehicle",
+  "occurrences": 133,
+  "example_files": [
+   "missions/level01/d1i.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m3i.mfk",
+   "missions/level01/m5i.mfk",
+   "missions/level01/m6i.mfk",
+   "missions/level01/m6sdi.mfk",
+   "missions/level01/m7i.mfk",
+   "missions/level01/sr2i.mfk"
+  ]
+ },
+ {
+  "command": "SetCondTargetVehicle",
+  "occurrences": 130,
+  "example_files": [
+   "missions/level01/gr1i.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m3i.mfk",
+   "missions/level01/m5i.mfk",
+   "missions/level01/m6i.mfk",
+   "missions/level01/m7i.mfk",
+   "missions/level01/sr1i.mfk",
+   "missions/level01/sr2i.mfk"
+  ]
+ },
+ {
+  "command": "SetDialogueInfo",
+  "occurrences": 128,
+  "example_files": [
+   "missions/level01/bm1i.mfk",
+   "missions/level01/m0i.mfk",
+   "missions/level01/m0sdi.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2i.mfk",
+   "missions/level01/m2sdi.mfk",
+   "missions/level01/m3sdi.mfk"
+  ]
+ },
+ {
+  "command": "SetMaxTraffic",
+  "occurrences": 127,
+  "example_files": [
+   "missions/level01/d1i.mfk",
+   "missions/level01/gr1i.mfk",
+   "missions/level01/m0i.mfk",
+   "missions/level01/m0sdi.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2sdi.mfk",
+   "missions/level01/m3sdi.mfk"
+  ]
+ },
+ {
+  "command": "RESET_TO_HERE",
+  "occurrences": 119,
+  "example_files": [
+   "missions/level01/bm1i.mfk",
+   "missions/level01/d1i.mfk",
+   "missions/level01/gr1i.mfk",
+   "missions/level01/m0i.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2i.mfk",
+   "missions/level01/m2sdi.mfk"
+  ]
+ },
+ {
+  "command": "AddAmbientCharacter",
+  "occurrences": 118,
+  "example_files": [
+   "missions/level01/demoi.mfk",
+   "missions/level01/leveli.mfk",
+   "missions/level02/demoi.mfk",
+   "missions/level02/e3leveli.mfk",
+   "missions/level02/leveli.mfk",
+   "missions/level03/demoi.mfk",
+   "missions/level03/leveli.mfk",
+   "missions/level04/demoi.mfk"
+  ]
+ },
+ {
+  "command": "CreatePedGroup",
+  "occurrences": 116,
+  "example_files": [
+   "missions/level01/demoi.mfk",
+   "missions/level01/leveli.mfk",
+   "missions/level02/demoi.mfk",
+   "missions/level02/e3leveli.mfk",
+   "missions/level02/leveli.mfk",
+   "missions/level03/demoi.mfk",
+   "missions/level03/leveli.mfk",
+   "missions/level04/demoi.mfk"
+  ]
+ },
+ {
+  "command": "ClosePedGroup",
+  "occurrences": 116,
+  "example_files": [
+   "missions/level01/demoi.mfk",
+   "missions/level01/leveli.mfk",
+   "missions/level02/demoi.mfk",
+   "missions/level02/e3leveli.mfk",
+   "missions/level02/leveli.mfk",
+   "missions/level03/demoi.mfk",
+   "missions/level03/leveli.mfk",
+   "missions/level04/demoi.mfk"
+  ]
+ },
+ {
+  "command": "SetCamBestSide",
+  "occurrences": 112,
+  "example_files": [
+   "missions/level01/bm1i.mfk",
+   "missions/level01/leveli.mfk",
+   "missions/level01/m0sdi.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2i.mfk",
+   "missions/level01/m2sdi.mfk",
+   "missions/level01/m3sdi.mfk",
+   "missions/level01/m6i.mfk"
+  ]
+ },
+ {
+  "command": "LoadDisposableCar",
+  "occurrences": 112,
+  "example_files": [
+   "missions/level01/d1l.mfk",
+   "missions/level01/demo.mfk",
+   "missions/level01/level.mfk",
+   "missions/level01/m1l.mfk",
+   "missions/level01/m3l.mfk",
+   "missions/level01/m5l.mfk",
+   "missions/level01/m6l.mfk",
+   "missions/level01/m6sdl.mfk"
+  ]
+ },
+ {
+  "command": "SetCondMinHealth",
+  "occurrences": 111,
+  "example_files": [
+   "missions/level01/gr1i.mfk",
+   "missions/level01/m3i.mfk",
+   "missions/level01/m6i.mfk",
+   "missions/level01/sr1i.mfk",
+   "missions/level01/sr2i.mfk",
+   "missions/level01/sr3i.mfk",
+   "missions/level02/e3m1i.mfk",
+   "missions/level02/gr1i.mfk"
+  ]
+ },
+ {
+  "command": "ShowStageComplete",
+  "occurrences": 108,
+  "example_files": [
+   "missions/level01/bm1i.mfk",
+   "missions/level01/m0i.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m2i.mfk",
+   "missions/level01/m3i.mfk",
+   "missions/level01/m4i.mfk",
+   "missions/level01/m6i.mfk",
+   "missions/level01/m7i.mfk"
+  ]
+ },
+ {
+  "command": "SetStageTime",
+  "occurrences": 98,
+  "example_files": [
+   "missions/level01/bm1i.mfk",
+   "missions/level01/gr1i.mfk",
+   "missions/level01/m2i.mfk",
+   "missions/level01/m3i.mfk",
+   "missions/level01/m4i.mfk",
+   "missions/level01/m6i.mfk",
+   "missions/level01/sr1i.mfk",
+   "missions/level02/bm1i.mfk"
+  ]
+ },
+ {
+  "command": "SetCondTime",
+  "occurrences": 98,
+  "example_files": [
+   "missions/level01/gr1i.mfk",
+   "missions/level01/m3i.mfk",
+   "missions/level01/m6i.mfk",
+   "missions/level01/sr1i.mfk",
+   "missions/level01/sr2i.mfk",
+   "missions/level01/sr3i.mfk",
+   "missions/level02/e3m1i.mfk",
+   "missions/level02/gr1i.mfk"
+  ]
+ },
+ {
+  "command": "SetDialoguePositions",
+  "occurrences": 98,
+  "example_files": [
+   "missions/level01/m0sdi.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2i.mfk",
+   "missions/level01/m2sdi.mfk",
+   "missions/level01/m3sdi.mfk",
+   "missions/level01/m6i.mfk",
+   "missions/level01/m6sdi.mfk",
+   "missions/level01/m7i.mfk"
+  ]
+ },
+ {
+  "command": "SetTalkToTarget",
+  "occurrences": 95,
+  "example_files": [
+   "missions/level01/bm1i.mfk",
+   "missions/level01/m0i.mfk",
+   "missions/level01/m0sdi.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2i.mfk",
+   "missions/level01/m2sdi.mfk",
+   "missions/level01/m3sdi.mfk"
+  ]
+ },
+ {
+  "command": "BindReward",
+  "occurrences": 90,
+  "example_files": [
+   "missions/e3rwrds.mfk",
+   "missions/rewards.mfk"
+  ]
+ },
+ {
+  "command": "SetCharactersVisible",
+  "occurrences": 89,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SetBurnoutRange",
+  "occurrences": 88,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SetMaxSpeedBurstTime",
+  "occurrences": 88,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SetDonutTorque",
+  "occurrences": 88,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SetGamblingOdds",
+  "occurrences": 88,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SetWheelieRange",
+  "occurrences": 87,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SetWheelieOffsetY",
+  "occurrences": 87,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "SetWheelieOffsetZ",
+  "occurrences": 87,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "GagSetSparkle",
+  "occurrences": 86,
+  "example_files": [
+   "missions/level01/demo.mfk",
+   "missions/level01/level.mfk",
+   "missions/level02/demo.mfk",
+   "missions/level02/e3level.mfk",
+   "missions/level02/level.mfk",
+   "missions/level03/demo.mfk",
+   "missions/level03/level.mfk",
+   "missions/level04/demo.mfk"
+  ]
+ },
+ {
+  "command": "SetObjTargetVehicle",
+  "occurrences": 84,
+  "example_files": [
+   "missions/level01/bm1i.mfk",
+   "missions/level01/m0i.mfk",
+   "missions/level01/m2i.mfk",
+   "missions/level01/m3i.mfk",
+   "missions/level01/m3sdi.mfk",
+   "missions/level01/m5i.mfk",
+   "missions/level01/m6i.mfk",
+   "missions/level02/bm1i.mfk"
+  ]
+ },
+ {
+  "command": "SetWeebleOffset",
+  "occurrences": 84,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/burnsarm.con"
+  ]
+ },
+ {
+  "command": "AddNPCCharacterBonusMission",
+  "occurrences": 81,
+  "example_files": [
+   "missions/level01/demoi.mfk",
+   "missions/level01/leveli.mfk",
+   "missions/level02/demoi.mfk",
+   "missions/level02/e3leveli.mfk",
+   "missions/level02/leveli.mfk",
+   "missions/level03/demoi.mfk",
+   "missions/level03/leveli.mfk",
+   "missions/level04/demoi.mfk"
+  ]
+ },
+ {
+  "command": "SetMissionResetPlayerInCar",
+  "occurrences": 79,
+  "example_files": [
+   "missions/level01/bm1i.mfk",
+   "missions/level01/d1i.mfk",
+   "missions/level01/gr1i.mfk",
+   "missions/level01/m0i.mfk",
+   "missions/level01/m2i.mfk",
+   "missions/level01/m3i.mfk",
+   "missions/level01/m5i.mfk",
+   "missions/level01/m6i.mfk"
+  ]
+ },
+ {
+  "command": "AddTeleportDest",
+  "occurrences": 78,
+  "example_files": [
+   "missions/level01/level.mfk",
+   "missions/level02/e3level.mfk",
+   "missions/level02/level.mfk",
+   "missions/level03/level.mfk",
+   "missions/level04/level.mfk",
+   "missions/level05/level.mfk",
+   "missions/level06/level.mfk",
+   "missions/level07/e3level.mfk"
+  ]
+ },
+ {
+  "command": "SetCarAttributes",
+  "occurrences": 74,
+  "example_files": [
+   "missions/e3rwrds.mfk",
+   "missions/rewards.mfk"
+  ]
+ },
+ {
+  "command": "SetAnimatedCameraName",
+  "occurrences": 74,
+  "example_files": [
+   "missions/level01/gr1i.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2sdi.mfk",
+   "missions/level01/m3sdi.mfk",
+   "missions/level01/m4sdi.mfk",
+   "missions/level01/m5sdi.mfk",
+   "missions/level01/m6sdi.mfk",
+   "missions/level01/m7sdi.mfk"
+  ]
+ },
+ {
+  "command": "SetAnimCamMulticontName",
+  "occurrences": 74,
+  "example_files": [
+   "missions/level01/gr1i.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2sdi.mfk",
+   "missions/level01/m3sdi.mfk",
+   "missions/level01/m4sdi.mfk",
+   "missions/level01/m5sdi.mfk",
+   "missions/level01/m6sdi.mfk",
+   "missions/level01/m7sdi.mfk"
+  ]
+ },
+ {
+  "command": "SetParticleTexture",
+  "occurrences": 70,
+  "example_files": [
+   "missions/level01/leveli.mfk",
+   "missions/level02/e3leveli.mfk",
+   "missions/level02/leveli.mfk",
+   "missions/level03/leveli.mfk",
+   "missions/level04/leveli.mfk",
+   "missions/level05/leveli.mfk",
+   "missions/level06/leveli.mfk",
+   "ssi.mfk"
+  ]
+ },
+ {
+  "command": "SetMissionResetPlayerOutCar",
+  "occurrences": 67,
+  "example_files": [
+   "missions/level01/m0sdi.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2sdi.mfk",
+   "missions/level01/m3sdi.mfk",
+   "missions/level01/m4i.mfk",
+   "missions/level01/m4sdi.mfk",
+   "missions/level01/m5sdi.mfk"
+  ]
+ },
+ {
+  "command": "AddStageTime",
+  "occurrences": 64,
+  "example_files": [
+   "missions/level01/bm1i.mfk",
+   "missions/level01/m2i.mfk",
+   "missions/level02/bm1i.mfk",
+   "missions/level02/e3m1i.mfk",
+   "missions/level02/m1i.mfk",
+   "missions/level02/m5i.mfk",
+   "missions/level02/m7i.mfk",
+   "missions/level03/bm1i.mfk"
+  ]
+ },
+ {
+  "command": "AddMission",
+  "occurrences": 64,
+  "example_files": [
+   "missions/level01/demo.mfk",
+   "missions/level01/level.mfk",
+   "missions/level02/demo.mfk",
+   "missions/level02/e3level.mfk",
+   "missions/level02/level.mfk",
+   "missions/level03/demo.mfk",
+   "missions/level03/level.mfk",
+   "missions/level04/demo.mfk"
+  ]
+ },
+ {
+  "command": "AddTrafficModel",
+  "occurrences": 64,
+  "example_files": [
+   "missions/level01/demoi.mfk",
+   "missions/level01/leveli.mfk",
+   "missions/level02/demoi.mfk",
+   "missions/level02/e3leveli.mfk",
+   "missions/level02/leveli.mfk",
+   "missions/level03/demoi.mfk",
+   "missions/level03/leveli.mfk",
+   "missions/level04/demoi.mfk"
+  ]
+ },
+ {
+  "command": "SetPresentationBitmap",
+  "occurrences": 61,
+  "example_files": [
+   "missions/level01/bm1i.mfk",
+   "missions/level01/m0sdi.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2sdi.mfk",
+   "missions/level01/m3sdi.mfk",
+   "missions/level01/m4sdi.mfk",
+   "missions/level01/m5sdi.mfk",
+   "missions/level01/m6sdi.mfk"
+  ]
+ },
+ {
+  "command": "SetMissionStartCameraName",
+  "occurrences": 60,
+  "example_files": [
+   "missions/level01/m0sdi.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2sdi.mfk",
+   "missions/level01/m3sdi.mfk",
+   "missions/level01/m4sdi.mfk",
+   "missions/level01/m5sdi.mfk",
+   "missions/level01/m6sdi.mfk",
+   "missions/level01/m7sdi.mfk"
+  ]
+ },
+ {
+  "command": "SetMissionStartMulticontName",
+  "occurrences": 60,
+  "example_files": [
+   "missions/level01/m0sdi.mfk",
+   "missions/level01/m1sdi.mfk",
+   "missions/level01/m2sdi.mfk",
+   "missions/level01/m3sdi.mfk",
+   "missions/level01/m4sdi.mfk",
+   "missions/level01/m5sdi.mfk",
+   "missions/level01/m6sdi.mfk",
+   "missions/level01/m7sdi.mfk"
+  ]
+ },
+ {
+  "command": "SetDriver",
+  "occurrences": 57,
+  "example_files": [
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/cArmor.con",
+   "cars/carhom_v.con"
+  ]
+ },
+ {
+  "command": "SetHasDoors",
+  "occurrences": 56,
+  "example_files": [
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/bookb_v.con",
+   "cars/burns_v.con",
+   "cars/cArmor.con",
+   "cars/carhom_v.con"
+  ]
+ },
+ {
+  "command": "SetVehicleAIParams",
+  "occurrences": 52,
+  "example_files": [
+   "missions/level01/m3i.mfk",
+   "missions/level01/m5i.mfk",
+   "missions/level01/m6i.mfk",
+   "missions/level01/sr2i.mfk",
+   "missions/level02/m7i.mfk",
+   "missions/level02/sr3i.mfk",
+   "missions/level03/m1i.mfk",
+   "missions/level03/m3i.mfk"
+  ]
+ },
+ {
+  "command": "AddBonusMission",
+  "occurrences": 46,
+  "example_files": [
+   "missions/level01/level.mfk",
+   "missions/level02/e3level.mfk",
+   "missions/level02/level.mfk",
+   "missions/level03/level.mfk",
+   "missions/level04/level.mfk",
+   "missions/level05/level.mfk",
+   "missions/level06/level.mfk",
+   "missions/level07/e3level.mfk"
+  ]
+ },
+ {
+  "command": "AddBonusMissionNPCWaypoint",
+  "occurrences": 45,
+  "example_files": [
+   "missions/level01/demoi.mfk",
+   "missions/level01/leveli.mfk",
+   "missions/level02/demoi.mfk",
+   "missions/level02/e3leveli.mfk",
+   "missions/level02/leveli.mfk",
+   "missions/level03/demoi.mfk",
+   "missions/level03/leveli.mfk",
+   "missions/level04/demoi.mfk"
+  ]
+ },
+ {
+  "command": "StartCountdown",
+  "occurrences": 43,
+  "example_files": [
+   "missions/level01/gr1i.mfk",
+   "missions/level01/m6i.mfk",
+   "missions/level01/sr1i.mfk",
+   "missions/level01/sr2i.mfk",
+   "missions/level01/sr3i.mfk",
+   "missions/level02/gr1i.mfk",
+   "missions/level02/m3i.mfk",
+   "missions/level02/m4i.mfk"
+  ]
+ },
+ {
+  "command": "TurnGotoDialogOff",
+  "occurrences": 40,
+  "example_files": [
+   "missions/level01/m0i.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m2i.mfk",
+   "missions/level01/m2sdi.mfk",
+   "missions/level01/m3i.mfk",
+   "missions/level01/m3sdi.mfk",
+   "missions/level01/m4i.mfk",
+   "missions/level01/m4sdi.mfk"
+  ]
+ },
+ {
+  "command": "SetStageAIRaceCatchupParams",
+  "occurrences": 40,
+  "example_files": [
+   "missions/level01/m7i.mfk",
+   "missions/level01/sr2i.mfk",
+   "missions/level01/sr3i.mfk",
+   "missions/level02/m3i.mfk",
+   "missions/level02/m4i.mfk",
+   "missions/level02/sr2i.mfk",
+   "missions/level02/sr3i.mfk",
+   "missions/level03/m1i.mfk"
+  ]
+ },
+ {
+  "command": "SetCompletionDialog",
+  "occurrences": 38,
+  "example_files": [
+   "missions/level01/m0i.mfk",
+   "missions/level01/m2i.mfk",
+   "missions/level01/m3i.mfk",
+   "missions/level01/m7i.mfk",
+   "missions/level02/bm1i.mfk",
+   "missions/level02/e3m1i.mfk",
+   "missions/level02/m1i.mfk",
+   "missions/level02/m2i.mfk"
+  ]
+ },
+ {
+  "command": "ActivateVehicle",
+  "occurrences": 37,
+  "example_files": [
+   "missions/level01/m1i.mfk",
+   "missions/level01/m3i.mfk",
+   "missions/level01/m5i.mfk",
+   "missions/level02/e3m1i.mfk",
+   "missions/level02/m1i.mfk",
+   "missions/level02/m2i.mfk",
+   "missions/level02/m4i.mfk",
+   "missions/level02/m5i.mfk"
+  ]
+ },
+ {
+  "command": "BindCollectibleTo",
+  "occurrences": 36,
+  "example_files": [
+   "missions/level03/m5i.mfk",
+   "missions/level04/m2i.mfk",
+   "missions/level04/m5i.mfk",
+   "missions/level05/m1i.mfk",
+   "missions/level05/m5i.mfk"
+  ]
+ },
+ {
+  "command": "SetIrisTransition",
+  "occurrences": 36,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/burnsarm.con",
+   "cars/cBlbart.con",
+   "cars/cCellA.con",
+   "cars/cCellB.con",
+   "cars/cCellC.con",
+   "cars/cCellD.con",
+   "cars/cFire_v.con"
+  ]
+ },
+ {
+  "command": "PlacePlayerCar",
+  "occurrences": 35,
+  "example_files": [
+   "missions/level01/d1i.mfk",
+   "missions/level01/gr1i.mfk",
+   "missions/level01/sr1i.mfk",
+   "missions/level01/sr2i.mfk",
+   "missions/level01/sr3i.mfk",
+   "missions/level02/d1i.mfk",
+   "missions/level02/gr1i.mfk",
+   "missions/level02/sr1i.mfk"
+  ]
+ },
+ {
+  "command": "SetShininess",
+  "occurrences": 34,
+  "example_files": [
+   "cars/apu_v.con",
+   "cars/bart_v.con",
+   "cars/bbman_v.con",
+   "cars/burns_v.con",
+   "cars/carhom_v.con",
+   "cars/comic_v.con",
+   "cars/elect_v.con",
+   "cars/famil_v.con"
+  ]
+ },
+ {
+  "command": "SetCharacterScale",
+  "occurrences": 33,
+  "example_files": [
+   "cars/ambul.con",
+   "cars/cBlbart.con",
+   "cars/cBone.con",
+   "cars/cCurator.con",
+   "cars/cLimo.con",
+   "cars/cNonup.con",
+   "cars/carhom_v.con",
+   "cars/comic_v.con"
+  ]
+ },
+ {
+  "command": "InitLevelPlayerVehicle",
+  "occurrences": 32,
+  "example_files": [
+   "missions/level01/demoi.mfk",
+   "missions/level01/leveli.mfk",
+   "missions/level01/m6i.mfk",
+   "missions/level02/demoi.mfk",
+   "missions/level02/e3leveli.mfk",
+   "missions/level02/e3m1i.mfk",
+   "missions/level02/leveli.mfk",
+   "missions/level02/m3i.mfk"
+  ]
+ },
+ {
+  "command": "AddPurchaseCarReward",
+  "occurrences": 32,
+  "example_files": [
+   "missions/level01/demoi.mfk",
+   "missions/level01/leveli.mfk",
+   "missions/level02/demoi.mfk",
+   "missions/level02/e3leveli.mfk",
+   "missions/level02/leveli.mfk",
+   "missions/level03/demoi.mfk",
+   "missions/level03/leveli.mfk",
+   "missions/level04/demoi.mfk"
+  ]
+ },
+ {
+  "command": "SetBonusMissionDialoguePos",
+  "occurrences": 29,
+  "example_files": [
+   "missions/level01/leveli.mfk",
+   "missions/level02/leveli.mfk",
+   "missions/level03/leveli.mfk",
+   "missions/level04/leveli.mfk",
+   "missions/level05/leveli.mfk",
+   "missions/level06/leveli.mfk",
+   "missions/level07/leveli.mfk"
+  ]
+ },
+ {
+  "command": "ClearAmbientAnimations",
+  "occurrences": 28,
+  "example_files": [
+   "missions/level01/leveli.mfk",
+   "missions/level02/leveli.mfk",
+   "missions/level03/leveli.mfk",
+   "missions/level04/leveli.mfk",
+   "missions/level05/leveli.mfk",
+   "missions/level06/leveli.mfk",
+   "missions/level07/leveli.mfk"
+  ]
+ },
+ {
+  "command": "SetHighRoof",
+  "occurrences": 28,
+  "example_files": [
+   "cars/apu_v.con",
+   "cars/atv_v.con",
+   "cars/bart_v.con",
+   "cars/burns_v.con",
+   "cars/cFire_v.con",
+   "cars/coffin.con",
+   "cars/famil_v.con",
+   "cars/fone_v.con"
+  ]
+ },
+ {
+  "command": "AddPurchaseCarNPCWaypoint",
+  "occurrences": 26,
+  "example_files": [
+   "missions/level01/demoi.mfk",
+   "missions/level01/leveli.mfk",
+   "missions/level03/demoi.mfk",
+   "missions/level03/leveli.mfk",
+   "missions/level04/demoi.mfk",
+   "missions/level04/leveli.mfk",
+   "missions/level05/demoi.mfk",
+   "missions/level05/leveli.mfk"
+  ]
+ },
+ {
+  "command": "PutMFPlayerInCar",
+  "occurrences": 26,
+  "example_files": [
+   "missions/level01/gr1i.mfk",
+   "missions/level01/sr1i.mfk",
+   "missions/level01/sr2i.mfk",
+   "missions/level01/sr3i.mfk",
+   "missions/level02/gr1i.mfk",
+   "missions/level02/m4i.mfk",
+   "missions/level02/sr1i.mfk",
+   "missions/level02/sr2i.mfk"
+  ]
+ },
+ {
+  "command": "SetDurationTime",
+  "occurrences": 26,
+  "example_files": [
+   "missions/level01/m5i.mfk",
+   "missions/level01/m6i.mfk",
+   "missions/level02/m3i.mfk",
+   "missions/level02/m5i.mfk",
+   "missions/level02/m8i.mfk",
+   "missions/level02/m8sdi.mfk",
+   "missions/level03/bm1i.mfk",
+   "missions/level03/m1i.mfk"
+  ]
+ },
+ {
+  "command": "AddVehicleSelectInfo",
+  "occurrences": 24,
+  "example_files": [
+   "missions/level01/level.mfk",
+   "missions/level02/e3level.mfk",
+   "missions/level02/level.mfk",
+   "missions/level03/level.mfk",
+   "missions/level04/level.mfk",
+   "missions/level05/level.mfk",
+   "missions/level07/e3level.mfk",
+   "missions/level07/level.mfk"
+  ]
+ },
+ {
+  "command": "DisableHitAndRun",
+  "occurrences": 24,
+  "example_files": [
+   "missions/level01/sr1i.mfk",
+   "missions/level01/sr2i.mfk",
+   "missions/level01/sr3i.mfk",
+   "missions/level02/sr1i.mfk",
+   "missions/level02/sr2i.mfk",
+   "missions/level02/sr3i.mfk",
+   "missions/level03/m5i.mfk",
+   "missions/level03/sr1i.mfk"
+  ]
+ },
+ {
+  "command": "StreetRacePropsLoad",
+  "occurrences": 22,
+  "example_files": [
+   "missions/level01/m7i.mfk",
+   "missions/level01/sr1i.mfk",
+   "missions/level01/sr2i.mfk",
+   "missions/level01/sr3i.mfk",
+   "missions/level02/sr1i.mfk",
+   "missions/level02/sr2i.mfk",
+   "missions/level02/sr3i.mfk",
+   "missions/level03/sr1i.mfk"
+  ]
+ },
+ {
+  "command": "StreetRacePropsUnload",
+  "occurrences": 22,
+  "example_files": [
+   "missions/level01/m7i.mfk",
+   "missions/level01/sr1i.mfk",
+   "missions/level01/sr2i.mfk",
+   "missions/level01/sr3i.mfk",
+   "missions/level02/sr1i.mfk",
+   "missions/level02/sr2i.mfk",
+   "missions/level02/sr3i.mfk",
+   "missions/level03/sr1i.mfk"
+  ]
+ },
+ {
+  "command": "SetRaceLaps",
+  "occurrences": 21,
+  "example_files": [
+   "missions/level01/d1i.mfk",
+   "missions/level01/sr1i.mfk",
+   "missions/level01/sr2i.mfk",
+   "missions/level02/d1i.mfk",
+   "missions/level02/sr1i.mfk",
+   "missions/level02/sr2i.mfk",
+   "missions/level03/d1i.mfk",
+   "missions/level03/sr1i.mfk"
+  ]
+ },
+ {
+  "command": "NoTrafficForStage",
+  "occurrences": 21,
+  "example_files": [
+   "missions/level01/sr1i.mfk",
+   "missions/level01/sr2i.mfk",
+   "missions/level01/sr3i.mfk",
+   "missions/level02/sr1i.mfk",
+   "missions/level02/sr2i.mfk",
+   "missions/level02/sr3i.mfk",
+   "missions/level03/sr1i.mfk",
+   "missions/level03/sr2i.mfk"
+  ]
+ },
+ {
+  "command": "AddGagBinding",
+  "occurrences": 21,
+  "example_files": [
+   "missions/level02/demo.mfk",
+   "missions/level02/e3level.mfk",
+   "missions/level02/level.mfk",
+   "missions/level03/demo.mfk",
+   "missions/level03/level.mfk"
+  ]
+ },
+ {
+  "command": "SetNumValidFailureHints",
+  "occurrences": 20,
+  "example_files": [
+   "missions/level01/m3i.mfk",
+   "missions/level01/m4i.mfk",
+   "missions/level01/m6i.mfk",
+   "missions/level02/m3i.mfk",
+   "missions/level02/m5i.mfk",
+   "missions/level02/m6i.mfk",
+   "missions/level03/bm1i.mfk",
+   "missions/level03/m1i.mfk"
+  ]
+ },
+ {
+  "command": "PreallocateActors",
+  "occurrences": 19,
+  "example_files": [
+   "missions/level01/demoi.mfk",
+   "missions/level01/leveli.mfk",
+   "missions/level02/demoi.mfk",
+   "missions/level02/e3leveli.mfk",
+   "missions/level02/leveli.mfk",
+   "missions/level03/demoi.mfk",
+   "missions/level03/leveli.mfk",
+   "missions/level04/demoi.mfk"
+  ]
+ },
+ {
+  "command": "SetConditionPosition",
+  "occurrences": 17,
+  "example_files": [
+   "missions/level01/sr2i.mfk",
+   "missions/level01/sr3i.mfk",
+   "missions/level02/sr2i.mfk",
+   "missions/level02/sr3i.mfk",
+   "missions/level03/m1i.mfk",
+   "missions/level03/sr2i.mfk",
+   "missions/level03/sr3i.mfk",
+   "missions/level04/sr2i.mfk"
+  ]
+ },
+ {
+  "command": "SetHighSpeedGasScale",
+  "occurrences": 17,
+  "example_files": [
+   "cars/bbman_v.con",
+   "cars/burns_v.con",
+   "cars/cCola.con",
+   "cars/cFire_v.con",
+   "cars/cPolice.con",
+   "cars/carhom_v.con",
+   "cars/gramR_v.con",
+   "cars/hype_v.con"
+  ]
+ },
+ {
+  "command": "SetGasScaleSpeedThreshold",
+  "occurrences": 17,
+  "example_files": [
+   "cars/bbman_v.con",
+   "cars/burns_v.con",
+   "cars/cCola.con",
+   "cars/cFire_v.con",
+   "cars/cPolice.con",
+   "cars/carhom_v.con",
+   "cars/gramR_v.con",
+   "cars/hype_v.con"
+  ]
+ },
+ {
+  "command": "GagSetAnimCollision",
+  "occurrences": 16,
+  "example_files": [
+   "missions/level01/demo.mfk",
+   "missions/level01/level.mfk",
+   "missions/level02/demo.mfk",
+   "missions/level02/level.mfk",
+   "missions/level03/demo.mfk",
+   "missions/level03/level.mfk",
+   "missions/level04/demo.mfk",
+   "missions/level04/level.mfk"
+  ]
+ },
+ {
+  "command": "EnableTutorialMode",
+  "occurrences": 16,
+  "example_files": [
+   "missions/level01/demoi.mfk",
+   "missions/level01/leveli.mfk",
+   "missions/level02/demoi.mfk",
+   "missions/level02/e3leveli.mfk",
+   "missions/level02/leveli.mfk",
+   "missions/level03/demoi.mfk",
+   "missions/level03/leveli.mfk",
+   "missions/level04/demoi.mfk"
+  ]
+ },
+ {
+  "command": "AddCharacter",
+  "occurrences": 16,
+  "example_files": [
+   "missions/level01/demoi.mfk",
+   "missions/level01/leveli.mfk",
+   "missions/level02/demoi.mfk",
+   "missions/level02/e3leveli.mfk",
+   "missions/level02/leveli.mfk",
+   "missions/level03/demoi.mfk",
+   "missions/level03/leveli.mfk",
+   "missions/level04/demoi.mfk"
+  ]
+ },
+ {
+  "command": "CreateChaseManager",
+  "occurrences": 16,
+  "example_files": [
+   "missions/level01/demoi.mfk",
+   "missions/level01/leveli.mfk",
+   "missions/level02/demoi.mfk",
+   "missions/level02/e3leveli.mfk",
+   "missions/level02/leveli.mfk",
+   "missions/level03/demoi.mfk",
+   "missions/level03/leveli.mfk",
+   "missions/level04/demoi.mfk"
+  ]
+ },
+ {
+  "command": "SetNumChaseCars",
+  "occurrences": 16,
+  "example_files": [
+   "missions/level01/demoi.mfk",
+   "missions/level01/leveli.mfk",
+   "missions/level02/demoi.mfk",
+   "missions/level02/e3leveli.mfk",
+   "missions/level02/leveli.mfk",
+   "missions/level03/demoi.mfk",
+   "missions/level03/leveli.mfk",
+   "missions/level04/demoi.mfk"
+  ]
+ },
+ {
+  "command": "CreateTrafficGroup",
+  "occurrences": 16,
+  "example_files": [
+   "missions/level01/demoi.mfk",
+   "missions/level01/leveli.mfk",
+   "missions/level02/demoi.mfk",
+   "missions/level02/e3leveli.mfk",
+   "missions/level02/leveli.mfk",
+   "missions/level03/demoi.mfk",
+   "missions/level03/leveli.mfk",
+   "missions/level04/demoi.mfk"
+  ]
+ },
+ {
+  "command": "CloseTrafficGroup",
+  "occurrences": 16,
+  "example_files": [
+   "missions/level01/demoi.mfk",
+   "missions/level01/leveli.mfk",
+   "missions/level02/demoi.mfk",
+   "missions/level02/e3leveli.mfk",
+   "missions/level02/leveli.mfk",
+   "missions/level03/demoi.mfk",
+   "missions/level03/leveli.mfk",
+   "missions/level04/demoi.mfk"
+  ]
+ },
+ {
+  "command": "SetProjectileStats",
+  "occurrences": 16,
+  "example_files": [
+   "missions/level01/demoi.mfk",
+   "missions/level01/leveli.mfk",
+   "missions/level02/demoi.mfk",
+   "missions/level02/e3leveli.mfk",
+   "missions/level02/leveli.mfk",
+   "missions/level03/demoi.mfk",
+   "missions/level03/leveli.mfk",
+   "missions/level04/demoi.mfk"
+  ]
+ },
+ {
+  "command": "SetActorRotationSpeed",
+  "occurrences": 16,
+  "example_files": [
+   "missions/level01/demoi.mfk",
+   "missions/level01/leveli.mfk",
+   "missions/level02/demoi.mfk",
+   "missions/level02/e3leveli.mfk",
+   "missions/level02/leveli.mfk",
+   "missions/level03/demoi.mfk",
+   "missions/level03/leveli.mfk",
+   "missions/level04/demoi.mfk"
+  ]
+ },
+ {
+  "command": "SetForcedCar",
+  "occurrences": 16,
+  "example_files": [
+   "missions/level01/m6i.mfk",
+   "missions/level02/e3m1i.mfk",
+   "missions/level02/m3i.mfk",
+   "missions/level02/m5i.mfk",
+   "missions/level03/bm1i.mfk",
+   "missions/level03/m1i.mfk",
+   "missions/level03/m3i.mfk",
+   "missions/level03/m5i.mfk"
+  ]
+ },
+ {
+  "command": "SetStageMusicAlwaysOn",
+  "occurrences": 15,
+  "example_files": [
+   "missions/level01/m1i.mfk",
+   "missions/level01/m2i.mfk",
+   "missions/level01/m4i.mfk",
+   "missions/level02/bm1i.mfk",
+   "missions/level02/m1i.mfk",
+   "missions/level02/m2i.mfk",
+   "missions/level02/m6i.mfk",
+   "missions/level02/m6sdi.mfk"
+  ]
+ },
+ {
+  "command": "SetHitAndRunDecay",
+  "occurrences": 14,
+  "example_files": [
+   "missions/level01/demoi.mfk",
+   "missions/level01/leveli.mfk",
+   "missions/level02/demoi.mfk",
+   "missions/level02/leveli.mfk",
+   "missions/level03/demoi.mfk",
+   "missions/level03/leveli.mfk",
+   "missions/level04/demoi.mfk",
+   "missions/level04/leveli.mfk"
+  ]
+ },
+ {
+  "command": "StageStartMusicEvent",
+  "occurrences": 14,
+  "example_files": [
+   "missions/level01/m3i.mfk",
+   "missions/level01/m4i.mfk",
+   "missions/level01/m7i.mfk",
+   "missions/level03/m7i.mfk",
+   "missions/level04/m3i.mfk",
+   "missions/level04/m4i.mfk",
+   "missions/level04/m5i.mfk",
+   "missions/level04/m6i.mfk"
+  ]
+ },
+ {
+  "command": "SetFadeOut",
+  "occurrences": 14,
+  "example_files": [
+   "missions/level01/m5i.mfk",
+   "missions/level01/m6i.mfk",
+   "missions/level02/e3m1i.mfk",
+   "missions/level02/m3i.mfk",
+   "missions/level02/m4i.mfk",
+   "missions/level02/m5i.mfk",
+   "missions/level03/bm1i.mfk",
+   "missions/level03/m1i.mfk"
+  ]
+ },
+ {
+  "command": "SetObjDistance",
+  "occurrences": 14,
+  "example_files": [
+   "missions/level02/e3m1i.mfk",
+   "missions/level02/m1i.mfk",
+   "missions/level02/m2i.mfk",
+   "missions/level02/m5i.mfk",
+   "missions/level04/m3i.mfk",
+   "missions/level04/m5i.mfk",
+   "missions/level04/m7i.mfk",
+   "missions/level05/m2i.mfk"
+  ]
+ },
+ {
+  "command": "AddStageMusicChange",
+  "occurrences": 13,
+  "example_files": [
+   "missions/level01/d1i.mfk",
+   "missions/level01/m1i.mfk",
+   "missions/level01/m2i.mfk",
+   "missions/level01/m3i.mfk",
+   "missions/level02/d1i.mfk",
+   "missions/level02/m4i.mfk",
+   "missions/level02/m6i.mfk",
+   "missions/level02/m6sdi.mfk"
+  ]
+ },
+ {
+  "command": "ClearGagBindings",
+  "occurrences": 11,
+  "example_files": [
+   "missions/level01/demo.mfk",
+   "missions/level01/level.mfk",
+   "missions/level02/demo.mfk",
+   "missions/level03/demo.mfk",
+   "missions/level04/demo.mfk",
+   "missions/level04/level.mfk",
+   "missions/level05/demo.mfk",
+   "missions/level06/demo.mfk"
+  ]
+ },
+ {
+  "command": "GagPlayFMV",
+  "occurrences": 11,
+  "example_files": [
+   "missions/level01/demo.mfk",
+   "missions/level01/level.mfk",
+   "missions/level03/demo.mfk",
+   "missions/level03/level.mfk",
+   "missions/level04/demo.mfk",
+   "missions/level04/level.mfk",
+   "missions/level06/demo.mfk",
+   "missions/level06/level.mfk"
+  ]
+ },
+ {
+  "command": "SetFollowDistances",
+  "occurrences": 11,
+  "example_files": [
+   "missions/level01/m5i.mfk",
+   "missions/level02/m4i.mfk",
+   "missions/level03/m5i.mfk",
+   "missions/level04/m1i.mfk",
+   "missions/level04/m2i.mfk",
+   "missions/level04/m5i.mfk",
+   "missions/level05/m1i.mfk",
+   "missions/level05/m4i.mfk"
+  ]
+ },
+ {
+  "command": "AddStageCharacter",
+  "occurrences": 11,
+  "example_files": [
+   "missions/level01/m5i.mfk",
+   "missions/level02/m4i.mfk",
+   "missions/level04/m1i.mfk",
+   "missions/level04/m2i.mfk",
+   "missions/level04/m3i.mfk",
+   "missions/level05/m1i.mfk",
+   "missions/level06/m3i.mfk",
+   "missions/level06/m5i.mfk"
+  ]
+ },
+ {
+  "command": "SwapInDefaultCar",
+  "occurrences": 11,
+  "example_files": [
+   "missions/level01/m6i.mfk",
+   "missions/level02/e3m1i.mfk",
+   "missions/level02/m3i.mfk",
+   "missions/level02/m5i.mfk",
+   "missions/level03/bm1i.mfk",
+   "missions/level03/m1i.mfk",
+   "missions/level03/m3i.mfk",
+   "missions/level03/m5i.mfk"
+  ]
+ },
+ {
+  "command": "SetSwapDefaultCarLocator",
+  "occurrences": 11,
+  "example_files": [
+   "missions/level01/m6i.mfk",
+   "missions/level02/e3m1i.mfk",
+   "missions/level02/m3i.mfk",
+   "missions/level02/m5i.mfk",
+   "missions/level03/bm1i.mfk",
+   "missions/level03/m1i.mfk",
+   "missions/level03/m3i.mfk",
+   "missions/level03/m5i.mfk"
+  ]
+ },
+ {
+  "command": "SetSwapForcedCarLocator",
+  "occurrences": 11,
+  "example_files": [
+   "missions/level01/m6i.mfk",
+   "missions/level02/e3m1i.mfk",
+   "missions/level02/m3i.mfk",
+   "missions/level02/m5i.mfk",
+   "missions/level03/bm1i.mfk",
+   "missions/level03/m1i.mfk",
+   "missions/level03/m3i.mfk",
+   "missions/level03/m5i.mfk"
+  ]
+ },
+ {
+  "command": "SetSwapPlayerLocator",
+  "occurrences": 11,
+  "example_files": [
+   "missions/level01/m6i.mfk",
+   "missions/level02/e3m1i.mfk",
+   "missions/level02/m3i.mfk",
+   "missions/level02/m5i.mfk",
+   "missions/level03/bm1i.mfk",
+   "missions/level03/m1i.mfk",
+   "missions/level03/m3i.mfk",
+   "missions/level03/m5i.mfk"
+  ]
+ },
+ {
+  "command": "SetCoinDrawable",
+  "occurrences": 9,
+  "example_files": [
+   "missions/level01/leveli.mfk",
+   "missions/level02/e3leveli.mfk",
+   "missions/level02/leveli.mfk",
+   "missions/level03/leveli.mfk",
+   "missions/level04/leveli.mfk",
+   "missions/level05/leveli.mfk",
+   "missions/level06/leveli.mfk",
+   "missions/level07/e3leveli.mfk"
+  ]
+ },
+ {
+  "command": "SetMusicState",
+  "occurrences": 9,
+  "example_files": [
+   "missions/level02/m2i.mfk",
+   "missions/level02/m5i.mfk",
+   "missions/level04/m7i.mfk",
+   "missions/level07/m4i.mfk"
+  ]
+ },
+ {
+  "command": "GagSetIntro",
+  "occurrences": 8,
+  "example_files": [
+   "missions/level01/demo.mfk",
+   "missions/level01/level.mfk",
+   "missions/level03/demo.mfk",
+   "missions/level03/level.mfk",
+   "missions/level04/demo.mfk",
+   "missions/level04/level.mfk",
+   "missions/level06/demo.mfk",
+   "missions/level06/level.mfk"
+  ]
+ },
+ {
+  "command": "GagSetOutro",
+  "occurrences": 8,
+  "example_files": [
+   "missions/level01/demo.mfk",
+   "missions/level01/level.mfk",
+   "missions/level03/demo.mfk",
+   "missions/level03/level.mfk",
+   "missions/level04/demo.mfk",
+   "missions/level04/level.mfk",
+   "missions/level06/demo.mfk",
+   "missions/level06/level.mfk"
+  ]
+ },
+ {
+  "command": "MustActionTrigger",
+  "occurrences": 8,
+  "example_files": [
+   "missions/level01/m4sdi.mfk",
+   "missions/level01/m5sdi.mfk",
+   "missions/level03/m5sdi.mfk",
+   "missions/level04/m3sdi.mfk",
+   "missions/level04/m6sdi.mfk",
+   "missions/level05/m1sdi.mfk",
+   "missions/level05/m4sdi.mfk",
+   "missions/level07/m5sdi.mfk"
+  ]
+ },
+ {
+  "command": "SetTotalGags",
+  "occurrences": 7,
+  "example_files": [
+   "missions/rewards.mfk"
+  ]
+ },
+ {
+  "command": "SetDemoLoopTime",
+  "occurrences": 7,
+  "example_files": [
+   "missions/level01/d1i.mfk",
+   "missions/level02/d1i.mfk",
+   "missions/level03/d1i.mfk",
+   "missions/level04/d1i.mfk",
+   "missions/level05/d1i.mfk",
+   "missions/level06/d1i.mfk",
+   "missions/level07/d1i.mfk"
+  ]
+ },
+ {
+  "command": "SetCoinFee",
+  "occurrences": 7,
+  "example_files": [
+   "missions/level01/gr1i.mfk",
+   "missions/level02/gr1i.mfk",
+   "missions/level03/gr1i.mfk",
+   "missions/level04/gr1i.mfk",
+   "missions/level05/gr1i.mfk",
+   "missions/level06/gr1i.mfk",
+   "missions/level07/gr1i.mfk"
+  ]
+ },
+ {
+  "command": "UseElapsedTime",
+  "occurrences": 7,
+  "example_files": [
+   "missions/level01/gr1i.mfk",
+   "missions/level02/gr1i.mfk",
+   "missions/level03/gr1i.mfk",
+   "missions/level04/gr1i.mfk",
+   "missions/level05/gr1i.mfk",
+   "missions/level06/gr1i.mfk",
+   "missions/level07/gr1i.mfk"
+  ]
+ },
+ {
+  "command": "SetRaceEnteryFee",
+  "occurrences": 7,
+  "example_files": [
+   "missions/level01/gr1i.mfk",
+   "missions/level02/gr1i.mfk",
+   "missions/level03/gr1i.mfk",
+   "missions/level04/gr1i.mfk",
+   "missions/level05/gr1i.mfk",
+   "missions/level06/gr1i.mfk",
+   "missions/level07/gr1i.mfk"
+  ]
+ },
+ {
+  "command": "SetParTime",
+  "occurrences": 7,
+  "example_files": [
+   "missions/level01/gr1i.mfk",
+   "missions/level02/gr1i.mfk",
+   "missions/level03/gr1i.mfk",
+   "missions/level04/gr1i.mfk",
+   "missions/level05/gr1i.mfk",
+   "missions/level06/gr1i.mfk",
+   "missions/level07/gr1i.mfk"
+  ]
+ },
+ {
+  "command": "SetStageAITargetCatchupParams",
+  "occurrences": 7,
+  "example_files": [
+   "missions/level01/m5i.mfk",
+   "missions/level02/m4i.mfk",
+   "missions/level05/bm1i.mfk",
+   "missions/level05/m7i.mfk",
+   "missions/level06/bm1i.mfk",
+   "missions/level06/m4i.mfk",
+   "missions/level06/m5i.mfk"
+  ]
+ },
+ {
+  "command": "AddShield",
+  "occurrences": 7,
+  "example_files": [
+   "missions/level05/demoi.mfk",
+   "missions/level05/leveli.mfk",
+   "missions/level06/demoi.mfk",
+   "missions/level06/leveli.mfk",
+   "missions/level07/demoi.mfk",
+   "missions/level07/e3leveli.mfk",
+   "missions/level07/leveli.mfk"
+  ]
+ },
+ {
+  "command": "SetInitialWalk",
+  "occurrences": 6,
+  "example_files": [
+   "missions/level01/m0sdi.mfk",
+   "missions/level02/e3m1sdi.mfk",
+   "missions/level02/m1sdi.mfk",
+   "missions/level02/m5sdi.mfk",
+   "missions/level03/m1sdi.mfk",
+   "missions/level06/m1sdi.mfk"
+  ]
+ },
+ {
+  "command": "SetFMVInfo",
+  "occurrences": 6,
+  "example_files": [
+   "missions/level01/m5sdi.mfk",
+   "missions/level02/m8sdi.mfk",
+   "missions/level04/m5i.mfk",
+   "missions/level05/m8sdi.mfk",
+   "missions/level06/m8sdi.mfk",
+   "missions/level07/m8sdi.mfk"
+  ]
+ },
+ {
+  "command": "SetIrisWipe",
+  "occurrences": 6,
+  "example_files": [
+   "missions/level02/m4i.mfk",
+   "missions/level04/m1i.mfk",
+   "missions/level04/m2i.mfk",
+   "missions/level04/m3i.mfk",
+   "missions/level05/m1i.mfk"
+  ]
+ },
+ {
+  "command": "RemoveDriver",
+  "occurrences": 6,
+  "example_files": [
+   "missions/level02/m4i.mfk",
+   "missions/level03/bm1i.mfk",
+   "missions/level04/m2i.mfk",
+   "missions/level04/m3i.mfk",
+   "missions/level05/m6i.mfk"
+  ]
+ },
+ {
+  "command": "SetStatepropShadow",
+  "occurrences": 6,
+  "example_files": [
+   "missions/level05/level.mfk"
+  ]
+ },
+ {
+  "command": "StayInBlack",
+  "occurrences": 5,
+  "example_files": [
+   "missions/level01/m5i.mfk",
+   "missions/level01/m6i.mfk",
+   "missions/level03/bm1i.mfk",
+   "missions/level03/m1i.mfk",
+   "missions/level05/m6i.mfk"
+  ]
+ },
+ {
+  "command": "GagSetCameraShake",
+  "occurrences": 4,
+  "example_files": [
+   "missions/level01/demo.mfk",
+   "missions/level01/level.mfk",
+   "missions/level04/demo.mfk",
+   "missions/level04/level.mfk"
+  ]
+ },
+ {
+  "command": "AddSafeZone",
+  "occurrences": 4,
+  "example_files": [
+   "missions/level02/bm1i.mfk"
+  ]
+ },
+ {
+  "command": "SetHitNRun",
+  "occurrences": 4,
+  "example_files": [
+   "missions/level02/e3m1i.mfk"
+  ]
+ },
+ {
+  "command": "SetCharacterToHide",
+  "occurrences": 4,
+  "example_files": [
+   "missions/level02/m8sdi.mfk",
+   "missions/level05/m8sdi.mfk",
+   "missions/level06/m8sdi.mfk",
+   "missions/level07/m8sdi.mfk"
+  ]
+ },
+ {
+  "command": "AddCollectibleStateProp",
+  "occurrences": 4,
+  "example_files": [
+   "missions/level07/m3i.mfk",
+   "missions/level07/m5i.mfk",
+   "missions/level07/m6i.mfk",
+   "missions/level07/m7i.mfk"
+  ]
+ },
+ {
+  "command": "SetPickupTarget",
+  "occurrences": 4,
+  "example_files": [
+   "missions/level07/m3i.mfk",
+   "missions/level07/m5i.mfk",
+   "missions/level07/m6i.mfk",
+   "missions/level07/m7i.mfk"
+  ]
+ },
+ {
+  "command": "SetObjTargetBoss",
+  "occurrences": 4,
+  "example_files": [
+   "missions/level07/m3i.mfk",
+   "missions/level07/m5i.mfk",
+   "missions/level07/m6i.mfk",
+   "missions/level07/m7i.mfk"
+  ]
+ },
+ {
+  "command": "SetAllowSeatSlide",
+  "occurrences": 4,
+  "example_files": [
+   "cars/honor_v.con",
+   "cars/hype_v.con",
+   "cars/knigh_v.con",
+   "cars/rocke_v.con"
+  ]
+ },
+ {
+  "command": "AllowMissionAbort",
+  "occurrences": 3,
+  "example_files": [
+   "missions/level01/m3sdi.mfk",
+   "missions/level02/m6sdi.mfk",
+   "missions/level06/m1sdi.mfk"
+  ]
+ },
+ {
+  "command": "RemoveNPC",
+  "occurrences": 3,
+  "example_files": [
+   "missions/level02/m4i.mfk",
+   "missions/level05/m2i.mfk",
+   "missions/level05/m7sdi.mfk"
+  ]
+ },
+ {
+  "command": "SetLevelOver",
+  "occurrences": 3,
+  "example_files": [
+   "missions/level02/m8sdi.mfk",
+   "missions/level05/m8sdi.mfk",
+   "missions/level06/m8sdi.mfk"
+  ]
+ },
+ {
+  "command": "AddFlyingActorByLocator",
+  "occurrences": 3,
+  "example_files": [
+   "missions/level07/demoi.mfk",
+   "missions/level07/e3leveli.mfk",
+   "missions/level07/leveli.mfk"
+  ]
+ },
+ {
+  "command": "GoToPsScreenWhenDone",
+  "occurrences": 3,
+  "example_files": [
+   "missions/level07/sr1i.mfk",
+   "missions/level07/sr2i.mfk",
+   "missions/level07/sr3i.mfk"
+  ]
+ },
+ {
+  "command": "SetPostLevelFMV",
+  "occurrences": 2,
+  "example_files": [
+   "missions/level02/e3leveli.mfk",
+   "missions/level07/e3leveli.mfk"
+  ]
+ },
+ {
+  "command": "GagCheckCollCards",
+  "occurrences": 2,
+  "example_files": [
+   "missions/level03/demo.mfk",
+   "missions/level03/level.mfk"
+  ]
+ },
+ {
+  "command": "GagCheckMovie",
+  "occurrences": 2,
+  "example_files": [
+   "missions/level03/demo.mfk",
+   "missions/level03/level.mfk"
+  ]
+ },
+ {
+  "command": "GagSetSoundLoadDistances",
+  "occurrences": 2,
+  "example_files": [
+   "missions/level03/level.mfk",
+   "missions/level06/level.mfk"
+  ]
+ },
+ {
+  "command": "AddDriver",
+  "occurrences": 1,
+  "example_files": [
+   "missions/level02/m4i.mfk"
+  ]
+ },
+ {
+  "command": "AllowRockOut",
+  "occurrences": 1,
+  "example_files": [
+   "missions/level07/m5i.mfk"
+  ]
+ },
+ {
+  "command": "ShowHUD",
+  "occurrences": 1,
+  "example_files": [
+   "missions/level07/m8sdi.mfk"
+  ]
+ },
+ {
+  "command": "SetGameOver",
+  "occurrences": 1,
+  "example_files": [
+   "missions/level07/m8sdi.mfk"
+  ]
+ }
+]

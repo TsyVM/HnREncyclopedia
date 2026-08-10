@@ -1,0 +1,248 @@
+[
+ {
+  "class": "Fader",
+  "vtable_va_hex": "0x0060B240",
+  "subsystem": "transition",
+  "role": "screen fade to/from black (the interior black-box overlay)"
+ },
+ {
+  "class": "CGuiScreenLetterBox",
+  "vtable_va_hex": "0x0060EC24",
+  "subsystem": "transition",
+  "role": "cinematic letterbox bars"
+ },
+ {
+  "class": "CGuiScreenIrisWipe",
+  "vtable_va_hex": "0x0060ED20",
+  "subsystem": "transition",
+  "role": "iris wipe open/close (EVENT_GUI_IRIS_WIPE_OPEN/CLOSED)"
+ },
+ {
+  "class": "CGuiScreenIntroTransition",
+  "vtable_va_hex": "0x0060FA88",
+  "subsystem": "transition",
+  "role": "intro transition screen"
+ },
+ {
+  "class": "TransitionPlayer",
+  "vtable_va_hex": "0x00610D20",
+  "subsystem": "transition",
+  "role": "drives a transition sequence"
+ },
+ {
+  "class": "TransitionEvent",
+  "vtable_va_hex": "0x00610DEC",
+  "subsystem": "transition",
+  "role": "a queued transition event"
+ },
+ {
+  "class": "choreo::Transition",
+  "vtable_va_hex": "0x005FE57C",
+  "subsystem": "transition",
+  "role": "choreography transition segment"
+ },
+ {
+  "class": "GuiSFX::Transition",
+  "vtable_va_hex": "0x0060D8B0",
+  "subsystem": "transition",
+  "role": "scripted UI-effect: transition"
+ },
+ {
+  "class": "GuiSFX::IrisWipeOpen",
+  "vtable_va_hex": "0x0060D8D0",
+  "subsystem": "transition",
+  "role": "scripted UI-effect: iris wipe open"
+ },
+ {
+  "class": "GuiSFX::Show",
+  "vtable_va_hex": "0x0060D880",
+  "subsystem": "transition",
+  "role": "scripted UI-effect: show element"
+ },
+ {
+  "class": "GuiSFX::Hide",
+  "vtable_va_hex": "0x0060D760",
+  "subsystem": "transition",
+  "role": "scripted UI-effect: hide element"
+ },
+ {
+  "class": "GuiSFX::GotoScreen",
+  "vtable_va_hex": "0x0060D7C0",
+  "subsystem": "transition",
+  "role": "scripted UI-effect: go to screen"
+ },
+ {
+  "class": "GuiSFX::Chainable",
+  "vtable_va_hex": "0x0060D9C0",
+  "subsystem": "transition",
+  "role": "scripted UI-effect base (sequenced)"
+ },
+ {
+  "class": "InteriorManager",
+  "vtable_va_hex": "0x00613C48",
+  "subsystem": "interior",
+  "role": "owns interior enter/leave"
+ },
+ {
+  "class": "InteriorEntranceLocator",
+  "vtable_va_hex": "0x006070D4",
+  "subsystem": "interior",
+  "role": "where you enter an interior"
+ },
+ {
+  "class": "InteriorExit",
+  "vtable_va_hex": "0x00613C54",
+  "subsystem": "interior",
+  "role": "where you leave an interior"
+ },
+ {
+  "class": "InteriorObjective",
+  "vtable_va_hex": "0x006115E8",
+  "subsystem": "interior",
+  "role": "mission objective: be inside an interior"
+ },
+ {
+  "class": "LeaveInteriorCondition",
+  "vtable_va_hex": "0x00611348",
+  "subsystem": "interior",
+  "role": "mission condition: leave the interior"
+ },
+ {
+  "class": "ActionButton::EnterInterior",
+  "vtable_va_hex": "0x0061723C",
+  "subsystem": "interior",
+  "role": "the action-button that enters an interior"
+ },
+ {
+  "class": "AttackBehaviour",
+  "vtable_va_hex": "",
+  "subsystem": "action",
+  "role": "generic attack behaviour"
+ },
+ {
+  "class": "UFOAttackBehaviour",
+  "vtable_va_hex": "",
+  "subsystem": "action",
+  "role": "UFO attack behaviour"
+ },
+ {
+  "class": "KickAction",
+  "vtable_va_hex": "",
+  "subsystem": "action",
+  "role": "Homer's kick/attack action"
+ },
+ {
+  "class": "CharacterAi::GetIn",
+  "vtable_va_hex": "",
+  "subsystem": "action",
+  "role": "AI state: getting into a car"
+ },
+ {
+  "class": "CharacterAi::GetOut",
+  "vtable_va_hex": "",
+  "subsystem": "action",
+  "role": "AI state: getting out of a car"
+ },
+ {
+  "class": "CharacterAi::InCar",
+  "vtable_va_hex": "",
+  "subsystem": "action",
+  "role": "AI state: in a car"
+ },
+ {
+  "class": "CharacterAi::Loco",
+  "vtable_va_hex": "",
+  "subsystem": "action",
+  "role": "AI state: on-foot locomotion"
+ },
+ {
+  "class": "InCarAction",
+  "vtable_va_hex": "",
+  "subsystem": "action",
+  "role": "put character in car"
+ },
+ {
+  "class": "CarDoorAction",
+  "vtable_va_hex": "",
+  "subsystem": "action",
+  "role": "open/close a car door"
+ },
+ {
+  "class": "ReleaseDoorsAction",
+  "vtable_va_hex": "",
+  "subsystem": "action",
+  "role": "release held car doors"
+ },
+ {
+  "class": "WalkerLocomotionAction",
+  "vtable_va_hex": "",
+  "subsystem": "action",
+  "role": "on-foot locomotion action"
+ },
+ {
+  "class": "ChangeLocomotion",
+  "vtable_va_hex": "",
+  "subsystem": "animation",
+  "role": "switch a character's locomotion set"
+ },
+ {
+  "class": "PhysicsLocomotion",
+  "vtable_va_hex": "",
+  "subsystem": "animation",
+  "role": "physics-driven locomotion"
+ },
+ {
+  "class": "VehicleLocomotion",
+  "vtable_va_hex": "",
+  "subsystem": "animation",
+  "role": "vehicle locomotion"
+ },
+ {
+  "class": "ActorAnimation",
+  "vtable_va_hex": "",
+  "subsystem": "animation",
+  "role": "an actor's animation"
+ },
+ {
+  "class": "AnimationPlayer",
+  "vtable_va_hex": "",
+  "subsystem": "animation",
+  "role": "plays an animation on a rig"
+ },
+ {
+  "class": "PlayAnimationAction",
+  "vtable_va_hex": "",
+  "subsystem": "animation",
+  "role": "action: play an animation"
+ },
+ {
+  "class": "PlayIdleAnimationAction",
+  "vtable_va_hex": "",
+  "subsystem": "animation",
+  "role": "action: play idle animation"
+ },
+ {
+  "class": "HoldAnimationAction",
+  "vtable_va_hex": "",
+  "subsystem": "animation",
+  "role": "action: hold on an animation frame"
+ },
+ {
+  "class": "ActionButton::GetInCar",
+  "vtable_va_hex": "0x0",
+  "subsystem": "action",
+  "role": "action-button: get in car"
+ },
+ {
+  "class": "ActionButton::OpenDoor",
+  "vtable_va_hex": "0x0",
+  "subsystem": "action",
+  "role": "action-button: open a door"
+ },
+ {
+  "class": "ActionButton::AutoPlayAnimInOut",
+  "vtable_va_hex": "0x0",
+  "subsystem": "animation",
+  "role": "action-button: auto play in/out animation"
+ }
+]

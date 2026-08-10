@@ -1,0 +1,9 @@
+{
+ "file": "Simpsons.exe",
+ "md5": "b3a47b881eec97745424b1e2c86cdcaf",
+ "sha1": "3f8ac728f373116b1cf19211eae3ad31577a4c1e",
+ "size": 2850816,
+ "image_base": "0x00400000",
+ "arch": "x86",
+ "aslr": false
+}

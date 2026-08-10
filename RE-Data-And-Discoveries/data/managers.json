@@ -1,0 +1,260 @@
+[
+ {
+  "manager": "MovingSoundManager",
+  "vtable_va": "0x00608E94",
+  "category": "Audio",
+  "role": "positional/moving sound sources"
+ },
+ {
+  "manager": "Sound::daSoundDynaLoadManager",
+  "vtable_va": "0x0060B194",
+  "category": "Audio",
+  "role": "dynamic sound streaming/loading"
+ },
+ {
+  "manager": "Sound::daSoundPlayerManager",
+  "vtable_va": "0x0060B1E0",
+  "category": "Audio",
+  "role": "sound playback voices"
+ },
+ {
+  "manager": "Sound::daSoundRenderingManager",
+  "vtable_va": "0x0060A944",
+  "category": "Audio",
+  "role": "sound mixing/rendering"
+ },
+ {
+  "manager": "Sound::daSoundResourceManager",
+  "vtable_va": "0x0060A8C8",
+  "category": "Audio",
+  "role": "sound resource pool (daSoundResourceData)"
+ },
+ {
+  "manager": "SoundManager",
+  "vtable_va": "0x0060B300",
+  "category": "Audio",
+  "role": "top-level sound (C18/C19)"
+ },
+ {
+  "manager": "ActionButtonManager",
+  "vtable_va": "0x00616D28",
+  "category": "Engine & Resource",
+  "role": "context action buttons (C42)"
+ },
+ {
+  "manager": "AnimEntityDSGManager",
+  "vtable_va": "0x0060B72C",
+  "category": "Engine & Resource",
+  "role": "animated entity DSG objects (C42/C34)"
+ },
+ {
+  "manager": "HeapManager",
+  "vtable_va": "0x00612EA0",
+  "category": "Engine & Resource",
+  "role": "memory heap allocation (C39)"
+ },
+ {
+  "manager": "InputManager",
+  "vtable_va": "0x00614428",
+  "category": "Engine & Resource",
+  "role": "controller/keyboard/mouse input (C37)"
+ },
+ {
+  "manager": "LoadingManager",
+  "vtable_va": "0x00613A7C",
+  "category": "Engine & Resource",
+  "role": "the level load sequence (C30)"
+ },
+ {
+  "manager": "MemoryCardManager",
+  "vtable_va": "0x00607514",
+  "category": "Engine & Resource",
+  "role": "save-device / memory card (C27)"
+ },
+ {
+  "manager": "radLoadManager",
+  "vtable_va": "0x005F829C",
+  "category": "Engine & Resource",
+  "role": "RadCore async resource loading"
+ },
+ {
+  "manager": "tLoadManager",
+  "vtable_va": "0x005F8884",
+  "category": "Engine & Resource",
+  "role": "Pure3D asset loading (C1)"
+ },
+ {
+  "manager": "CharacterSheetManager",
+  "vtable_va": "0x0061116C",
+  "category": "Gameplay & Mission",
+  "role": "the player's progress sheet/save state (C27)"
+ },
+ {
+  "manager": "ChaseManager",
+  "vtable_va": "0x006077FC",
+  "category": "Gameplay & Mission",
+  "role": "the police chase/pursuit (C31) \u2014 the 'chaos' manager"
+ },
+ {
+  "manager": "CoinManager",
+  "vtable_va": "0x006077E0",
+  "category": "Gameplay & Mission",
+  "role": "coins spawned/collected (C32)"
+ },
+ {
+  "manager": "GameDataManager",
+  "vtable_va": "0x00607618",
+  "category": "Gameplay & Mission",
+  "role": "game data / save records (C27)"
+ },
+ {
+  "manager": "GameplayManager",
+  "vtable_va": "0x00612D00",
+  "category": "Gameplay & Mission",
+  "role": "top-level gameplay state (C30)"
+ },
+ {
+  "manager": "HitnRunManager",
+  "vtable_va": "0x00608D3C",
+  "category": "Gameplay & Mission",
+  "role": "the Hit & Run meter (C31)"
+ },
+ {
+  "manager": "MissionManager",
+  "vtable_va": "0x00612B6C",
+  "category": "Gameplay & Mission",
+  "role": "active mission + objectives (C16)"
+ },
+ {
+  "manager": "RewardsManager",
+  "vtable_va": "0x006111EC",
+  "category": "Gameplay & Mission",
+  "role": "unlockable rewards (cards/costumes/cars, C32)"
+ },
+ {
+  "manager": "SuperSprintManager",
+  "vtable_va": "0x0060688C",
+  "category": "Gameplay & Mission",
+  "role": "the 2-player SuperSprint bonus mode"
+ },
+ {
+  "manager": "TutorialManager",
+  "vtable_va": "0x00610CF0",
+  "category": "Gameplay & Mission",
+  "role": "tutorial prompts (C44)"
+ },
+ {
+  "manager": "BreakablesManager",
+  "vtable_va": "0x0060B758",
+  "category": "Navigation & World",
+  "role": "breakable world objects (glass/props, C32)"
+ },
+ {
+  "manager": "InteriorManager",
+  "vtable_va": "0x00613C48",
+  "category": "Navigation & World",
+  "role": "world\u2194interior swap (C41)"
+ },
+ {
+  "manager": "PathManager",
+  "vtable_va": "0x006072A8",
+  "category": "Navigation & World",
+  "role": "the path/waypoint graph for AI navigation (C13)"
+ },
+ {
+  "manager": "RoadManager",
+  "vtable_va": "0x0060B6D0",
+  "category": "Navigation & World",
+  "role": "the road network traffic drives on (C13/C46)"
+ },
+ {
+  "manager": "WorldCollisionSolverAgentManager",
+  "vtable_va": "0x0060895C",
+  "category": "Physics & Collision",
+  "role": "world collision solver agents (C11)"
+ },
+ {
+  "manager": "sim::CollisionManager",
+  "vtable_va": "0x005F339C",
+  "category": "Physics & Collision",
+  "role": "the collision system (C11)"
+ },
+ {
+  "manager": "sim::SimUnitsManager",
+  "vtable_va": "0x005F36F8",
+  "category": "Physics & Collision",
+  "role": "the sim rigid-body units (C35)"
+ },
+ {
+  "manager": "CGuiManager",
+  "vtable_va": "0x00610C48",
+  "category": "Rendering & UI",
+  "role": "the UI screen stack per context (C38)"
+ },
+ {
+  "manager": "FeResourceManager",
+  "vtable_va": "0x005F43F4",
+  "category": "Rendering & UI",
+  "role": "front-end (Scrooby) resources (C21)"
+ },
+ {
+  "manager": "PresentationManager",
+  "vtable_va": "0x00610D84",
+  "category": "Rendering & UI",
+  "role": "presentation/HUD/transition presentation (C40)"
+ },
+ {
+  "manager": "RenderManager",
+  "vtable_va": "0x0060BFC0",
+  "category": "Rendering & UI",
+  "role": "the render pipeline (C33)"
+ },
+ {
+  "manager": "Scrooby::ResourceManager",
+  "vtable_va": "0x005F4364",
+  "category": "Rendering & UI",
+  "role": "Scrooby UI resources (C21)"
+ },
+ {
+  "manager": "ActorManager",
+  "vtable_va": "0x00615A8C",
+  "category": "World & AI",
+  "role": "owns the actor pool (PreallocateActors, C44)"
+ },
+ {
+  "manager": "AvatarManager",
+  "vtable_va": "0x00608D80",
+  "category": "World & AI",
+  "role": "the player avatar(s)"
+ },
+ {
+  "manager": "CharacterManager",
+  "vtable_va": "0x00607ADC",
+  "category": "World & AI",
+  "role": "owns all Character/NPC objects (C25)"
+ },
+ {
+  "manager": "ParkedCarManager",
+  "vtable_va": "0x006077CC",
+  "category": "World & AI",
+  "role": "the parked, enterable cars around the map"
+ },
+ {
+  "manager": "PedestrianManager",
+  "vtable_va": "0x006078A8",
+  "category": "World & AI",
+  "role": "spawns/updates the pedestrian crowd (C45)"
+ },
+ {
+  "manager": "SpawnManager",
+  "vtable_va": "0x0060785C",
+  "category": "World & AI",
+  "role": "runs locator spawn points (C47)"
+ },
+ {
+  "manager": "TrafficManager",
+  "vtable_va": "0x00607928",
+  "category": "World & AI",
+  "role": "spawns/updates road traffic (C46)"
+ }
+]
