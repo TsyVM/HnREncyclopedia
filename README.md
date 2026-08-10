@@ -208,12 +208,6 @@ A companion to the chapters: the exhaustive, categorized index of the whole game
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00599C&height=3&section=header"/>
 
-## 📈 Status & Open Items
-
-> ✅ **This edition is complete** — **all 51 chapters** (C1–C51), a 24-table **RE-Data** JSON backbone, are written to full depth (a hub plus 5–9 deep-dive pages each), plus the 10-file **Legend** master index. Chapters **C37** (Options / settings), **C38** (Extending the Menu System), and **C39** (Engine Limits & exceeding them) extend the modding coverage, grounded in the **SAHRDiag** static + live-capture evidence. Every internal link resolves; no scaffolds remain.
-
-> 🔎 **Open items — mostly closed.** Of the three long-standing ⏳ items: **member offsets are recovered** — 1,917 verified offsets across 694 of the 1,207 classes (`DonutsSDK/data/member_offsets.csv`, C23.1); the **NIS "format" is resolved** — not a bespoke format but a composition of decoded ones (RSD audio + Pure3D + choreo + scripts, C17.4). The one genuinely-open item is the **P3DZ codec** — now *identified* as Radical's `p3dcompress v1.0.0 (with ATG 2.0)` and characterized as LZSS-family, but not yet bit-exact (C1.9). **Sky/atmosphere has no code system** — verified to be art (C33.3).
-
 ### Levels, missions & maps — where they live
 
 The game's content structure gets first-class, dedicated coverage:
